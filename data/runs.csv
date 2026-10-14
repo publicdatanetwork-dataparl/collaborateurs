@@ -1,0 +1,27 @@
+run_id,date,chambre,statut,date_source,n_elus,n_affectations,n_arrivees,n_departs,n_transferts,message
+36620272251,2026-09-29,assemblee,initialisation,,576,2073,0,0,0,
+36620272251,2026-09-29,senat,initialisation,2026-09-28,347,905,0,0,0,
+36675707308,2026-09-30,senat,ok,2026-09-29,347,905,1,1,0,
+36822327890,2026-10-01,assemblee,ok,,576,2073,4,4,0,
+36822327890,2026-10-01,senat,bloque,2026-09-30,170,452,0,0,0,source incomplète : 452 affectations / 170 élus (planchers 400 / 200)
+36971159478,2026-10-02,assemblee,ok,,568,2041,12,44,0,
+36971159478,2026-10-02,senat,bloque,2026-10-01,280,742,0,0,0,67 élus disparus de la source (> MAX_ELUS_SORTANTS=10) : renouvellement à valider avec --dry-run puis --force. groupes sans sigle (compléter collabs/groupes.py) : Aucun
+37101680831,2026-10-03,assemblee,ok,,568,2045,7,3,0,
+37101680831,2026-10-03,senat,bloque,2026-10-02,280,743,0,0,0,67 élus disparus de la source (> MAX_ELUS_SORTANTS=10) : renouvellement à valider avec --dry-run puis --force. groupes sans sigle (compléter collabs/groupes.py) : Aucun
+37111732718,2026-10-01,senat,ok,2026-10-02,280,743,6,168,0,67 élu(s) sortant(s) confirmé(s) par la liste officielle
+37270158831,2026-10-05,senat,ok,2026-10-04,280,742,1,2,0,
+37421070497,2026-10-06,assemblee,ok,,569,2042,6,9,0,
+37421070497,2026-10-06,senat,ok,2026-10-05,281,747,6,1,0,
+37578927781,2026-10-07,assemblee,erreur,,0,0,0,0,0,"source illisible : RetryError: HTTPSConnectionPool(host='data.assemblee-nationale.fr', port=443): Max retries exceeded with url: /static/openData/repository/17/amo/collaborateurs_csv_opendata/liste_collaborateurs_libre_office.csv (Caused by ResponseError('too many 503 error responses'))"
+37578927781,2026-10-07,senat,ok,2026-10-06,281,748,1,0,0,"groupes sans sigle (compléter collabs/groupes.py) : UCI, UNT"
+37735031171,2026-10-08,assemblee,ok,,569,2049,11,4,0,
+37735031171,2026-10-08,senat,ok,2026-10-07,283,750,2,0,0,"groupes sans sigle (compléter collabs/groupes.py) : UCI, UNT"
+37847946302,2026-10-08,europarl,initialisation,,81,458,0,0,0,81 eurodéputés français
+37854242996,2026-10-09,europarl,ok,,81,536,78,0,0,81 eurodéputés français
+37891148082,2026-10-09,senat,ok,2026-10-08,286,752,3,1,0,"groupes sans sigle (compléter collabs/groupes.py) : UCI, UNT"
+38029198479,2026-10-10,assemblee,ok,,569,2056,9,2,0,"groupes AN indisponibles : HTTPSConnectionPool(host='data.assemblee-nationale.fr', port=443): Max retries exceeded with url: /static/openData/repository/17/amo/deputes_actifs_csv_opendata/liste_deputes_libre_office.csv (Caused by ResponseError('too many 503 error responses'))"
+38029198479,2026-10-10,senat,ok,2026-10-09,287,752,1,1,0,"groupes sans sigle (compléter collabs/groupes.py) : UCI, UNT"
+38116438238,2026-10-11,assemblee,ok,,568,2053,4,7,0,"ATTENTION 1 cas d'orthographe variable à trancher (data/doutes.csv) : « de dulphe hubert jacquelin » -> « de hubert jacquelin » (memes_elus, Hubert de Jacquelin)"
+38116438238,2026-10-11,senat,ok,2026-10-10,290,758,6,0,0,"groupes sans sigle (compléter collabs/groupes.py) : UCI, UNT"
+38210417481,2026-10-12,senat,ok,2026-10-11,291,759,1,0,0,
+38354315267,2026-10-13,senat,ok,2026-10-12,298,771,12,0,0,1 sénateur(s) sans matricule ODSEN : Claudie FAUCON

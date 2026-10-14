@@ -1,0 +1,414 @@
+id,date_event,chambre,type,collab_cle,collab_nom,collab_prenom,collab_civilite,elu_cle,elu_id,elu_nom,elu_groupe,elu_origine_cle,elu_origine_id,elu_origine_nom,elu_origine_groupe,fonction,contexte,source,confiance,date_source,run_id
+ae6f939d27a1273e,2026-09-30,senat,arrivee,mesnier nathan,MESNIER,Nathan,M.,corinne narassiguin,18231D,Corinne NARASSIGUIN,SER,,,,,,,live,bot,2026-09-29,36675707308
+ee7cca14bef3e8be,2026-09-30,senat,depart,sibert tristan,SIBERT,Tristan,M.,bruno rojouan,20020P,Bruno ROJOUAN,LR,,,,,,,live,bot,2026-09-29,36675707308
+08374bfdd10ea799,2026-10-01,assemblee,arrivee,abel hermel,Hermel,Abel,,PA719512,PA719512,Corinne Vignon,EPR,,,,,,,live,bot,,36822327890
+7bd679d9b4780b94,2026-10-01,assemblee,depart,bagayoko yssa,Bagayoko,Yssa,,PA795672,PA795672,Arnaud Le Gall,LFI-NFP,,,,,,,live,bot,,36822327890
+840966ab0bcf6b77,2026-10-01,assemblee,depart,constance le moulec,Le Moulec,Constance,,PA794442,PA794442,Laurence Robert-Dehault,RN,,,,,,,live,bot,,36822327890
+5d70d335eb2c0a31,2026-10-01,assemblee,arrivee,dagorne emma,Dagorne,Emma,,PA794810,PA794810,Louise Morel,Dem,,,,,,,live,bot,,36822327890
+5ecad94e9992f95c,2026-10-01,assemblee,arrivee,demangeot teddy,Demangeot,Teddy,,PA718674,PA718674,Olga Givernet,EPR,,,,,,,live,bot,,36822327890
+d763b2d695a633ec,2026-10-01,assemblee,arrivee,judas margot,Judas,Margot,,PA793122,PA793122,Romain Daubié,Dem,,,,,,,live,bot,,36822327890
+badc8be36cea31dd,2026-10-01,assemblee,depart,maazi yanis,Maazi,Yanis,,PA841531,PA841531,Shéhérazade Bentorki,LFI-NFP,,,,,,,live,bot,,36822327890
+4b75d0df63e8fd6b,2026-10-01,assemblee,depart,quentin taieb,Taieb,Quentin,,PA878242,PA878242,Antoine Valentin,UDR,,,,,,,live,bot,,36822327890
+0210f80ceae2238f,2026-10-02,assemblee,depart,alex frederiksen,Frederiksen,Alex,,PA841131,PA841131,Manon Bouquin,RN,,,,,,elu_sortant,live,bot,,36971159478
+a8868f5c650f1d65,2026-10-02,assemblee,arrivee,alexandre bour,Bour,Alexandre,,PA841479,PA841479,Frédéric Weber,RN,,,,,,,live,bot,,36971159478
+38ad1f6bb37938f0,2026-10-02,assemblee,depart,alexis david,David,Alexis,,PA794906,PA794906,Gabriel Amard,LFI-NFP,,,,,,elu_sortant,live,bot,,36971159478
+50d314e706e979a1,2026-10-02,assemblee,depart,aloy souhayb,Aloy,Souhayb,,PA793944,PA793944,Alexandra Martin (Gironde),EPR,,,,,,,live,bot,,36971159478
+eb8056374bc9921b,2026-10-02,assemblee,depart,asselot samir,Asselot,Samir,,PA794906,PA794906,Gabriel Amard,LFI-NFP,,,,,,elu_sortant,live,bot,,36971159478
+819e17be001fe3d8,2026-10-02,assemblee,depart,aubry caffet sophie,Aubry-Caffet,Sophie,,PA718884,PA718884,Valérie Bazin-Malgras,DR,,,,,,elu_sortant,live,bot,,36971159478
+52239b6eb88cd0c7,2026-10-02,assemblee,depart,aurelie loeillet,Loeillet,Aurélie,,PA719052,PA719052,Loïc Kervran,HOR,,,,,,elu_sortant,live,bot,,36971159478
+1bd22d2492a04fc4,2026-10-02,assemblee,depart,aurelie mitteault,Mitteault,Aurélie,,PA793572,PA793572,Christophe Plassard,HOR,,,,,,elu_sortant,live,bot,,36971159478
+face9242b38022d0,2026-10-02,assemblee,arrivee,aurelie monteil,Monteil,Aurélie,,PA1654,PA1654,François Hollande,SOC,,,,,,,live,bot,,36971159478
+219615e6796ae982,2026-10-02,assemblee,depart,bastien coriton,Coriton,Bastien,,PA774958,PA774958,Gérard Leseul,SOC,,,,,,,live,bot,,36971159478
+84e7481c9eaa68af,2026-10-02,assemblee,arrivee,benoit roseline,Benoit,Roseline,,PA795644,PA795644,Nathalie Da Conceicao Carvalho,RN,,,,,,,live,bot,,36971159478
+55f3a5d2e5407bc6,2026-10-02,assemblee,depart,bounie julien,Bounie,Julien,,PA719272,PA719272,Frédérique Meunier,DR,,,,,,,live,bot,,36971159478
+a3f1bea6b4cc3387,2026-10-02,assemblee,depart,bouteillon louis,Bouteillon,Louis,,PA841047,PA841047,François-Xavier Ceccoli,DR,,,,,,,live,bot,,36971159478
+514fcf26d027d7c4,2026-10-02,assemblee,depart,camille chiesa,Chiesa,Camille,,PA795466,PA795466,Ersilia Soudais,LFI-NFP,,,,,,,live,bot,,36971159478
+2c68d0eff8dfd999,2026-10-02,assemblee,depart,camille revolat,Révolat,Camille,,PA793572,PA793572,Christophe Plassard,HOR,,,,,,elu_sortant,live,bot,,36971159478
+7c0c9bf2b0a2017b,2026-10-02,assemblee,depart,carceller jordi vives,Vives Carceller,Jordi,,PA793928,PA793928,Edwige Diaz,RN,,,,,,elu_sortant,live,bot,,36971159478
+3cd1d8886645736b,2026-10-02,assemblee,depart,charlie vairetty,Vairetty,Charlie,,PA722190,PA722190,Gabriel Attal,EPR,,,,,,,live,bot,,36971159478
+de2bf7cb05180b79,2026-10-02,assemblee,depart,charron pierre,Charron,Pierre,,PA795912,PA795912,Laure Lavalette,RN,,,,,,,live,bot,,36971159478
+5bcbd4e18dacdab5,2026-10-02,assemblee,depart,chenadec francoise le,Le Chenadec,Françoise,,PA330008,PA330008,Xavier Breton,DR,,,,,,,live,bot,,36971159478
+08934dbae39d9f68,2026-10-02,assemblee,depart,chenadec francoise le,Le Chenadec,Françoise,,PA608416,PA608416,Patrick Hetzel,DR,,,,,,,live,bot,,36971159478
+42506e993942a032,2026-10-02,assemblee,depart,christine dumas,Dumas,Christine,,PA793928,PA793928,Edwige Diaz,RN,,,,,,elu_sortant,live,bot,,36971159478
+56d9c86aa3a7e7c8,2026-10-02,assemblee,depart,christophe seigneuret,Seigneuret,Christophe,,PA331582,PA331582,Philippe Vigier,Dem,,,,,,,live,bot,,36971159478
+1f38fa9195222154,2026-10-02,assemblee,depart,clemence dumas naveys,Naveys-Dumas,Clémence,,PA793928,PA793928,Edwige Diaz,RN,,,,,,elu_sortant,live,bot,,36971159478
+c57d1b18882447fe,2026-10-02,assemblee,depart,clementine verron,Verron,Clémentine,,PA718884,PA718884,Valérie Bazin-Malgras,DR,,,,,,elu_sortant,live,bot,,36971159478
+88c0bc008b42901f,2026-10-02,assemblee,arrivee,colin mauchand,Mauchand,Colin,,PA841801,PA841801,Danièle Carteron,EPR,,,,,,,live,bot,,36971159478
+eca32c0d59081dcb,2026-10-02,assemblee,arrivee,corre laura,Corré,Laura,,PA842227,PA842227,Joseph Rivière,RN,,,,,,,live,bot,,36971159478
+8ee6d4361fd3b96c,2026-10-02,assemblee,depart,david quentin,Quentin,David,,PA841131,PA841131,Manon Bouquin,RN,,,,,,elu_sortant,live,bot,,36971159478
+7c8eaee307953396,2026-10-02,assemblee,depart,de melody witte,De Witte,Melody,,PA796034,PA796034,Frank Giletti,RN,,,,,,elu_sortant,live,bot,,36971159478
+39793482ec65ce5b,2026-10-02,assemblee,depart,deruem manon,Deruem,Manon,,PA841075,PA841075,Sylvie Josserand,RN,,,,,,elu_sortant,live,bot,,36971159478
+c65b3981284abdd9,2026-10-02,assemblee,depart,dorian lajunie,Lajunie,Dorian,,PA841075,PA841075,Sylvie Josserand,RN,,,,,,elu_sortant,live,bot,,36971159478
+e0520d93292c98c0,2026-10-02,assemblee,depart,duault le philippe,Le Duault,Philippe,,PA841327,PA841327,Fabrice Roussel,SOC,,,,,,,live,bot,,36971159478
+4b971d754a4947aa,2026-10-02,assemblee,arrivee,elsa plisson,Plisson,Elsa,,PA719930,PA719930,Boris Vallaud,SOC,,,,,,,live,bot,,36971159478
+8f8cd89ad8586697,2026-10-02,assemblee,depart,esteban maillot,Maillot,Esteban,,PA793928,PA793928,Edwige Diaz,RN,,,,,,elu_sortant,live,bot,,36971159478
+0c2415e678d5b848,2026-10-02,assemblee,depart,eva suarez,Suarez,Eva,,PA794906,PA794906,Gabriel Amard,LFI-NFP,,,,,,elu_sortant,live,bot,,36971159478
+be0988c095e6f6d7,2026-10-02,assemblee,depart,fili lorella,Fili,Lorella,,PA794906,PA794906,Gabriel Amard,LFI-NFP,,,,,,elu_sortant,live,bot,,36971159478
+1aa4966f9186a4d0,2026-10-02,assemblee,depart,francois heduin,Heduin,François,,PA722070,PA722070,Pierre Henriet,HOR,,,,,,,live,bot,,36971159478
+554a76a8099b9481,2026-10-02,assemblee,arrivee,francois pierre,François,Pierre,,PA842073,PA842073,Gaëtan Dussausaye,RN,,,,,,,live,bot,,36971159478
+c6b4ab3194636ccb,2026-10-02,assemblee,depart,fresse pauline,Fresse,Pauline,,PA842073,PA842073,Gaëtan Dussausaye,RN,,,,,,,live,bot,,36971159478
+b696c7ac9ccdddb8,2026-10-02,assemblee,arrivee,gangand mathis,Gangand,Mathis,,PA841749,PA841749,Tiffany Joncour,RN,,,,,,,live,bot,,36971159478
+f7b98f00888a23f8,2026-10-02,assemblee,arrivee,gir sylvie,Gir,Sylvie,,PA608416,PA608416,Patrick Hetzel,DR,,,,,,,live,bot,,36971159478
+a6cb0e8181160a38,2026-10-02,assemblee,depart,gravelat mathis,Gravelat,Mathis,,PA793094,PA793094,Nicolas Ray,DR,,,,,,,live,bot,,36971159478
+a0d39cca6ffe2b71,2026-10-02,assemblee,arrivee,gregoire houdan,Houdan,Grégoire,,PA841575,PA841575,Frédéric-Pierre Vos,RN,,,,,,,live,bot,,36971159478
+5c68551bf97d0ce6,2026-10-02,assemblee,arrivee,gribovalle juliette,Gribovalle,Juliette,,PA643175,PA643175,Stella Dupont,NI,,,,,,,live,bot,,36971159478
+a40ecea2f38a316d,2026-10-02,assemblee,depart,grillat stephane,Grillat,Stéphane,,PA718884,PA718884,Valérie Bazin-Malgras,DR,,,,,,elu_sortant,live,bot,,36971159478
+8e490edc4eab15de,2026-10-02,assemblee,depart,hager jacquemin,Jacquemin,Hager,,PA793928,PA793928,Edwige Diaz,RN,,,,,,elu_sortant,live,bot,,36971159478
+0797f73d97911f50,2026-10-02,assemblee,depart,julien prissette,Prissette,Julien,,PA794906,PA794906,Gabriel Amard,LFI-NFP,,,,,,elu_sortant,live,bot,,36971159478
+f30c227b7d6c63f2,2026-10-02,assemblee,depart,kiss richard,Kiss,Richard,,PA718884,PA718884,Valérie Bazin-Malgras,DR,,,,,,elu_sortant,live,bot,,36971159478
+44004e1961a8ff9b,2026-10-02,assemblee,depart,laurence leone,Leone,Laurence,,PA794182,PA794182,Jean-Yves Bonnefoy,DR,,,,,,,live,bot,,36971159478
+8a2c4fcb84dfa1a2,2026-10-02,assemblee,depart,lejeune ludwig speter,Speter-Lejeune,Ludwig,,PA719052,PA719052,Loïc Kervran,HOR,,,,,,elu_sortant,live,bot,,36971159478
+0aba0f83df02187a,2026-10-02,assemblee,depart,leo reuter,Reuter,Léo,,PA841131,PA841131,Manon Bouquin,RN,,,,,,elu_sortant,live,bot,,36971159478
+47d6a658b5847000,2026-10-02,assemblee,depart,lopes magnuson,Lopes,Magnuson,,PA719052,PA719052,Loïc Kervran,HOR,,,,,,elu_sortant,live,bot,,36971159478
+4844721aebacc2a5,2026-10-02,assemblee,arrivee,marjorie peyre,Peyre,Marjorie,,PA793362,PA793362,José Gonzalez,RN,,,,,,,live,bot,,36971159478
+da9724e5f04b9670,2026-10-02,assemblee,depart,maxime torrente,Torrente,Maxime,,PA793572,PA793572,Christophe Plassard,HOR,,,,,,elu_sortant,live,bot,,36971159478
+c92f32af4f204d46,2026-10-02,assemblee,depart,molina thomas,Molina,Thomas,,PA796034,PA796034,Frank Giletti,RN,,,,,,elu_sortant,live,bot,,36971159478
+f6f4ebbe979af92a,2026-10-02,assemblee,depart,parent vanessa,Parent,Vanessa,,PA793572,PA793572,Christophe Plassard,HOR,,,,,,elu_sortant,live,bot,,36971159478
+fa10e4d31cb872af,2026-10-02,assemblee,depart,pierre rey,Rey,Pierre,,PA841075,PA841075,Sylvie Josserand,RN,,,,,,elu_sortant,live,bot,,36971159478
+eae6bd6a15c99668,2026-10-03,assemblee,arrivee,andrieu baptiste jean,Andrieu,Jean-Baptiste,,PA793146,PA793146,Nicolas Dragon,RN,,,,,,,live,bot,,37101680831
+5dd86b7adb1cef76,2026-10-03,assemblee,arrivee,bourgoin thome victor,Bourgoin Thomé,Victor,,PA2952,PA2952,Jean-Luc Warsmann,LIOT,,,,,,,live,bot,,37101680831
+22eaf36593a40b85,2026-10-03,assemblee,arrivee,brunet florent,Brunet,Florent,,PA793780,PA793780,Christine Arrighi,EcoS,,,,,,,live,bot,,37101680831
+1f2b28e7441508dc,2026-10-03,assemblee,depart,chaudet coline,Chaudet,Coline,,PA857021,PA857021,Alim Latrèche,EPR,,,,,,,live,bot,,37101680831
+84990805fca8aa3b,2026-10-03,assemblee,arrivee,de hubert jacquelin,de Jacquelin,Hubert,,PA794502,PA794502,Michaël Taverne,RN,,,,,,,live,bot,,37101680831
+6a9651674e33f599,2026-10-03,assemblee,arrivee,guiral loup,Guiral,Loup,,PA842105,PA842105,Raphaël Arnault,LFI-NFP,,,,,,,live,bot,,37101680831
+adc0be9e19619549,2026-10-03,assemblee,depart,hilsum martin,Hilsum,Martin,,PA795076,PA795076,Sandrine Rousseau,EcoS,,,,,,,live,bot,,37101680831
+5e989d3764c774ea,2026-10-03,assemblee,depart,jallois mathis,Jallois,Mathis,,PA841563,PA841563,Claire Marais-Beuil,RN,,,,,,,live,bot,,37101680831
+bd996b45b7dc81a8,2026-10-03,assemblee,arrivee,mathis schlecht yann,Schlecht-Mathis,Yann,,PA717379,PA717379,Sylvain Maillard,EPR,,,,,,,live,bot,,37101680831
+d5687c1075e7a2e1,2026-10-03,assemblee,arrivee,saou sofia,Saou,Sofia,,PA841023,PA841023,Pierre-Yves Cadalen,LFI-NFP,,,,,,,live,bot,,37101680831
+134ac7ad62fbb860,2026-10-01,senat,depart,abderrahim yasmine,ABDERRAHIM,Yasmine,Mme,cazebonne samantha,19057M,Samantha CAZEBONNE,RDPI,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+1dced8e7fc0e47eb,2026-10-01,senat,depart,achour ben bochra,BEN ACHOUR,Bochra,Mme,duranton nicole,14249W,Nicole DURANTON,RDPI,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+7f84b5a80378a1fb,2026-10-01,senat,depart,adeline vigneau,VIGNEAU,Adeline,Mme,grand jean pierre,14211G,Jean-Pierre GRAND,INDEP,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+f45aafce646cade9,2026-10-01,senat,depart,adrien robelet,ROBELET,Adrien,M.,chantal deseyne,14217N,Chantal DESEYNE,LR,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+e11fb33f2d02f3ab,2026-10-01,senat,depart,alami el samira,EL ALAMI,Samira,Mme,cabanel henri,14207L,Henri CABANEL,RDSE,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+da0fbcb60b88c703,2026-10-01,senat,depart,alcide kerwin,ALCIDE,Kerwin,M.,horth laure marie phinera,20146D,Marie-Laure PHINERA-HORTH,RDPI,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+3d84910264e59260,2026-10-01,senat,depart,alexandra darinot,DARINOT,Alexandra,Mme,frederique gerbaud,14355X,Frédérique GERBAUD,LR,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+66c9826595d1b124,2026-10-01,senat,depart,alexandra fisseau,FISSEAU,Alexandra,Mme,de jean louis nicolay,14169X,Louis-Jean de NICOLAY,LR,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+7cb8e06e69467cef,2026-10-01,senat,depart,alexandra sore,SORE,Alexandra,Mme,claude kern,14073Q,Claude KERN,UC,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+0914f34a1ec85a3e,2026-10-01,senat,depart,alexandra sore,SORE,Alexandra,Mme,de jean louis nicolay,14169X,Louis-Jean de NICOLAY,LR,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+bf04d3e9a476abbd,2026-10-01,senat,depart,alexis robin,ROBIN,Alexis,M.,alberic de montgolfier,08011M,Albéric de MONTGOLFIER,LR,,,,,,,live,bot,2026-10-02,37111732718
+3f0a448c1e3a075b,2026-10-01,senat,depart,aloy dorian,ALOY,Dorian,M.,alain cazabonne,19721W,Alain CAZABONNE,UC,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+183efc21bf82f1aa,2026-10-01,senat,depart,alphonse valery,ALPHONSE,Valéry,M.,georges patient,08073C,Georges PATIENT,RDPI,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+d22cab8c158fe06c,2026-10-01,senat,depart,anissa mokdad,MOKDAD,Anissa,Mme,rohfritsch teva,20150Y,Teva ROHFRITSCH,RDPI,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+f52540def0ce0b7b,2026-10-01,senat,depart,anne sophie vancina,VANCINA,Anne-Sophie,Mme,lopez vivette,14059S,Vivette LOPEZ,LR,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+383f53ffae437682,2026-10-01,senat,depart,anne zeller,ZELLER,Anne,Mme,pointereau remy,05012A,Rémy POINTEREAU,LR,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+48d6d7c81d8d973c,2026-10-01,senat,depart,annie couderc moneron,COUDERC MONERON,Annie,Mme,bilhac christian,20116W,Christian BILHAC,RDSE,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+c68f6ee74a34a4f9,2026-10-01,senat,depart,antoine baudino,BAUDINO,Antoine,M.,ravier stephane,14055N,Stéphane RAVIER,NI,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+b96ff935a31a312c,2026-10-01,senat,depart,archambault mathilde,ARCHAMBAULT,Mathilde,Mme,cazebonne samantha,19057M,Samantha CAZEBONNE,RDPI,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+cd1523e14b434d30,2026-10-01,senat,depart,arif sara,ARIF,Sara,Mme,emilienne poumirol,17965H,Emilienne POUMIROL,SER,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+be2197a0e9715ef8,2026-10-01,senat,depart,arnold delphine,ARNOLD,Delphine,Mme,daniel laurent,08015R,Daniel LAURENT,LR,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+d0c6af640ce4a81f,2026-10-01,senat,depart,arthur durand,DURAND,Arthur,M.,chauvet patrick,20144B,Patrick CHAUVET,UC,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+4d9675a04aea0ef2,2026-10-01,senat,depart,asta d nicolas,D'ASTA,Nicolas,M.,iacovelli xavier,19591F,Xavier IACOVELLI,RDPI,,,,,,,live,bot,2026-10-02,37111732718
+4acd2910310a6465,2026-10-01,senat,depart,athenais kouidri,KOUIDRI,Athenais,Mme,marie monier pierre,14109K,Marie-Pierre MONIER,SER,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+f0215f5bea4f8a64,2026-10-01,senat,depart,aude fougeray marie,FOUGERAY,Marie-Aude,Mme,frederique gerbaud,14355X,Frédérique GERBAUD,LR,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+d516374e5dbeb03a,2026-10-01,senat,depart,auger maryse,AUGER,Maryse,Mme,claude raynal,14225N,Claude RAYNAL,SER,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+71bef92186515d08,2026-10-01,senat,depart,auguste ott,OTT,Auguste,M.,patricia schillinger,04045F,Patricia SCHILLINGER,RDPI,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+a81f47a49e92500e,2026-10-01,senat,depart,aurelia gaston,GASTON,Aurélia,Mme,chantal deseyne,14217N,Chantal DESEYNE,LR,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+f553d69dd1cd5913,2026-10-01,senat,depart,aurelia gaston,GASTON,Aurélia,Mme,florence lassarade,19723Y,Florence LASSARADE,LR,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+67968da4d516035a,2026-10-01,senat,depart,aurora michael,AURORA,Michaël,M.,franck montauge,14257W,Franck MONTAUGÉ,SER,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+cbf3301d5c0c6390,2026-10-01,senat,depart,ayme beatrice monnet,AYME-MONNET,Béatrice,Mme,chavent goy sylvie,08056B,Sylvie GOY-CHAVENT,LR,,,,,,,live,bot,2026-10-02,37111732718
+f35011f4fc90b175,2026-10-01,senat,depart,baye ismael m,M'BAYE,Ismaël,M.,georges patient,08073C,Georges PATIENT,RDPI,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+33f8092705f42baf,2026-10-01,senat,depart,bayol philippe,BAYOL,Philippe,M.,eric jeansannetas,14121F,Éric JEANSANNETAS,SER,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+48e9693f9e26335a,2026-10-01,senat,depart,beatrice faucon,FAUCON,Béatrice,Mme,marie monier pierre,14109K,Marie-Pierre MONIER,SER,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+1cfc50a7b63d798c,2026-10-01,senat,depart,beatrice olivier,OLIVIER,Béatrice,Mme,allizard pascal,14133K,Pascal ALLIZARD,LR,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+9f088446b50c56df,2026-10-01,senat,depart,beatrice saby,SABY,Béatrice,Mme,lucien stanzione,20084G,Lucien STANZIONE,SER,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+eaeaf9bd0d697e98,2026-10-01,senat,depart,beghin elise,BEGHIN,Elise,Mme,monge poncet raymonde,20130U,Raymonde PONCET MONGE,GEST,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+4b69e41caa25322e,2026-10-01,senat,depart,begin theophile,BEGIN,Théophile,M.,francois jean longeot,14219Q,Jean-François LONGEOT,UC,,,,,,,live,bot,2026-10-02,37111732718
+69fe3efd9dc056f8,2026-10-01,senat,depart,benhaim paola,BENHAIM,Paola,Mme,fernique jacques,20100N,Jacques FERNIQUE,GEST,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+41db375c8906243d,2026-10-01,senat,depart,bensaid salim,BENSAID,Salim,M.,annick petrus,20148F,Annick PETRUS,LR,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+011c46dc68dd8e5a,2026-10-01,senat,depart,berenger sonia,BERENGER,Sonia,Mme,favreau gilbert,20038A,Gilbert FAVREAU,LR,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+eefcc1fff1330d54,2026-10-01,senat,depart,bertrand sandrine,BERTRAND,Sandrine,Mme,chaize patrick,14038Y,Patrick CHAIZE,LR,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+083a07c412a88667,2026-10-01,senat,depart,besnier remy,BESNIER,Rémy,M.,chasseing daniel,14195A,Daniel CHASSEING,INDEP,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+897478bf80ef38af,2026-10-01,senat,depart,bidon laure,BIDON,Laure,Mme,de marco monique,20142Y,Monique de MARCO,GEST,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+1468a1edb4dae4f2,2026-10-01,senat,depart,bihan erwan le,LE BIHAN,Erwan,M.,gisele jourda,14097Y,Gisèle JOURDA,SER,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+7b0097e64faae084,2026-10-01,senat,depart,bissery jocelyn,BISSERY,Jocelyn,M.,georges patient,08073C,Georges PATIENT,RDPI,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+cdbf12f2dee421ab,2026-10-01,senat,depart,bissiere michel,BISSIERE,Michel,M.,alain milon,04092N,Alain MILON,LR,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+29a1a5d9c252dfde,2026-10-01,senat,depart,biyong yannick,BIYONG,Yannick,M.,alain joyandet,95041E,Alain JOYANDET,LR,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+c8e173ec5d45c04d,2026-10-01,senat,depart,blandin christelle,BLANDIN,Christelle,Mme,chauvet patrick,20144B,Patrick CHAUVET,UC,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+4cc5ec7e3affe276,2026-10-01,senat,depart,boillot julie,BOILLOT,Julie,Mme,bacci jean,20076G,Jean BACCI,LR,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+d4dae8c9ec7250f8,2026-10-01,senat,depart,boillot julie,BOILLOT,Julie,Mme,bonnus michel,20078J,Michel BONNUS,LR,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+53de8a65af078f57,2026-10-01,senat,depart,bouchet clement veronique,BOUCHET-CLEMENT,Véronique,Mme,anne patru sophie,21421H,Anne-Sophie PATRU,UC,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+023c5bc6281671ae,2026-10-01,senat,depart,boufflers pierre,BOUFFLERS,Pierre,M.,apourceau cathy poly,19760E,Cathy APOURCEAU-POLY,CRCE-K,,,,,,,live,bot,2026-10-02,37111732718
+176a3babf0293e9f,2026-10-01,senat,depart,boulard combes florence,COMBES-BOULARD,Florence,Mme,cabanel henri,14207L,Henri CABANEL,RDSE,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+3883c001d0df1232,2026-10-01,senat,depart,bouloumou christine marie,BOULOUMOU,Marie-Christine,Mme,daniel laurent,08015R,Daniel LAURENT,LR,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+d0fd8a9ad81dc64a,2026-10-01,senat,depart,bouyssou gloria,BOUYSSOU,Gloria,Mme,claude nougein,14253S,Claude NOUGEIN,LR,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+f08b020204976f7f,2026-10-01,senat,depart,bruno simon,SIMON,Bruno,M.,duranton nicole,14249W,Nicole DURANTON,RDPI,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+ddec75db40c2f4ec,2026-10-01,senat,depart,brutinaud pellereau romain,BRUTINAUD-PELLEREAU,Romain,M.,anne patru sophie,21421H,Anne-Sophie PATRU,UC,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+e24d888daff7b4d3,2026-10-01,senat,depart,bryce ruchon,RUCHON,Bryce,M.,le rudulier stephane,20108W,Stéphane LE RUDULIER,LR,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+8f76b4300e3c33c8,2026-10-01,senat,depart,buisson du du frederique mesnil,du MESNIL du BUISSON,Frédérique,Mme,favreau gilbert,20038A,Gilbert FAVREAU,LR,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+2848863754714cc6,2026-10-01,senat,depart,butler de sarah,DE BUTLER,Sarah,Mme,de marco monique,20142Y,Monique de MARCO,GEST,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+c0bd477c907f1dcd,2026-10-01,senat,depart,calmels jerome,CALMELS,Jérôme,M.,fichet jean luc,08045X,Jean-Luc FICHET,SER,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+0622c0d23351334e,2026-10-01,senat,depart,carcy celine mathieu,CARCY-MATHIEU,Céline,Mme,claude raynal,14225N,Claude RAYNAL,SER,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+766d02981864e6a0,2026-10-01,senat,depart,cardot emilie,CARDOT,Emilie,Mme,alain joyandet,95041E,Alain JOYANDET,LR,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+e1454398206ab166,2026-10-01,senat,depart,caroline gaillard,GAILLARD,Caroline,Mme,didier mandelli,14031R,Didier MANDELLI,LR,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+50b57f1e30f106d3,2026-10-01,senat,depart,caroline grelet joly,GRELET JOLY,Caroline,Mme,alain milon,04092N,Alain MILON,LR,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+25d70d4884c2a26c,2026-10-01,senat,depart,carpin samuel,CARPIN,Samuel,M.,claude raynal,14225N,Claude RAYNAL,SER,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+5ac4358474345759,2026-10-01,senat,depart,celine taurines,TAURINES,Céline,Mme,emilienne poumirol,17965H,Emilienne POUMIROL,SER,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+e001298dbea147b4,2026-10-01,senat,depart,ceugniez marlene,CEUGNIEZ,Marlène,Mme,alain chatillon,08028W,Alain CHATILLON,LR,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+9016efb3bbc4339b,2026-10-01,senat,depart,ceyrac remi,CEYRAC,Rémi,M.,chasseing daniel,14195A,Daniel CHASSEING,INDEP,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+f28430e1a6bcae61,2026-10-01,senat,depart,charles jean marasse,MARASSE,Jean-Charles,M.,evelyne perrot,19745F,Évelyne PERROT,UC,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+f0373aaa494d6ed2,2026-10-01,senat,depart,christelle geay,GEAY,Christelle,Mme,favreau gilbert,20038A,Gilbert FAVREAU,LR,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+00e86523b01bdeff,2026-10-01,senat,depart,clara rozenberg,ROZENBERG,Clara,Mme,gisele jourda,14097Y,Gisèle JOURDA,SER,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+c254d176a8964d1c,2026-10-01,senat,depart,collas emilie,COLLAS,Emilie,Mme,didier marie,14001X,Didier MARIE,SER,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+72711a9f01574132,2026-10-01,senat,depart,comtet flavie,COMTET,Flavie,Mme,chaize patrick,14038Y,Patrick CHAIZE,LR,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+72c38066cd238ece,2026-10-01,senat,depart,cristina martineau,MARTINEAU,Cristina,Mme,devinaz gilbert luc,19251M,Gilbert-Luc DEVINAZ,RDSE,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+19fdb1fa43e21de5,2026-10-01,senat,depart,croyet maryline,CROYET,Maryline,Mme,lucien stanzione,20084G,Lucien STANZIONE,SER,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+ee46c78dd3efbda4,2026-10-01,senat,depart,d geraud ivry ogier,OGIER D IVRY,Géraud,M.,lopez vivette,14059S,Vivette LOPEZ,LR,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+e77cf56741feb5dc,2026-10-01,senat,depart,d geraud ivry ogier,OGIER D IVRY,Géraud,M.,paul vidal,21416L,Paul VIDAL,LR,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+abb947ceb36d6931,2026-10-01,senat,depart,daet marion,MARION,Daët,Mme,bernard buis,19782L,Bernard BUIS,RDPI,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+b893e625472ddf76,2026-10-01,senat,depart,de deloche jorna joseph marie,de JORNA DELOCHE,Marie-Joseph,Mme,marie pierre richer,19798U,Marie-Pierre RICHER,LR,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+55543c15a5ad5192,2026-10-01,senat,depart,de h keranflec poupard stephanie,POUPARD de KERANFLEC'H,Stéphanie,Mme,de dominique legge,08034U,Dominique de LEGGE,LR,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+5d392d0152be0b24,2026-10-01,senat,depart,de isabelle maismont,de MAISMONT,Isabelle,Mme,de jean louis nicolay,14169X,Louis-Jean de NICOLAY,LR,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+fb1fd1516a7f4ac0,2026-10-01,senat,depart,deau myriam,DEAU,Myriam,Mme,didier mandelli,14031R,Didier MANDELLI,LR,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+e1a7f72242bd1c1f,2026-10-01,senat,depart,delage patricia,DELAGE,Patricia,Mme,chasseing daniel,14195A,Daniel CHASSEING,INDEP,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+a88e9f20ecc45dd0,2026-10-01,senat,depart,denis doriane,DENIS,Doriane,Mme,eric jeansannetas,14121F,Éric JEANSANNETAS,SER,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+2f13bf35327cbcc0,2026-10-01,senat,depart,denis mardesson,MARDESSON,Denis,M.,marie pierre richer,19798U,Marie-Pierre RICHER,LR,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+25924737c0f00f30,2026-10-01,senat,depart,dominique hen le,LE HEN,Dominique,Mme,fichet jean luc,08045X,Jean-Luc FICHET,SER,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+bedd4c392b1abe90,2026-10-01,senat,depart,dominique marti,MARTI,Dominique,Mme,gisele jourda,14097Y,Gisèle JOURDA,SER,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+5c16fa444b33c231,2026-10-01,senat,depart,dominique noailletas,NOAILLETAS,Dominique,Mme,chasseing daniel,14195A,Daniel CHASSEING,INDEP,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+0e802b96e5e38eaf,2026-10-01,senat,depart,dostes romain,DOSTES,Romain,M.,de marco monique,20142Y,Monique de MARCO,GEST,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+b6007b629bb450c7,2026-10-01,senat,depart,dubreuil yann,DUBREUIL,Yann,M.,franck montauge,14257W,Franck MONTAUGÉ,SER,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+0fdae9ba6d339a04,2026-10-01,senat,depart,dumas nathalie,DUMAS,Nathalie,Mme,blanc etienne,17367Q,Étienne BLANC,LR,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+b671d723cfed5a83,2026-10-01,senat,depart,dupre gaelle,DUPRE,Gaëlle,Mme,evelyne perrot,19745F,Évelyne PERROT,UC,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+5403ef4767211fe9,2026-10-01,senat,depart,dussot sylvie,DUSSOT,Sylvie,Mme,eric jeansannetas,14121F,Éric JEANSANNETAS,SER,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+b4b35d43ea466a82,2026-10-01,senat,depart,eliott massot paul,MASSOT,Paul-Eliott,M.,franck montauge,14257W,Franck MONTAUGÉ,SER,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+7079b7781b8cf313,2026-10-01,senat,depart,emilie le petit,LE PETIT,Emilie,Mme,pointereau remy,05012A,Rémy POINTEREAU,LR,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+cd3708b65bfdf11c,2026-10-01,senat,depart,emilio perrault,PERRAULT,Emilio,M.,demas patricia,20140W,Patricia DEMAS,LR,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+94915eda45e07eb8,2026-10-01,senat,depart,eric roy van,VAN ROY,Eric,M.,fichet jean luc,08045X,Jean-Luc FICHET,SER,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+8ce31771f2ba5d7f,2026-10-01,senat,depart,espinasse laurent,ESPINASSE,Laurent,M.,grand jean pierre,14211G,Jean-Pierre GRAND,INDEP,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+33e8e311a75ff0e5,2026-10-01,senat,depart,estelle naud,NAUD,Estelle,Mme,marie monier pierre,14109K,Marie-Pierre MONIER,SER,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+4b8a3c244656dd40,2026-10-01,senat,depart,fabienne gasnier,GASNIER,Fabienne,Mme,alain cazabonne,19721W,Alain CAZABONNE,UC,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+ce4d2f3999576e44,2026-10-01,senat,depart,fabre frederique,FABRE,Frédérique,Mme,alain cazabonne,19721W,Alain CAZABONNE,UC,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+a5d1d068c5414e50,2026-10-01,senat,depart,faisandier luc,FAISANDIER,Luc,M.,harribey laurence,19725B,Laurence HARRIBEY,SER,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+b9d033118fc9ebc8,2026-10-01,senat,depart,fatou ndeye senghor,SENGHOR,Ndeye Fatou,Mme,paire sandra,21592C,Sandra PAIRE,LR,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+858d784f7e192913,2026-10-01,senat,depart,faye florence,FAYE,Florence,Mme,bilhac christian,20116W,Christian BILHAC,RDSE,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+41aa7ce3cf571a69,2026-10-01,senat,depart,faynel sherazade,FAYNEL,Shérazade,Mme,monge poncet raymonde,20130U,Raymonde PONCET MONGE,GEST,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+9a787a01c055be9c,2026-10-01,senat,depart,florine penot,PENOT,Florine,Mme,michel savin,11043H,Michel SAVIN,LR,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+063aaad5218a7954,2026-10-01,senat,depart,franck girouard lechien,LECHIEN-GIROUARD,Franck,M.,daniel gueret,20068G,Daniel GUERET,LR,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+5e16e23f9ce68584,2026-10-01,senat,depart,francois le magali,LE FRANCOIS,Magali,Mme,jouve mireille,14241N,Mireille JOUVE,RDSE,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+fa5efbc4e0197c00,2026-10-01,senat,depart,francois normant,NORMANT,François,M.,cazebonne samantha,19057M,Samantha CAZEBONNE,RDPI,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+3b98d97fd3728b67,2026-10-01,senat,depart,friedling marie,FRIEDLING,Marie,Mme,rohfritsch teva,20150Y,Teva ROHFRITSCH,RDPI,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+a1a2dd4cddc54acf,2026-10-01,senat,arrivee,galiey n tanoh,TANOH,N'Galiey,Mme,aeschlimann do marie,21071F,Marie-Do AESCHLIMANN,LR,,,,,,,live,bot,2026-10-02,37111732718
+138ff5199171d6b5,2026-10-01,senat,depart,gaspard moretto,MORETTO,Gaspard,M.,harribey laurence,19725B,Laurence HARRIBEY,SER,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+cd2c7a9b85f5d30a,2026-10-01,senat,depart,giusto veronique,GIUSTO,Véronique,Mme,henri leroy,19729F,Henri LEROY,LR,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+ff463840ccffaa76,2026-10-01,senat,depart,gomez guylaine,GOMEZ,Guylaine,Mme,harribey laurence,19725B,Laurence HARRIBEY,SER,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+4321459c4bf01139,2026-10-01,senat,depart,gonier horny marianne,HORNY-GONIER,Marianne,Mme,claude kern,14073Q,Claude KERN,UC,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+38e241974d7b7bf6,2026-10-01,senat,depart,hadouiri manale,HADOUIRI,Manale,Mme,lucien stanzione,20084G,Lucien STANZIONE,SER,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+146e386bf3910e45,2026-10-01,senat,depart,hector vogler,VOGLER,Hector,M.,fernique jacques,20100N,Jacques FERNIQUE,GEST,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+64d6752c03ca26f4,2026-10-01,senat,depart,honta paul vergez,VERGEZ-HONTA,Paul,M.,agnes canayer,14053L,Agnès CANAYER,LR,,,,,,,live,bot,2026-10-02,37111732718
+d5a05a2dad117b70,2026-10-01,senat,depart,houbron philippe,HOUBRON,Philippe,M.,daniel gueret,20068G,Daniel GUERET,LR,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+d4cff178d4a211ce,2026-10-01,senat,depart,isabelle moreno,MORENO,Isabelle,Mme,didier maingault,21634U,Didier MAINGAULT,RDPI,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+3e55ee783edb0d69,2026-10-01,senat,depart,jean marc rigaudiere,RIGAUDIERE,Jean-Marc,M.,frederique gerbaud,14355X,Frédérique GERBAUD,LR,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+ec0dca0d118cc57d,2026-10-01,senat,depart,jean michel monier,MONIER,Jean-Michel,M.,bonnus michel,20078J,Michel BONNUS,LR,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+a95bde4e4b0f2b8d,2026-10-01,senat,depart,joffre marie souleau,SOULEAU-JOFFRE,Marie,Mme,paire sandra,21592C,Sandra PAIRE,LR,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+d3fe981f66751430,2026-10-01,senat,depart,jolivet mielczarek nathalie,JOLIVET-MIELCZAREK,Nathalie,Mme,andre christophe frassa,08018U,Christophe-André FRASSA,LR,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+60cd019f56250163,2026-10-01,senat,depart,joly virginie,JOLY,Virginie,Mme,chaize patrick,14038Y,Patrick CHAIZE,LR,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+914fe84e1429b12b,2026-10-01,senat,arrivee,joris logologofolau,LOGOLOGOFOLAU,Joris,M.,robert wienie xowie,21030V,Robert Wienie XOWIE,CRCE-K,,,,,,,live,bot,2026-10-02,37111732718
+ead0c6c936e9e0f6,2026-10-01,senat,depart,julien seyssel,SEYSSEL,Julien,M.,evelyne perrot,19745F,Évelyne PERROT,UC,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+7ab137af68b60991,2026-10-01,senat,depart,kapp valerie,KAPP,Valérie,Mme,andre guiol,20072C,André GUIOL,RDSE,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+b00a9833af8fcf5a,2026-10-01,senat,depart,kauffmann lea,KAUFFMANN,Léa,Mme,fernique jacques,20100N,Jacques FERNIQUE,GEST,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+0f18f91d567158e6,2026-10-01,senat,depart,kevin marck,MARCK,Kevin,M.,patricia schillinger,04045F,Patricia SCHILLINGER,RDPI,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+f0fbd74ea12cfc7a,2026-10-01,senat,depart,laforet melanie,LAFORET,Mélanie,Mme,claude kern,14073Q,Claude KERN,UC,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+f3c8f2b5faa15383,2026-10-01,senat,depart,lanzi sacha,LANZI,Sacha,M.,bacci jean,20076G,Jean BACCI,LR,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+b1197165831a8936,2026-10-01,senat,depart,lanzi sacha,LANZI,Sacha,M.,bonnus michel,20078J,Michel BONNUS,LR,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+a7a09649c01a8abe,2026-10-01,senat,depart,lattard pierre,LATTARD,Pierre,M.,alain chatillon,08028W,Alain CHATILLON,LR,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+2332e3eea4817a83,2026-10-01,senat,depart,laufilitoga mireille,LAUFILITOGA,Mireille,Mme,kulimoetoke mikaele,20016T,Mikaele KULIMOETOKE,RDPI,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+cc3ff636922da50f,2026-10-01,senat,depart,laurence mosconi,MOSCONI,Laurence,Mme,andre guiol,20072C,André GUIOL,RDSE,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+0498bf2b25384a7e,2026-10-01,senat,depart,le lucas roux,LE ROUX,Lucas,M.,annick jacquemet,20066E,Annick JACQUEMET,UC,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+8407a12803c99b22,2026-10-01,senat,depart,lea martinovic,MARTINOVIC,Léa,Mme,arlette carlotti marie,12028B,Marie-Arlette CARLOTTI,SER,,,,,,,live,bot,2026-10-02,37111732718
+82a27b09214095a9,2026-10-01,senat,depart,lefevre marine,LEFEVRE,Marine,Mme,gruny pascale,14026U,Pascale GRUNY,LR,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+2a53191faacc22f2,2026-10-01,senat,depart,leger remy,LEGER,Rémy,M.,didier marie,14001X,Didier MARIE,SER,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+d582ffcd2dce3285,2026-10-01,senat,depart,leituva likaleto,LEITUVA,Likaleto,M.,kulimoetoke mikaele,20016T,Mikaele KULIMOETOKE,RDPI,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+102f3a550e143cd7,2026-10-01,senat,depart,lemoine olivier,LEMOINE,Olivier,M.,paul philippe,08047A,Philippe PAUL,LR,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+4a267eb5b85a8cd6,2026-10-01,senat,depart,leon thebault,THEBAULT,Léon,M.,de marco monique,20142Y,Monique de MARCO,GEST,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+814523f8bb51a8f0,2026-10-01,senat,depart,lisa longeot marie,LONGEOT,Lisa-Marie,Mme,annick jacquemet,20066E,Annick JACQUEMET,UC,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+14f94b68caac2d3c,2026-10-01,senat,depart,lise marie sarrazin,SARRAZIN,Marie-Lise,Mme,grand jean pierre,14211G,Jean-Pierre GRAND,INDEP,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+3a6c397e949f63fd,2026-10-01,senat,arrivee,livio tedeschi,TEDESCHI,Livio,M.,apourceau cathy poly,19760E,Cathy APOURCEAU-POLY,CRCE-K,,,,,,,live,bot,2026-10-02,37111732718
+7f67aa71cab502d4,2026-10-01,senat,depart,loiseau pierre yves,LOISEAU,Pierre-Yves,M.,michel savin,11043H,Michel SAVIN,LR,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+721da6d3ed2b0a6a,2026-10-01,senat,depart,lotz melissa,LOTZ,Mélissa,Mme,le rudulier stephane,20108W,Stéphane LE RUDULIER,LR,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+c76f91bdb1c0a980,2026-10-01,senat,depart,louis marie mautin,MAUTIN,Louis-Marie,M.,ravier stephane,14055N,Stéphane RAVIER,NI,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+0994db89b4208882,2026-10-01,senat,depart,louis mireille pierre,PIERRE-LOUIS,Mireille,Mme,georges patient,08073C,Georges PATIENT,RDPI,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+99030532c27840a1,2026-10-01,senat,arrivee,mairi tsangali,TSANGALI,Mairi,Mme,briante guillemont sophie,21404G,Sophie BRIANTE GUILLEMONT,,,,,,,,live,bot,2026-10-02,37111732718
+a027e9cb0661aa60,2026-10-01,senat,depart,mallem salima,MALLEM,Salima,Mme,florence lassarade,19723Y,Florence LASSARADE,LR,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+d564ddd27b9021f8,2026-10-01,senat,depart,marianne theoleyre,THEOLEYRE,Marianne,Mme,devinaz gilbert luc,19251M,Gilbert-Luc DEVINAZ,RDSE,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+a718f04e9c359ecc,2026-10-01,senat,depart,marie sammarcelli,SAMMARCELLI,Marie,Mme,alain cazabonne,19721W,Alain CAZABONNE,UC,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+c23f4e36943dc2f1,2026-10-01,senat,depart,martin xavier,MARTIN,Xavier,M.,harribey laurence,19725B,Laurence HARRIBEY,SER,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+4e0a24ce9d7303df,2026-10-01,senat,depart,mathieu soliveres,SOLIVERES,Mathieu,M.,henri leroy,19729F,Henri LEROY,LR,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+da1297f9207480b1,2026-10-01,senat,depart,maxime thuriot,THURIOT,Maxime,M.,bernard buis,19782L,Bernard BUIS,RDPI,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+e3cdb65749041097,2026-10-01,senat,depart,meradji serine,MERADJI,Sérine,Mme,monge poncet raymonde,20130U,Raymonde PONCET MONGE,GEST,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+be33454a61b3238e,2026-10-01,senat,depart,monika vassilev,VASSILEV,Monika,Mme,alain joyandet,95041E,Alain JOYANDET,LR,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+d2a87eba7502f3a5,2026-10-01,senat,depart,moreddu yannick,MOREDDU,Yannick,M.,bacci jean,20076G,Jean BACCI,LR,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+822a08943dce8f13,2026-10-01,senat,depart,mourrut pascale,MOURRUT,Pascale,Mme,lopez vivette,14059S,Vivette LOPEZ,LR,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+17334cf2befb9842,2026-10-01,senat,depart,nequey sarah,NEQUEY,Sarah,Mme,corinne feret,14281W,Corinne FÉRET,SER,,,,,,,live,bot,2026-10-02,37111732718
+559903ee4b314db1,2026-10-01,senat,depart,nicolas palmaro,PALMARO,Nicolas,M.,andre guiol,20072C,André GUIOL,RDSE,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+cc373c3dba853327,2026-10-01,senat,depart,nicolas tolini,TOLINI,Nicolas,M.,allizard pascal,14133K,Pascal ALLIZARD,LR,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+58193bcaa7cd3d90,2026-10-01,senat,depart,pattier vincent,PATTIER,Vincent,M.,andre christophe frassa,08018U,Christophe-André FRASSA,LR,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+6f7b3e006f2aa8fe,2026-10-01,senat,depart,pierre savreux,SAVREUX,Pierre,M.,gruny pascale,14026U,Pascale GRUNY,LR,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+a81c731ce9328344,2026-10-01,senat,arrivee,raphael roux,ROUX,Raphaël,M.,david margueritte,21486B,David MARGUERITTE,LR,,,,,,,live,bot,2026-10-02,37111732718
+bc85774956742312,2026-10-01,senat,depart,rodolphe rousseau,ROUSSEAU,Rodolphe,M.,chauvet patrick,20144B,Patrick CHAUVET,UC,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+859b0e4ca7b9cb93,2026-10-01,senat,depart,sandrine ugatai,UGATAI,Sandrine,Mme,kulimoetoke mikaele,20016T,Mikaele KULIMOETOKE,RDPI,,,,,,elu_sortant,live,bot,2026-10-02,37111732718
+8d776d6c20f74a29,2026-10-01,senat,arrivee,sibert tristan,SIBERT,Tristan,M.,bruno rojouan,20020P,Bruno ROJOUAN,,,,,,,,live,bot,2026-10-02,37111732718
+1adaa4829b12a98a,2026-10-01,senat,depart,sidoli yoann,SIDOLI,Yoann,M.,housseau lise marie,21415K,Marie-Lise HOUSSEAU,UC,,,,,,,live,bot,2026-10-02,37111732718
+a34d8201f1a97189,2026-10-01,senat,depart,taieb yoann,TAIEB,Yoann,M.,aeschlimann do marie,21071F,Marie-Do AESCHLIMANN,LR,,,,,,,live,bot,2026-10-02,37111732718
+af2dd946bc405a38,2026-10-05,senat,depart,blouin coline,BLOUIN,Coline,Mme,bourcier corinne,21046E,Corinne BOURCIER,INDEP,,,,,,,live,bot,2026-10-04,37270158831
+22f11ff23a48b919,2026-10-05,senat,depart,blouin coline,BLOUIN,Coline,Mme,capus emmanuel,19545Y,Emmanuel CAPUS,INDEP,,,,,,,live,bot,2026-10-04,37270158831
+f8531e41a84dac1f,2026-10-05,senat,arrivee,evano matthias,EVANO,Matthias,M.,david ros,21059K,David ROS,SER,,,,,,,live,bot,2026-10-04,37270158831
+02b5e0a40f8ee3b8,2026-10-06,assemblee,depart,adrien lauby naves,Naves-Lauby,Adrien,,PA266808,PA266808,Vincent Rolland,DR,,,,,,,live,bot,,37421070497
+f0bf86b6f7cac974,2026-10-06,assemblee,depart,adrien lauby naves,Naves-Lauby,Adrien,,PA841595,PA841595,Cendrine Chazé,DR,,,,,,,live,bot,,37421070497
+43362f48821de965,2026-10-06,assemblee,arrivee,alan borgne le,Le Borgne,Alan,,PA642734,PA642734,Éric Gérard,LIOT,,,,,,elu_entrant,live,bot,,37421070497
+799a7f2ddf522d25,2026-10-06,assemblee,depart,anais poncet,Poncet,Anaïs,,PA342415,PA342415,Marie-Noëlle Battistel,SOC,,,,,,,live,bot,,37421070497
+de76a05734ede565,2026-10-06,assemblee,depart,angeline martinez,Martinez,Angéline,,PA841893,PA841893,Céline Thiébault-Martinez,SOC,,,,,,,live,bot,,37421070497
+e6a187124620da91,2026-10-06,assemblee,depart,esteban maillot,Maillot,Esteban,,PA841737,PA841737,Jonathan Gery,RN,,,,,,,live,bot,,37421070497
+d0234b4c03c3d6d0,2026-10-06,assemblee,arrivee,francois heduin,Heduin,François,,PA722070,PA722070,Pierre Henriet,HOR,,,,,,,live,bot,,37421070497
+51dea1e406853fba,2026-10-06,assemblee,arrivee,hovelacque pauline,Hovelacque,Pauline,,PA642734,PA642734,Éric Gérard,LIOT,,,,,,elu_entrant,live,bot,,37421070497
+4203cee0c88f3564,2026-10-06,assemblee,depart,jeanne loison,Loison,Jeanne,,PA793980,PA793980,Charles Fournier,EcoS,,,,,,,live,bot,,37421070497
+a2fe6e1702541026,2026-10-06,assemblee,depart,julie lebihan,Lebihan,Julie,,PA774962,PA774962,Karine Lebon,GDR,,,,,,,live,bot,,37421070497
+48c0980bcba7550b,2026-10-06,assemblee,arrivee,juline legras,Legras,Juline,,PA842013,PA842013,Steevy Gustave,EcoS,,,,,,,live,bot,,37421070497
+6a1aaa06c76fc2f0,2026-10-06,assemblee,depart,louis pierre rivailler,Rivailler,Pierre-Louis,,PA719138,PA719138,Michel Castellani,LIOT,,,,,,,live,bot,,37421070497
+aaa688eda6101e16,2026-10-06,assemblee,arrivee,mael pousset,Pousset,Maël,,PA841463,PA841463,Estelle Mercier,SOC,,,,,,,live,bot,,37421070497
+b8d51f8116ea65fd,2026-10-06,senat,arrivee,anne baldon laure,BALDON,Anne-Laure,Mme,bounie julien,,Julien BOUNIE,,,,,,,elu_entrant,live,bot,2026-10-05,37421070497
+74c6925c401b14ce,2026-10-06,senat,arrivee,boisserie delphine,BOISSERIE,Delphine,Mme,bounie julien,,Julien BOUNIE,,,,,,,elu_entrant,live,bot,2026-10-05,37421070497
+811af9b281031e4e,2026-10-06,senat,arrivee,caron mathilda,CARON,Mathilda,Mme,benarroche guy,,Guy BENARROCHE,,,,,,,,live,bot,2026-10-05,37421070497
+65e427921262d813,2026-10-06,senat,depart,denieault thomas,DENIEAULT,Thomas,M.,carrere claire gee marie,21090J,Marie-Claire CARRÈRE-GÉE,LR,,,,,,,live,bot,2026-10-05,37421070497
+9e8e7e84959f72ba,2026-10-06,senat,arrivee,eddie marcos,MARCOS,Eddie,M.,bounie julien,,Julien BOUNIE,,,,,,,elu_entrant,live,bot,2026-10-05,37421070497
+8c992d19e02de3c7,2026-10-06,senat,arrivee,juliette ravier,RAVIER,Juliette,Mme,doineau elisabeth,,Élisabeth DOINEAU,,,,,,,,live,bot,2026-10-05,37421070497
+a397bf76994a4f81,2026-10-06,senat,arrivee,sidoli yoann,SIDOLI,Yoann,M.,housseau lise marie,,Marie-Lise HOUSSEAU,,,,,,,,live,bot,2026-10-05,37421070497
+793238977d669cc9,2026-10-07,senat,arrivee,guittard julien,GUITTARD,Julien,M.,dossus thomas,20134Y,Thomas DOSSUS,GEST,,,,,,,live,bot,2026-10-06,37578927781
+0be62ffb4a18704b,2026-10-08,assemblee,arrivee,adjodha florence,Adjodha,Florence,,PA795876,PA795876,Davy Rimane,GDR,,,,,,,live,bot,,37735031171
+933c1ce7c3be0175,2026-10-08,assemblee,arrivee,anissa mokdad,Mokdad,Anissa,,PA719632,PA719632,Sophie Panonacle,EPR,,,,,,,live,bot,,37735031171
+b5ff7e146309fcea,2026-10-08,assemblee,arrivee,audrey durpoix,Durpoix,Audrey,,PA720092,PA720092,Richard Ramos,Dem,,,,,,,live,bot,,37735031171
+825e9062c0829718,2026-10-08,assemblee,arrivee,bault titouan,Bault,Titouan,,PA841955,PA841955,Matthias Renault,RN,,,,,,,live,bot,,37735031171
+614a332f0a679c6c,2026-10-08,assemblee,arrivee,bouteillon louis,Bouteillon,Louis,,PA841595,PA841595,Cendrine Chazé,DR,,,,,,,live,bot,,37735031171
+5a66afe0c8c837b0,2026-10-08,assemblee,arrivee,chebir souha,Chebir,Souha,,PA795588,PA795588,Farida Amrani,LFI-NFP,,,,,,,live,bot,,37735031171
+397d112f3d277d22,2026-10-08,assemblee,transfert,de dulphe hubert jacquelin,de Jacquelin-Dulphe,Hubert,,PA842279,PA842279,Anchya Bamana,RN,PA794502,PA794502,Michaël Taverne,RN,,nom_source_modifie,live,bot,,37735031171
+846bd3c7728c1c66,2026-10-08,assemblee,depart,dubois maxens,Dubois,Maxens,,PA795722,PA795722,Karl Olive,EPR,,,,,,,live,bot,,37735031171
+cfd400f9890846cb,2026-10-08,assemblee,arrivee,faidati madi,Madi,Faïdati,,PA842279,PA842279,Anchya Bamana,RN,,,,,,,live,bot,,37735031171
+ad7efa1a2ad00af2,2026-10-08,assemblee,arrivee,louis yohan,Louis,Yohan,,PA841047,PA841047,François-Xavier Ceccoli,DR,,,,,,,live,bot,,37735031171
+272b6a852948afa0,2026-10-08,assemblee,arrivee,marcel thais,Marcel,Thaïs,,PA720370,PA720370,Ludovic Mendes,EPR,,,,,,,live,bot,,37735031171
+136d34663de5cbe9,2026-10-08,assemblee,depart,philidor philippe,Philidor,Philippe,,PA643143,PA643143,Christian Baptiste,SOC,,,,,,,live,bot,,37735031171
+5bb5e3fba6f0177b,2026-10-08,senat,arrivee,philidor philippe,PHILIDOR,Philippe,M.,daniel gibbs,18153G,Daniel GIBBS,LR,,,,,,elu_entrant,live,bot,2026-10-07,37735031171
+2cb9acf18e047304,2026-10-08,senat,arrivee,seroz vincent,SEROZ,Vincent,M.,coste pascal,21642U,Pascal COSTE,LR,,,,,,elu_entrant,live,bot,2026-10-07,37735031171
+36a0a186e09413ae,2026-10-09,europarl,arrivee,abigail gerard,Abigail GERARD,,,256912,256912,Rima HASSAN,GUE/NGL,,,,,Prestataire de services spécialisé,,live,bot,,37854242996
+f1b64c9d019cd964,2026-10-09,europarl,arrivee,accompagnement as c conseil point sarl service,SARL AS.C Accompagnement Service Point Conseil,,,197500,197500,Mounir SATOURI,Verts/ALE,,,,,Tiers payant,,live,bot,,37854242996
+56983035555327a0,2026-10-09,europarl,arrivee,accompagnement as c conseil point sarl service,SARL AS.C Accompagnement Service Point Conseil,,,197503,197503,David CORMAND,Verts/ALE,,,,,Tiers payant,,live,bot,,37854242996
+e7c79e539faae02c,2026-10-09,europarl,arrivee,accompagnement as c conseil point sarl service,SARL AS.C Accompagnement Service Point Conseil,,,197504,197504,Jérémy DECERLE,Renew,,,,,Tiers payant,,live,bot,,37854242996
+f2892909a0efe149,2026-10-09,europarl,arrivee,accompagnement as c conseil point sarl service,SARL AS.C Accompagnement Service Point Conseil,,,197529,197529,Leila CHAIBI,GUE/NGL,,,,,Tiers payant,,live,bot,,37854242996
+1f523f7ddda85b68,2026-10-09,europarl,arrivee,accompagnement as c conseil point sarl service,SARL AS.C Accompagnement Service Point Conseil,,,197533,197533,Manon AUBRY,GUE/NGL,,,,,Tiers payant,,live,bot,,37854242996
+cbda023239fed8b0,2026-10-09,europarl,arrivee,accompagnement as c conseil point sarl service,SARL AS.C Accompagnement Service Point Conseil,,,197574,197574,Damien CARÊME,GUE/NGL,,,,,Tiers payant,,live,bot,,37854242996
+33cc66880533e7ab,2026-10-09,europarl,arrivee,accompagnement as c conseil point sarl service,SARL AS.C Accompagnement Service Point Conseil,,,197694,197694,Raphaël GLUCKSMANN,S&D,,,,,Tiers payant,,live,bot,,37854242996
+7e6ecfb8cbcfa6b9,2026-10-09,europarl,arrivee,accompagnement as c conseil point sarl service,SARL AS.C Accompagnement Service Point Conseil,,,197697,197697,Aurore LALUCQ,S&D,,,,,Tiers payant,,live,bot,,37854242996
+9cd3b015b98cf675,2026-10-09,europarl,arrivee,accompagnement as c conseil point sarl service,SARL AS.C Accompagnement Service Point Conseil,,,236053,236053,Marina MESURE,GUE/NGL,,,,,Tiers payant,,live,bot,,37854242996
+cbb60fb4be9c6a3f,2026-10-09,europarl,arrivee,accompagnement as c conseil point sarl service,SARL AS.C Accompagnement Service Point Conseil,,,256870,256870,Valérie DEVAUX,Renew,,,,,Tiers payant,,live,bot,,37854242996
+ec1d821fbf807691,2026-10-09,europarl,arrivee,accompagnement as c conseil point sarl service,SARL AS.C Accompagnement Service Point Conseil,,,256901,256901,Jean-Marc GERMAIN,S&D,,,,,Tiers payant,,live,bot,,37854242996
+6c6804c70a2ab094,2026-10-09,europarl,arrivee,accompagnement as c conseil point sarl service,SARL AS.C Accompagnement Service Point Conseil,,,256904,256904,Chloé RIDEL,S&D,,,,,Tiers payant,,live,bot,,37854242996
+0ae71b4b8e91be60,2026-10-09,europarl,arrivee,accompagnement as c conseil point sarl service,SARL AS.C Accompagnement Service Point Conseil,,,256905,256905,Eric SARGIACOMO,S&D,,,,,Tiers payant,,live,bot,,37854242996
+8632d6e9acf09050,2026-10-09,europarl,arrivee,accompagnement as c conseil point sarl service,SARL AS.C Accompagnement Service Point Conseil,,,256910,256910,Anthony SMITH,GUE/NGL,,,,,Tiers payant,,live,bot,,37854242996
+c34edd8ce2d90b83,2026-10-09,europarl,arrivee,accompagnement as c conseil point sarl service,SARL AS.C Accompagnement Service Point Conseil,,,256911,256911,Arash SAEIDI,GUE/NGL,,,,,Tiers payant,,live,bot,,37854242996
+b5528904be9eef6a,2026-10-09,europarl,arrivee,accompagnement as c conseil point sarl service,SARL AS.C Accompagnement Service Point Conseil,,,256912,256912,Rima HASSAN,GUE/NGL,,,,,Tiers payant,,live,bot,,37854242996
+11f550b841d7bacc,2026-10-09,europarl,arrivee,accompagnement as c conseil point sarl service,SARL AS.C Accompagnement Service Point Conseil,,,256913,256913,Emma FOURREAU,GUE/NGL,,,,,Tiers payant,,live,bot,,37854242996
+5c9bbc5764923288,2026-10-09,europarl,arrivee,accompagnement as c conseil point sarl service,SARL AS.C Accompagnement Service Point Conseil,,,256915,256915,Mélissa CAMARA,Verts/ALE,,,,,Tiers payant,,live,bot,,37854242996
+a6474feb0ffc6e31,2026-10-09,europarl,arrivee,accompagnement as c conseil point sarl service,SARL AS.C Accompagnement Service Point Conseil,,,256917,256917,Majdouline SBAI,Verts/ALE,,,,,Tiers payant,,live,bot,,37854242996
+9f4059b0e06c9f53,2026-10-09,europarl,arrivee,accompagnement as c conseil point sarl service,SARL AS.C Accompagnement Service Point Conseil,,,30482,30482,Younous OMARJEE,GUE/NGL,,,,,Tiers payant,,live,bot,,37854242996
+8caca2fbcee8004e,2026-10-09,europarl,arrivee,accompagnement as c conseil point sarl service,SARL AS.C Accompagnement Service Point Conseil,,,97236,97236,Marie TOUSSAINT,Verts/ALE,,,,,Tiers payant,,live,bot,,37854242996
+4585b026cc7da27c,2026-10-09,europarl,arrivee,aciem,ACIEM,,,256924,256924,Sarah KNAFO,ESN,,,,,Tiers payant,,live,bot,,37854242996
+fc4ebf8de5a50df2,2026-10-09,europarl,arrivee,agathe biessy marine paloma,PALOMA AGATHE MARINE BIESSY,,,245018,245018,Christophe CLERGEAU,S&D,,,,,Prestataire de services spécialisé,,live,bot,,37854242996
+69c656760e8cd2e3,2026-10-09,europarl,arrivee,akoneo comptable comptaexperts ex expertise,AKONEO EXPERTISE COMPTABLE (ex COMPTA&EXPERTS),,,204419,204419,Sandro GOZI,Renew,,,,,Tiers payant,,live,bot,,37854242996
+34482fed29e76a1a,2026-10-09,europarl,arrivee,akoneo comptable comptaexperts ex expertise,AKONEO EXPERTISE COMPTABLE (ex COMPTA&EXPERTS),,,256869,256869,Grégory ALLIONE,Renew,,,,,Tiers payant,,live,bot,,37854242996
+a4dc74333bebdc67,2026-10-09,europarl,arrivee,altoneo conseil,ALTONEO Conseil,,,135511,135511,Valérie HAYER,Renew,,,,,Tiers payant,,live,bot,,37854242996
+103ff5f605558455,2026-10-09,europarl,arrivee,ara expert,EXPERT ARA,,,124760,124760,Nicolas BAY,ECR,,,,,Tiers payant,,live,bot,,37854242996
+4b22280d9981fb4d,2026-10-09,europarl,arrivee,ara expert,EXPERT ARA,,,30123,30123,Guillaume PELTIER,ECR,,,,,Tiers payant,,live,bot,,37854242996
+bc7e7478393448c7,2026-10-09,europarl,arrivee,avenia,AVENIA,,,197557,197557,Christophe GRUDLER,Renew,,,,,Tiers payant,,live,bot,,37854242996
+88fae3cab2646307,2026-10-09,europarl,arrivee,bernardini nicola,Nicola BERNARDINI,,,204419,204419,Sandro GOZI,Renew,,,,,Tiers payant,,live,bot,,37854242996
+9d2a4aa66093a727,2026-10-09,europarl,arrivee,cabinet gross hugel,CABINET GROSS-HUGEL,,,22858,22858,Fabienne KELLER,Renew,,,,,Tiers payant,,live,bot,,37854242996
+fc59da39784e9be7,2026-10-09,europarl,arrivee,carbonnier lamaze rasle,CARBONNIER LAMAZE RASLE,,,197534,197534,François-Xavier BELLAMY,PPE,,,,,Prestataire de services spécialisé,,live,bot,,37854242996
+b8d502f5b0e12afc,2026-10-09,europarl,arrivee,christophe ribes,Christophe RIBES,,,256921,256921,Laurent CASTILLO,PfE,,,,,Tiers payant,,live,bot,,37854242996
+5c0ffab352a869f4,2026-10-09,europarl,arrivee,com3elles,Com3Elles,,,256906,256906,Claire FITA,S&D,,,,,Prestataire de services spécialisé,,live,bot,,37854242996
+b602f3f97e9bdfde,2026-10-09,europarl,arrivee,commun e s,COMMUN E S,,,245018,245018,Christophe CLERGEAU,S&D,,,,,Prestataire de services spécialisé,,live,bot,,37854242996
+711035ff4cb00f65,2026-10-09,europarl,arrivee,conseil expertelia ouest,EXPERTELIA OUEST CONSEIL,,,131580,131580,Jordan BARDELLA,PfE,,,,,Tiers payant,,live,bot,,37854242996
+ad40a9c87a948b43,2026-10-09,europarl,arrivee,conseil expertelia ouest,EXPERTELIA OUEST CONSEIL,,,197691,197691,Mathilde ANDROUËT,PfE,,,,,Tiers payant,,live,bot,,37854242996
+bd66500ac0117d89,2026-10-09,europarl,arrivee,conseil expertelia ouest,EXPERTELIA OUEST CONSEIL,,,256920,256920,Isabelle LE CALLENNEC,PPE,,,,,Tiers payant,,live,bot,,37854242996
+4ae33e18382ba80e,2026-10-09,europarl,arrivee,conseil expertelia ouest,EXPERTELIA OUEST CONSEIL,,,256922,256922,Marion MARÉCHAL,ECR,,,,,Tiers payant,,live,bot,,37854242996
+c1ca46c4ba35606d,2026-10-09,europarl,arrivee,conseil expertelia ouest,EXPERTELIA OUEST CONSEIL,,,256925,256925,Laurence TROCHU,ECR,,,,,Tiers payant,,live,bot,,37854242996
+e43fdf2fe2fff7d9,2026-10-09,europarl,arrivee,conseil expertelia ouest,EXPERTELIA OUEST CONSEIL,,,30123,30123,Guillaume PELTIER,ECR,,,,,Tiers payant,,live,bot,,37854242996
+0817191e9557b648,2026-10-09,europarl,arrivee,conseil expertelia ouest,EXPERTELIA OUEST CONSEIL,,,88552,88552,Julien SANCHEZ,PfE,,,,,Tiers payant,,live,bot,,37854242996
+29593632623ff9b8,2026-10-09,europarl,arrivee,conseil limongi sas,SAS LIMONGI CONSEIL,,,204418,204418,Nora MEBAREK,S&D,,,,,Tiers payant,,live,bot,,37854242996
+6e960b8b2b9d7f01,2026-10-09,europarl,arrivee,conseil limongi sas,SAS LIMONGI CONSEIL,,,245018,245018,Christophe CLERGEAU,S&D,,,,,Tiers payant,,live,bot,,37854242996
+a776faa27982e0c1,2026-10-09,europarl,arrivee,conseil limongi sas,SAS LIMONGI CONSEIL,,,256898,256898,Pierre JOUVET,S&D,,,,,Tiers payant,,live,bot,,37854242996
+f675eeeede9f6d7d,2026-10-09,europarl,arrivee,conseil limongi sas,SAS LIMONGI CONSEIL,,,256899,256899,Murielle LAURENT,S&D,,,,,Tiers payant,,live,bot,,37854242996
+42b66e727ab8aff5,2026-10-09,europarl,arrivee,conseil limongi sas,SAS LIMONGI CONSEIL,,,256902,256902,Emma RAFOWICZ,S&D,,,,,Tiers payant,,live,bot,,37854242996
+b19b7139cbd46323,2026-10-09,europarl,arrivee,conseil limongi sas,SAS LIMONGI CONSEIL,,,256903,256903,Thomas PELLERIN-CARLIN,S&D,,,,,Tiers payant,,live,bot,,37854242996
+e3bee52d01043490,2026-10-09,europarl,arrivee,conseil limongi sas,SAS LIMONGI CONSEIL,,,256906,256906,Claire FITA,S&D,,,,,Tiers payant,,live,bot,,37854242996
+fc226f3f6d545a83,2026-10-09,europarl,arrivee,conseil limongi sas,SAS LIMONGI CONSEIL,,,256908,256908,François KALFON,S&D,,,,,Tiers payant,,live,bot,,37854242996
+d171f1fb63481f1b,2026-10-09,europarl,arrivee,consultants taola,TAOLA CONSULTANTS,,,204419,204419,Sandro GOZI,Renew,,,,,Prestataire de services spécialisé,,live,bot,,37854242996
+9f56a3ba7a621679,2026-10-09,europarl,arrivee,de formation francais institut,INSTITUT FRANCAIS DE FORMATION,,,256922,256922,Marion MARÉCHAL,ECR,,,,,Prestataire de services spécialisé,,live,bot,,37854242996
+7e4f956372db96c2,2026-10-09,europarl,arrivee,expertise reflex selas,SELAS REFLEX'EXPERTISE,,,197581,197581,Stéphanie YON-COURTIN,Renew,,,,,Tiers payant,,live,bot,,37854242996
+36f199c9b03fa72e,2026-10-09,europarl,arrivee,geraldine musnier,Géraldine MUSNIER,,,256898,256898,Pierre JOUVET,S&D,,,,,Prestataire de services spécialisé,,live,bot,,37854242996
+320ba95b4ada552f,2026-10-09,europarl,arrivee,gilles goldnadel william,Gilles-William GOLDNADEL,,,72779,72779,Nadine MORANO,PPE,,,,,Prestataire de services spécialisé,,live,bot,,37854242996
+07b022181400ead3,2026-10-09,europarl,arrivee,hbc holding,HBC HOLDING,,,256918,256918,Céline IMART,PPE,,,,,Tiers payant,,live,bot,,37854242996
+ce082530302736fb,2026-10-09,europarl,arrivee,labouche sixte,Sixte LABOUCHE,,,124760,124760,Nicolas BAY,ECR,,,,,Prestataire de services spécialisé,,live,bot,,37854242996
+ac6d8289493ab4d4,2026-10-09,europarl,arrivee,s signat,SIGNAT'S,,,126699,126699,Gilles PENNELLE,PfE,,,,,Tiers payant,,live,bot,,37854242996
+3bc157c9dd9beb0b,2026-10-09,europarl,arrivee,s signat,SIGNAT'S,,,189065,189065,France JAMET,PfE,,,,,Tiers payant,,live,bot,,37854242996
+aa43aad99fc01e1e,2026-10-09,europarl,arrivee,s signat,SIGNAT'S,,,197687,197687,Philippe OLIVIER,PfE,,,,,Tiers payant,,live,bot,,37854242996
+cb710349a0bad35d,2026-10-09,europarl,arrivee,s signat,SIGNAT'S,,,236050,236050,Marie DAUCHY,PfE,,,,,Tiers payant,,live,bot,,37854242996
+7dea2535a4c3a5e6,2026-10-09,europarl,arrivee,s signat,SIGNAT'S,,,256872,256872,Fabrice LEGGERI,PfE,,,,,Tiers payant,,live,bot,,37854242996
+c66209ec89345791,2026-10-09,europarl,arrivee,s signat,SIGNAT'S,,,256874,256874,Mélanie DISDIER,PfE,,,,,Tiers payant,,live,bot,,37854242996
+76ed04c935260f8a,2026-10-09,europarl,arrivee,s signat,SIGNAT'S,,,256875,256875,Matthieu VALET,PfE,,,,,Tiers payant,,live,bot,,37854242996
+c49c0cb0a903313c,2026-10-09,europarl,arrivee,s signat,SIGNAT'S,,,256876,256876,Anne-Sophie FRIGOUT,PfE,,,,,Tiers payant,,live,bot,,37854242996
+1e7e30f7424c8b02,2026-10-09,europarl,arrivee,s signat,SIGNAT'S,,,256877,256877,Pascale PIERA,PfE,,,,,Tiers payant,,live,bot,,37854242996
+1df4251a397a678c,2026-10-09,europarl,arrivee,s signat,SIGNAT'S,,,256882,256882,Julie RECHAGNEUX,PfE,,,,,Tiers payant,,live,bot,,37854242996
+8a7bc5cf5d36605d,2026-10-09,europarl,arrivee,s signat,SIGNAT'S,,,256883,256883,Aleksandar NIKOLIC,PfE,,,,,Tiers payant,,live,bot,,37854242996
+46d73a6699bbd1be,2026-10-09,europarl,arrivee,s signat,SIGNAT'S,,,256886,256886,Valérie DELOGE,PfE,,,,,Tiers payant,,live,bot,,37854242996
+1185b1ba04e8225d,2026-10-09,europarl,arrivee,s signat,SIGNAT'S,,,256888,256888,Rody TOLASSY,PfE,,,,,Tiers payant,,live,bot,,37854242996
+795877f40bf3d95e,2026-10-09,europarl,arrivee,s signat,SIGNAT'S,,,256895,256895,Julien LEONARDELLI,PfE,,,,,Tiers payant,,live,bot,,37854242996
+ccc85dfd58314052,2026-10-09,europarl,arrivee,s signat,SIGNAT'S,,,256896,256896,Angéline FURET,PfE,,,,,Tiers payant,,live,bot,,37854242996
+33e22430ecac0a3d,2026-10-09,europarl,arrivee,s signat,SIGNAT'S,,,261796,261796,Séverine WERBROUCK,PfE,,,,,Tiers payant,,live,bot,,37854242996
+d3acbd1a5c58e342,2026-10-09,europarl,arrivee,s signat,SIGNAT'S,,,261797,261797,Christophe BAY,PfE,,,,,Tiers payant,,live,bot,,37854242996
+9f8df7a59e8b288e,2026-10-09,europarl,arrivee,s signat,SIGNAT'S,,,5736,5736,Alexandre VARAUT,PfE,,,,,Tiers payant,,live,bot,,37854242996
+15b91951b6bcd9ae,2026-10-09,europarl,arrivee,solaes,SOLAES,,,197534,197534,François-Xavier BELLAMY,PPE,,,,,Tiers payant,,live,bot,,37854242996
+a8a0fa3bca6baf56,2026-10-09,europarl,arrivee,yzico,YZICO,,,72779,72779,Nadine MORANO,PPE,,,,,Tiers payant,,live,bot,,37854242996
+ffa99e7369be506f,2026-10-09,senat,arrivee,denieault thomas,DENIEAULT,Thomas,M.,alexis robin,21660W,Alexis ROBIN,LR,,,,,,elu_entrant,live,bot,2026-10-08,37891148082
+7e68ce3bc878da2f,2026-10-09,senat,arrivee,jean pierre veyret,VEYRET,Pierre-Jean,M.,nathalie nieson,18233F,Nathalie NIESON,RDPI,,,,,,elu_entrant,live,bot,2026-10-08,37891148082
+84996e7728e79e59,2026-10-09,senat,arrivee,lejeune ludwig speter,SPETER-LEJEUNE,Ludwig,M.,kervran loic,18543S,Loïc KERVRAN,INDEP,,,,,,elu_entrant,live,bot,2026-10-08,37891148082
+7d82fa3b599ad450,2026-10-09,senat,depart,maurice mbongolo,MBONGOLO,Maurice,M.,aeschlimann do marie,21071F,Marie-Do AESCHLIMANN,LR,,,,,,,live,bot,2026-10-08,37891148082
+7db9d98db9e15d58,2026-10-10,assemblee,depart,alice anne pauleau,Pauleau,Alice-Anne,,PA793832,PA793832,Yoann Gillet,RN,,,,,,,live,bot,,38029198479
+23a1541526e69e28,2026-10-10,assemblee,arrivee,aloy souhayb,Aloy,Souhayb,,PA793944,PA793944,Alexandra Martin (Gironde),,,,,,,,live,bot,,38029198479
+70c01ab33f17fdf0,2026-10-10,assemblee,arrivee,arce bastien menso,Arce-Menso,Bastien,,PA840665,PA840665,Marie-José Allemand,,,,,,,,live,bot,,38029198479
+f88d9099c500b7d3,2026-10-10,assemblee,depart,attal molere rachel,Molère-Attal,Rachel,,PA719632,PA719632,Sophie Panonacle,EPR,,,,,,,live,bot,,38029198479
+1142ff6a644c5d28,2026-10-10,assemblee,arrivee,camacho marie,Camacho,Marie,,PA795402,PA795402,Nathalie Coggia,,,,,,,,live,bot,,38029198479
+d4ea7e42d370d7e4,2026-10-10,assemblee,arrivee,candice foehrenbach,Foehrenbach,Candice,,PA721916,PA721916,Natalia Pouzyreff,,,,,,,,live,bot,,38029198479
+670a8ada25d4cfbf,2026-10-10,assemblee,arrivee,emile roueche,Roueche,Emile,,PA841955,PA841955,Matthias Renault,,,,,,,,live,bot,,38029198479
+334e74439db4dd4e,2026-10-10,assemblee,arrivee,leo portal,Portal,Léo,,PA841067,PA841067,Alexandre Allegret-Pilot,,,,,,,,live,bot,,38029198479
+961de6aad2b3601f,2026-10-10,assemblee,arrivee,loess raphaelle,Loess,Raphaelle,,PA722150,PA722150,Sacha Houlié,,,,,,,,live,bot,,38029198479
+43dbb6e70a50f7ef,2026-10-10,assemblee,arrivee,magalie vicente,Vicente,Magalie,,PA795270,PA795270,Marie-Agnès Poussier-Winsback,,,,,,,,live,bot,,38029198479
+318184361aaf4b4e,2026-10-10,assemblee,arrivee,petit theo,Petit,Théo,,PA712015,PA712015,Julien Dive,,,,,,,,live,bot,,38029198479
+afd41363a693e525,2026-10-10,senat,arrivee,chiocca christophe,CHIOCCA,Christophe,M.,carine leroy,21698M,Carine LEROY,UNT,,,,,,elu_entrant,live,bot,2026-10-09,38029198479
+53926498508b6829,2026-10-10,senat,depart,eliott massot paul,MASSOT,Paul-Eliott,M.,merillou serge,20028X,Serge MÉRILLOU,SER,,,,,,,live,bot,2026-10-09,38029198479
+8b5b8d673c50a3d5,2026-10-11,assemblee,depart,alonso esteban,Alonso,Esteban,,PA720362,PA720362,Belkhir Belhaddad,,,,,,,,live,bot,,38116438238
+2c2082b791cd4ab1,2026-10-11,assemblee,depart,ambroise de rancourt,de Rancourt,Ambroise,,PA720614,PA720614,Marine Le Pen,,,,,,,elu_sortant,live,bot,,38116438238
+737acc458d5c9ac3,2026-10-11,assemblee,depart,audrey durpoix,Durpoix,Audrey,,PA720092,PA720092,Richard Ramos,,,,,,,,live,bot,,38116438238
+4372e1703c38ad0c,2026-10-11,assemblee,arrivee,augustin bloch,Bloch,Augustin,,PA840657,PA840657,Sophie Ricourt Vaginay,UDR,,,,,,,live,bot,,38116438238
+38ad7e454364a36b,2026-10-11,assemblee,depart,camille daubenfeld,Daubenfeld,Camille,,PA841315,PA841315,Karim Benbrahim,,,,,,,,live,bot,,38116438238
+3ce5853eeafa4340,2026-10-11,assemblee,depart,capucine ottino,Ottino,Capucine,,PA643175,PA643175,Stella Dupont,,,,,,,,live,bot,,38116438238
+6cccc0f0fa5d3177,2026-10-11,assemblee,depart,clement deixonne,Deixonne,Clément,,PA841315,PA841315,Karim Benbrahim,,,,,,,,live,bot,,38116438238
+b387119284be36d1,2026-10-11,assemblee,depart,corazza lia,Corazza,Lia,,PA841419,PA841419,Damien Girard,,,,,,,,live,bot,,38116438238
+82db111e62a2e8ae,2026-10-11,assemblee,arrivee,durighello enzo,Durighello,Enzo,,PA718850,PA718850,Pierre Cordier,DR,,,,,,,live,bot,,38116438238
+37bf6013369a6bb3,2026-10-11,assemblee,arrivee,louis mille,Mille,Louis,,PA841621,PA841621,Auguste Evrard,RN,,,,,,,live,bot,,38116438238
+3d15b12675794055,2026-10-11,assemblee,arrivee,quentin taieb,Taieb,Quentin,,PA878242,PA878242,Antoine Valentin,UDR,,,,,,,live,bot,,38116438238
+b03fada088106155,2026-10-11,senat,arrivee,arthur durand,DURAND,Arthur,M.,agnes evren,21091K,Agnès EVREN,LR,,,,,,,live,bot,2026-10-10,38116438238
+4e34f91a0882eb51,2026-10-11,senat,arrivee,batigne thomas,BATIGNE,Thomas,M.,quentin virginie,21658D,Virginie QUENTIN,LR,,,,,,elu_entrant,live,bot,2026-10-10,38116438238
+b9e3513ab36e2b9c,2026-10-11,senat,arrivee,emmanuel espanol,ESPANOL,Emmanuel,M.,mougenot paul,21666D,Paul MOUGENOT,NI,,,,,,elu_entrant,live,bot,2026-10-10,38116438238
+07592171fc19de95,2026-10-11,senat,arrivee,jolivet mielczarek nathalie,JOLIVET-MIELCZAREK,Nathalie,Mme,bertrand dupont,21672B,Bertrand DUPONT,LR,,,,,,elu_entrant,live,bot,2026-10-10,38116438238
+9789dbc20f2df3a3,2026-10-11,senat,arrivee,lopes magnuson,LOPES,Magnuson,M.,kervran loic,18543S,Loïc KERVRAN,INDEP,,,,,,,live,bot,2026-10-10,38116438238
+28089110c7125d83,2026-10-11,senat,arrivee,pattier vincent,PATTIER,Vincent,M.,bertrand dupont,21672B,Bertrand DUPONT,LR,,,,,,elu_entrant,live,bot,2026-10-10,38116438238
+268d69a45d324177,2026-10-12,senat,arrivee,gabriel hulewicz,HULEWICZ,Gabriel,M.,aigremont d thierry,21704R,Thierry D'AIGREMONT,UNT,,,,,,elu_entrant,live,bot,2026-10-11,38210417481
+59d1a2f8bce4e68d,2026-10-13,senat,arrivee,alexandre voiment,VOIMENT,Alexandre,M.,bastien coriton,19916G,Bastien CORITON,SER,,,,,,elu_entrant,live,bot,2026-10-12,38354315267
+1e2ad1f5f42c1734,2026-10-13,senat,arrivee,antoine barthelemy,BARTHELEMY,Antoine,M.,callet marie pierre,21668F,Marie-Pierre CALLET,UNT,,,,,,elu_entrant,live,bot,2026-10-12,38354315267
+9376d71c1a6ecd47,2026-10-13,senat,arrivee,arthur masset,MASSET,Arthur,M.,quentin virginie,21658D,Virginie QUENTIN,LR,,,,,,,live,bot,2026-10-12,38354315267
+f78faa090b0290c7,2026-10-13,senat,arrivee,beaujard xavier,BEAUJARD,Xavier,M.,claudie faucon,,Claudie FAUCON,,,,,,,elu_entrant,live,bot,2026-10-12,38354315267
+288afb8e310e2c99,2026-10-13,senat,arrivee,bermejo marie,BERMEJO,Marie,Mme,callet marie pierre,21668F,Marie-Pierre CALLET,UNT,,,,,,elu_entrant,live,bot,2026-10-12,38354315267
+75a1b9f4d28628d3,2026-10-13,senat,arrivee,burel ulysse,BUREL,Ulysse,M.,lafaele tukumuli,21638Y,Lafaele TUKUMULI,RDPI,,,,,,elu_entrant,live,bot,2026-10-12,38354315267
+f979b1c61020f8fb,2026-10-13,senat,arrivee,cecile mamprin,MAMPRIN,Cécile,Mme,benjamin huin,21662Y,Benjamin HUIN,RDPI,,,,,,elu_entrant,live,bot,2026-10-12,38354315267
+2fcdb10edf2935e8,2026-10-13,senat,arrivee,faynel sherazade,FAYNEL,Shérazade,Mme,ghislaine senee,21079P,Ghislaine SENÉE,GEST,,,,,,,live,bot,2026-10-12,38354315267
+d48e41285e747a2b,2026-10-13,senat,arrivee,fili lorella,FILI,Lorella,Mme,amard gabriel,20684B,Gabriel AMARD,NI,,,,,,elu_entrant,live,bot,2026-10-12,38354315267
+ee877ad73c0cf717,2026-10-13,senat,arrivee,florine penot,PENOT,Florine,Mme,annick merle,21732V,Annick MERLE,LR,,,,,,elu_entrant,live,bot,2026-10-12,38354315267
+68b415d86a4b82a1,2026-10-13,senat,arrivee,loiseau pierre yves,LOISEAU,Pierre-Yves,M.,annick merle,21732V,Annick MERLE,LR,,,,,,elu_entrant,live,bot,2026-10-12,38354315267
+8d0c36f3d4bb4ff4,2026-10-13,senat,arrivee,lussot tanguy,LUSSOT,Tanguy,M.,bastien coriton,19916G,Bastien CORITON,SER,,,,,,elu_entrant,live,bot,2026-10-12,38354315267

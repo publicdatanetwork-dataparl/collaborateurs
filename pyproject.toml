@@ -1,0 +1,13 @@
+[project]
+name = "dataparl-collaborateurs"
+version = "1.0.0"
+description = "Suivi des mouvements de collaborateurs parlementaires : Assemblée nationale, Sénat, Parlement européen."
+requires-python = ">=3.11"
+dependencies = ["requests>=2.31", "pdfplumber>=0.11", "beautifulsoup4>=4.12"]
+
+[project.optional-dependencies]
+dev = ["pytest>=8"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]

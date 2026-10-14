@@ -1,0 +1,45 @@
+name: Référentiel et parcours
+
+# Reconstruit le référentiel des parlementaires et les parcours des
+# collaborateurs sans relire les listes du jour (le suivi quotidien le fait
+# aussi, après son propre passage).
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: suivi-collaborateurs
+  cancel-in-progress: false
+
+jobs:
+  referentiel:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - run: python -m collabs referentiel 2>&1 | tee referentiel.log
+      - run: python -m collabs periodes 2>&1 | tee -a referentiel.log
+      - name: Résumé
+        if: always()
+        run: python -c "t=open('referentiel.log').read()[-8000:]; print('::notice title=referentiel::' + t.replace('%','%25').replace('\r','').replace('\n','%0A'))"
+      - name: Commit des données
+        run: |
+          git config user.name "dataparl"
+          git config user.email "hello@cavaparlement.eu"
+          git add data
+          git diff --cached --quiet && exit 0
+          git commit -m "Référentiel des parlementaires et parcours du $(TZ=Europe/Paris date +%F)"
+          for i in 1 2 3; do git pull --rebase -X theirs && git push && exit 0; git rebase --abort 2>/dev/null; sleep 10; done
+          exit 1
+      - name: Synchro Supabase
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+        run: python -m collabs supabase 2>&1 | tail -20

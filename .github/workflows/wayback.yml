@@ -1,0 +1,55 @@
+name: Historique Wayback
+
+on:
+  # Déclenchement à distance : un push sur .github/wayback-run lance la
+  # reconstruction (par défaut : assemblee).
+  push:
+    branches: [main]
+    paths: [".github/wayback-run"]
+  workflow_dispatch:
+    inputs:
+      chambres:
+        description: "Chambres (assemblee senat)"
+        default: "assemblee senat"
+        required: true
+        type: string
+
+permissions:
+  contents: write
+
+concurrency:
+  group: suivi-collaborateurs
+  cancel-in-progress: false
+
+jobs:
+  wayback:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Clone Regards Citoyens
+        run: git clone -q --filter=blob:none https://github.com/regardscitoyens/Collaborateurs-Parlement.git /tmp/rc
+      - name: Reconstruction
+        env:
+          CHAMBRES: ${{ inputs.chambres || 'assemblee' }}
+        run: |
+          args=(wayback --repo /tmp/rc --chambre)
+          for c in $CHAMBRES; do
+            case "$c" in assemblee|senat) args+=("$c") ;; *) echo "Chambre inconnue : $c"; exit 2 ;; esac
+          done
+          python -m collabs "${args[@]}" 2>&1 | tee wayback.txt
+          python -c "t=open('wayback.txt').read()[-60000:]; print('::notice title=wayback::' + t.replace('%','%25').replace('\r','').replace('\n','%0A'))"
+      - name: Commit
+        run: |
+          git config user.name "dataparl"
+          git config user.email "hello@cavaparlement.eu"
+          git add data/historique
+          if git diff --cached --quiet; then echo "Rien à commiter."; exit 0; fi
+          git commit -m "Historique Wayback : lacunes comblées"
+          for i in 1 2 3; do git pull --rebase && git push && exit 0; sleep 10; done
+          exit 1

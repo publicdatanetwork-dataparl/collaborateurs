@@ -1,0 +1,72 @@
+name: Historique Parlement européen (Wayback)
+
+# Reconstitution 2015→2026 des assistants des eurodéputés depuis les
+# snapshots de la Wayback Machine (non filtrée par le WAF du site PE,
+# contrairement au site lui-même) — voir l'issue dédiée du dépôt.
+# Peut tourner sur les runners GitHub standards.
+
+on:
+  # Déclenchement à distance : un push sur .github/pe-hist-trigger lance
+  # un dry-run (inventaire + échantillon) ; un push sur .github/pe-hist-run
+  # lance la collecte complète (commit des données). workflow_dispatch
+  # reste disponible avec dry_run décoché.
+  push:
+    branches: [main]
+    paths: [".github/pe-hist-trigger", ".github/pe-hist-run"]
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "DRY RUN : inventaire + échantillon, n'écrit rien"
+        default: true
+        type: boolean
+
+jobs:
+  historique:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    steps:
+      - uses: actions/checkout@v4
+      - name: Mode du run
+        run: |
+          if [ "${{ github.event_name }}" = "push" ] && git log -1 --name-only --pretty=format: | grep -q "pe-hist-run"; then
+            echo "MODE=full" >> "$GITHUB_ENV"
+          elif [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ "${{ inputs.dry_run }}" != "true" ]; then
+            echo "MODE=full" >> "$GITHUB_ENV"
+          else
+            echo "MODE=dry" >> "$GITHUB_ENV"
+          fi
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - name: Reconstitution
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+          PE_HIST_DELAI: "5"
+          # Plafond volontairement bas : 250 élus × 12 snapshots × 5 s ≈ 250 min
+          # de téléchargements, marge sous le timeout de 360 min. Les snapshots
+          # au-delà du plafond sont ignorés (12 points dans le temps 2015-2026
+          # suffisent pour la résolution visée de ~180 j).
+          PE_HIST_MAX_SNAPSHOTS: "12"
+        run: |
+          args=""
+          if [ "$MODE" = "dry" ]; then args="--dry-run"; fi
+          python -m collabs.pe_historique $args
+      - name: Commit des données
+        if: ${{ env.MODE == 'full' }}
+        run: |
+          git config user.name "dataparl"
+          git config user.email "hello@cavaparlement.eu"
+          git add data/historique
+          if git diff --cached --quiet; then
+            echo "Aucune donnée modifiée."
+            exit 0
+          fi
+          git commit -m "Historique Parlement européen (Wayback)"
+          for i in 1 2 3; do
+            git pull --rebase -X theirs && git push && exit 0
+            git rebase --abort 2>/dev/null
+            sleep 10
+          done
+          exit 1

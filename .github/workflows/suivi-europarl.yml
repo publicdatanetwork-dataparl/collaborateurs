@@ -1,0 +1,120 @@
+name: Suivi Parlement européen
+
+# Le site www.europarl.europa.eu bloque les IP datacenters par un défi
+# AWS WAF : ce suivi tourne donc sur un runner auto-hébergé étiqueté
+# « europarl » (voir docs/europarl-suivi.md) — MacBook perso ou conteneur
+# Docker sur Home Assistant (scripts/install-runner-europarl-docker.sh).
+# La collecte passe par le transport Playwright de collabs.pe_waf.
+
+on:
+  # Déclencheur manuel à distance : un push qui touche .github/pe-trigger
+  # lance le run (commit du fichier par l'API, sans ouvrir de terminal).
+  push:
+    branches: [main]
+    paths: [".github/pe-trigger"]
+  schedule:
+    - cron: "17 6 * * *"   # 08:17 à Paris (heure d'été), décalé du suivi AN/Sénat
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "DRY RUN : n'écrit ni ne commite rien"
+        default: true
+        type: boolean
+      force:
+        description: "Lever les garde-fous de volume. À n'utiliser qu'après un dry run vérifié."
+        default: false
+        type: boolean
+      date:
+        description: "Date de l'événement (AAAA-MM-JJ), défaut : aujourd'hui à Paris"
+        default: ""
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  suivi:
+    if: ${{ !vars.PE_PAUSE }}
+    runs-on: [self-hosted, europarl]
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+      # Point de départ du run : l'alerte doutes s'en sert pour ne signaler
+      # que les cas nouveaux (absents de ce commit).
+      - name: Point de départ du run
+        run: echo "SHA_AVANT=$(git rev-parse HEAD)" >> "$GITHUB_ENV"
+      # Python : le conteneur Home Assistant n'embarque que 3.8 (zoneinfo,
+      # requis par collabs, demande 3.9+). On installe uv puis un venv
+      # Python 3.12 — indépendant du python3 du poste (Mac ou conteneur).
+      # Pas de setup-python : bogue /Users/runner sur runner macOS.
+      - name: Environnement Python (uv + venv 3.12)
+        run: |
+          if ! command -v uv >/dev/null 2>&1; then
+            curl -LsSf https://astral.sh/uv/install.sh | sh
+          fi
+          export PATH="$HOME/.local/bin:$PATH"
+          uv venv --python 3.12 .venv-pe
+          .venv-pe/bin/python --version
+          uv pip install --python .venv-pe/bin/python -r requirements.txt
+          # --with-deps installe les bibliothèques système de Chromium
+          # (utile dans un conteneur) ; repli sans deps pour macOS.
+          .venv-pe/bin/python -m playwright install --with-deps chromium || .venv-pe/bin/python -m playwright install chromium
+      - name: Collecte et mouvements
+        env:
+          DRY_RUN: ${{ github.event_name == 'workflow_dispatch' && inputs.dry_run || false }}
+          FORCE: ${{ inputs.force || false }}
+          DATE: ${{ inputs.date || '' }}
+        run: |
+          set +e
+          args=(run --chambre europarl)
+          if [ "$FORCE" = "true" ]; then args+=(--force); fi
+          if [[ "$DATE" =~ ^[0-9]{4}-[0-9]{2}-[0-9]{2}$ ]]; then args+=(--date "$DATE"); fi
+          if [ "$DRY_RUN" = "true" ]; then args+=(--dry-run); fi
+          # Transport pe_waf : patche la source PE avec Playwright avant de déléguer au CLI
+          .venv-pe/bin/python -m collabs.pe_waf "${args[@]}"
+          code=$?
+          if [ $code -ne 0 ]; then
+            echo "::error::La chambre europarl a été bloquée ou a échoué (code $code)"
+            exit $code
+          fi
+      # Parcours : régénère derive/periodes.csv à partir des affectations du
+      # jour AVANT le commit — sinon la synchro Supabase pousse un
+      # periodes.csv périmé (celui du run AN/Sénat de 05:47, sans la collecte
+      # du jour) et le site affiche 0 collaborateur européen en poste.
+      - name: Parcours des collaborateurs
+        if: ${{ !(github.event_name == 'workflow_dispatch' && inputs.dry_run) }}
+        run: .venv-pe/bin/python -m collabs periodes
+      - name: Commit des données
+        run: |
+          git config user.name "dataparl"
+          git config user.email "hello@cavaparlement.eu"
+          git add data
+          if git diff --cached --quiet; then
+            echo "Aucune donnée modifiée."
+            exit 0
+          fi
+          git commit -m "Suivi Parlement européen"
+          # Des pushes concurrents (API, autre run) peuvent avancer main :
+          # on se synchronise et on rejoue notre commit au-dessus.
+          git pull --rebase origin main
+          git push
+      # Cas de nom variable détectés : issue « Décision requise » -> email
+      # de notification GitHub, l'éditeur tranche puis passe statut à tranche.
+      - name: Alerte doutes à trancher
+        if: ${{ !(github.event_name == 'workflow_dispatch' && inputs.dry_run) }}
+        uses: ./.github/actions/alerte-doutes
+      - name: Synchro Supabase
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+        run: .venv-pe/bin/python -m collabs supabase
+      # Photos officielles : la webapp (Vercel) ne peut pas lire mepphoto
+      # (WAF) ; on met chaque photo en cache dans le bucket public
+      # media-europarl, servie par media.dataparl.fr/pe/….
+      # --tous : les 245 eurodéputés du référentiel (anciens compris),
+      # pour que les fiches historiques aient aussi leur photo.
+      - name: Photos (cache media.dataparl.fr)
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+        run: .venv-pe/bin/python -m collabs.pe_photos --tous

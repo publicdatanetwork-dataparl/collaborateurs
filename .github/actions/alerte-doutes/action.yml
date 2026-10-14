@@ -1,0 +1,17 @@
+name: Alerte doutes à trancher
+description: >
+  Ouvre (ou commente) une issue GitHub quand le diff a consigné de nouveaux
+  cas de nom variable dans data/doutes.csv : GitHub envoie l'email de
+  notification à l'éditeur, qui tranche. Attend la variable d'environnement
+  SHA_AVANT (commit de départ du run) et la permission issues: write.
+
+runs:
+  using: composite
+  steps:
+    - name: Issue de décision si nouveaux doutes
+      shell: bash
+      env:
+        API: ${{ github.api_url }}/repos/${{ github.repository }}
+        TOKEN: ${{ github.token }}
+        SHA_AVANT: ${{ env.SHA_AVANT }}
+      run: python3 "${{ github.action_path }}/alerte.py"

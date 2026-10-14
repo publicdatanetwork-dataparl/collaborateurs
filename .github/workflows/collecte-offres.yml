@@ -1,0 +1,31 @@
+name: DataParl' Jobs — collecte des offres
+on:
+  schedule:
+    - cron: "20 7 * * 2,5"   # mardi et vendredi, 9h20 Paris — sources + sites d'élus + Bluesky
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  collecter:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 22 }
+      - run: node scripts/collecte-offres.mjs
+        env:
+          SUPABASE_URL: ${{ secrets.JOBS_SUPABASE_URL }}
+          SUPABASE_SERVICE_KEY: ${{ secrets.JOBS_SUPABASE_SERVICE_KEY }}
+      - run: node scripts/collecte-offres-elus.mjs
+        env:
+          SUPABASE_URL: ${{ secrets.JOBS_SUPABASE_URL }}
+          SUPABASE_SERVICE_KEY: ${{ secrets.JOBS_SUPABASE_SERVICE_KEY }}
+          # Clé publishable (non sensible) du projet data : lecture publique
+          # des parlementaires. Le secret DATA_SUPABASE_PUBLIC_KEY, s'il
+          # existe, est concaténé en tête — absent, seul le défaut reste.
+          DATA_SUPABASE_KEY: ${{ secrets.DATA_SUPABASE_PUBLIC_KEY }}sb_publishable_fxIEX7DcA41ygzG27omGkQ_efe3s7pR
+      - run: node scripts/collecte-offres-bluesky.mjs
+        env:
+          SUPABASE_URL: ${{ secrets.JOBS_SUPABASE_URL }}
+          SUPABASE_SERVICE_KEY: ${{ secrets.JOBS_SUPABASE_SERVICE_KEY }}

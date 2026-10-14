@@ -1,0 +1,117 @@
+name: Suivi quotidien
+
+on:
+  schedule:
+    - cron: "47 5 * * *"   # 07:47 à Paris (heure d'été)
+  workflow_dispatch:
+    inputs:
+      chambres:
+        description: "Chambres à traiter (séparées par des espaces)"
+        default: "assemblee senat"
+        required: true
+        type: string
+      dry_run:
+        description: "DRY RUN : n'écrit ni ne commite rien"
+        default: true
+        type: boolean
+      force:
+        description: "Lever les garde-fous de volume (renouvellement, dissolution). À n'utiliser qu'après un dry run vérifié."
+        default: false
+        type: boolean
+      date:
+        description: "Date des mouvements (AAAA-MM-JJ) pour un rattrapage ; vide = aujourd'hui"
+        default: ""
+        required: false
+        type: string
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: suivi-collaborateurs
+  cancel-in-progress: false
+
+jobs:
+  suivi:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      # Point de départ du run : l'alerte doutes s'en sert pour ne signaler
+      # que les cas nouveaux (absents de ce commit).
+      - name: Point de départ du run
+        run: echo "SHA_AVANT=$(git rev-parse HEAD)" >> "$GITHUB_ENV"
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Lecture des sources et calcul des mouvements
+        id: run
+        env:
+          CHAMBRES: ${{ github.event_name == 'workflow_dispatch' && inputs.chambres || 'assemblee senat' }}
+          DRY_RUN: ${{ github.event_name == 'workflow_dispatch' && inputs.dry_run || false }}
+          FORCE: ${{ github.event_name == 'workflow_dispatch' && inputs.force || false }}
+          DATE: ${{ github.event_name == 'workflow_dispatch' && inputs.date || '' }}
+        run: |
+          set +e
+          args=(run --chambre)
+          for c in $CHAMBRES; do
+            case "$c" in assemblee|senat|europarl) args+=("$c") ;; *) echo "Chambre inconnue : $c"; exit 2 ;; esac
+          done
+          if [ "$FORCE" = "true" ]; then args+=(--force); fi
+          if [[ "$DATE" =~ ^[0-9]{4}-[0-9]{2}-[0-9]{2}$ ]]; then args+=(--date "$DATE"); fi
+          python -m collabs "${args[@]}"
+          echo "code=$?" >> "$GITHUB_OUTPUT"
+
+      - name: Référentiel des parlementaires (mandats, groupes, commissions)
+        if: ${{ !(github.event_name == 'workflow_dispatch' && inputs.dry_run) }}
+        continue-on-error: true
+        run: python -m collabs referentiel
+
+      - name: Parcours des collaborateurs
+        if: ${{ !(github.event_name == 'workflow_dispatch' && inputs.dry_run) }}
+        continue-on-error: true
+        run: python -m collabs periodes
+
+      - name: Commit des données
+        if: ${{ !(github.event_name == 'workflow_dispatch' && inputs.dry_run) }}
+        run: |
+          git config user.name "dataparl"
+          git config user.email "hello@cavaparlement.eu"
+          git add data
+          if git diff --cached --quiet; then
+            echo "Aucune donnée modifiée."
+            exit 0
+          fi
+          git commit -m "Données du $(TZ=Europe/Paris date +%F)"
+          for i in 1 2 3; do
+            git pull --rebase -X theirs && git push && exit 0
+            git rebase --abort 2>/dev/null
+            sleep 10
+          done
+          exit 1
+
+      # Cas de nom variable détectés : issue « Décision requise » -> email
+      # de notification GitHub, l'éditeur tranche puis passe statut à tranche.
+      - name: Alerte doutes à trancher
+        if: ${{ !(github.event_name == 'workflow_dispatch' && inputs.dry_run) }}
+        uses: ./.github/actions/alerte-doutes
+
+      - name: Synchro Supabase
+        if: ${{ !(github.event_name == 'workflow_dispatch' && inputs.dry_run) }}
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+        run: python -m collabs supabase
+
+      - name: Échec si une chambre a été bloquée
+        if: ${{ steps.run.outputs.code != '0' }}
+        run: |
+          echo "::error::Au moins une chambre est bloquée ou en erreur (voir le log de l'étape précédente et data/runs.csv)."
+          exit 1

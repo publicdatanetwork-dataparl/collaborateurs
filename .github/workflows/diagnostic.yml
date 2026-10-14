@@ -1,0 +1,35 @@
+name: Diagnostic des sources
+
+on:
+  workflow_dispatch:
+    inputs:
+      chambres:
+        description: "Chambres à diagnostiquer"
+        default: "europarl"
+        required: true
+        type: string
+
+permissions:
+  contents: read
+
+jobs:
+  diag:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Diagnostic
+        env:
+          CHAMBRES: ${{ inputs.chambres }}
+        run: |
+          args=(diag)
+          for c in $CHAMBRES; do
+            case "$c" in assemblee|senat|europarl) args+=("$c") ;; *) echo "Chambre inconnue : $c"; exit 2 ;; esac
+          done
+          python -m collabs "${args[@]}" 2>&1 | tee diag.txt
+          python -c "import sys; t=open('diag.txt').read()[:60000]; print('::notice title=diagnostic::' + t.replace('%','%25').replace('\r','').replace('\n','%0A'))"

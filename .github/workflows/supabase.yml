@@ -43,3 +43,23 @@ jobs:
             exit 1
           fi
           if [ "$TOUT" = "true" ]; then python -m collabs supabase --tout; else python -m collabs supabase; fi
+
+      # Revalidation à la demande de dataparl.fr (PR #29 webapp) : rafraîchit
+      # les pages vitrines une fois les données du jour dans Supabase. Silencieux
+      # si le secret n'est pas configuré, sans jamais faire échouer la synchro.
+      - name: Rafraîchir dataparl.fr
+        continue-on-error: true
+        env:
+          REVALIDATE_SECRET: ${{ secrets.REVALIDATE_SECRET }}
+        run: |
+          if [ -z "$REVALIDATE_SECRET" ]; then
+            echo "Secret REVALIDATE_SECRET absent : revalidation de dataparl.fr ignorée."
+            exit 0
+          fi
+          code=$(curl -sS -o /tmp/revalidate.json -w "%{http_code}" -X POST \
+            -H "x-revalidate-secret: $REVALIDATE_SECRET" \
+            https://www.dataparl.fr/api/revalidate || echo 000)
+          cat /tmp/revalidate.json 2>/dev/null || true
+          if [ "$code" != "200" ]; then
+            echo "::warning::Revalidation de dataparl.fr a renvoyé HTTP $code (non bloquant)."
+          fi

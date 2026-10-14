@@ -1,0 +1,35 @@
+name: Rattrapage alertes
+
+# Déclenche manuellement le cron « alertes » de la webapp
+# (POST/GET https://www.dataparl.fr/api/cron/alertes), protégé par CRON_SECRET.
+# Utile quand le cron Vercel du matin n'a pas tourné (pause Vercel, incident) :
+# l'envoi est idempotent (table alert_sends) — il envoie uniquement les
+# mouvements d'hier et d'aujourd'hui pas encore envoyés.
+
+on:
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+
+jobs:
+  alertes:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Déclencher le cron alertes
+        env:
+          CRON_SECRET: ${{ secrets.CRON_SECRET }}
+        run: |
+          if [ -z "$CRON_SECRET" ]; then
+            echo "::error::Secret CRON_SECRET absent (Settings → Secrets → Actions)."
+            exit 1
+          fi
+          code=$(curl -sS -o /tmp/alertes.json -w "%{http_code}" \
+            -H "Authorization: Bearer $CRON_SECRET" \
+            https://www.dataparl.fr/api/cron/alertes || echo 000)
+          cat /tmp/alertes.json 2>/dev/null || true; echo
+          if [ "$code" != "200" ]; then
+            echo "::error::Le cron alertes a répondu HTTP $code."
+            exit 1
+          fi

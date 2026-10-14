@@ -1,0 +1,33 @@
+name: Fixture PDF senat
+
+on:
+  push:
+    paths:
+      - 'tests/fixtures/senat_agas_2023-10-30.pdf.b64'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  decode:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+      - name: Decoder la fixture
+        run: |
+          base64 -d tests/fixtures/senat_agas_2023-10-30.pdf.b64 > tests/fixtures/senat_agas_2023-10-30.pdf
+          SIZE=$(wc -c < tests/fixtures/senat_agas_2023-10-30.pdf)
+          echo "Taille : $SIZE octets (attendu 117273)"
+          test "$SIZE" -eq 117273
+          head -c 4 tests/fixtures/senat_agas_2023-10-30.pdf | grep -q '%PDF'
+          SHA=$(git hash-object tests/fixtures/senat_agas_2023-10-30.pdf)
+          echo "Blob SHA : $SHA (attendu 4719ec5b5fcfe82d35af9c34c0bc9ee59b3d4698)"
+      - name: Commit (et retirer le .b64)
+        run: |
+          git config user.name "dataparl"
+          git config user.email "hello@cavaparlement.eu"
+          rm tests/fixtures/senat_agas_2023-10-30.pdf.b64
+          git add tests/fixtures
+          git commit -m "tests : fixture PDF senat_agas_2023-10-30 (decodee depuis .b64, integrite verifiee)"
+          git push

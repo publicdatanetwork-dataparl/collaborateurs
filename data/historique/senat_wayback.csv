@@ -1,0 +1,1170 @@
+id,date_event,chambre,type,collab_cle,collab_nom,collab_prenom,collab_civilite,elu_cle,elu_id,elu_nom,elu_groupe,elu_origine_cle,elu_origine_id,elu_origine_nom,elu_origine_groupe,fonction,contexte,source,confiance,date_source,run_id
+91cd450c8d68bb49,2023-11-27,senat,arrivee,abbaci assiba,ABBACI,Assiba,Mme,ahmed laouedj,,Ahmed LAOUEDJ,,,,,,,,wayback,moyen,2023-11-27,wb2023112709
+9f72453c25d954fa,2023-11-27,senat,depart,ableiges d de de maupeou monbail segolene,de MAUPEOU d'ABLEIGES de MONBAIL,Ségolène,Mme,simon uzenat,,Simon UZENAT,,,,,,,,wayback,moyen,2023-11-27,wb2023112709
+1d3e7fc4fd0571af,2023-11-27,senat,arrivee,adrien caille,CAILLE,Adrien,M.,grosvalet philippe,,Philippe GROSVALET,,,,,,,,wayback,moyen,2023-11-27,wb2023112709
+04fccf5da0204701,2023-11-27,senat,arrivee,adrien madec,MADEC,Adrien,M.,alexandre ouizille,,Alexandre OUIZILLE,,,,,,,,wayback,moyen,2023-11-27,wb2023112709
+e9c6c4c5edd8dd6d,2023-11-27,senat,arrivee,agathe pichol,PICHOL,Agathe,Mme,bernard pillefer,,Bernard PILLEFER,,,,,,,,wayback,moyen,2023-11-27,wb2023112709
+e100a01f6d5074dc,2023-11-27,senat,arrivee,aida manouguian,MANOUGUIAN,Aïda,Mme,aeschlimann do marie,,Marie-Do AESCHLIMANN,,,,,,,,wayback,moyen,2023-11-27,wb2023112709
+dd5bef45526c4f09,2023-11-27,senat,arrivee,alexandre tange,TANGE,Alexandre,M.,barros pierre,,Pierre BARROS,,,,,,,elu_entrant,wayback,moyen,2023-11-27,wb2023112709
+bf09a434f35355ae,2023-11-27,senat,arrivee,allarousse virginie,ALLAROUSSE,Virginie,Mme,damien michallet,,Damien MICHALLET,,,,,,,elu_entrant,wayback,moyen,2023-11-27,wb2023112709
+f3889171b69e8c22,2023-11-27,senat,arrivee,amandine faure,FAURE,Amandine,Mme,jean pierre rochette,,Pierre-Jean ROCHETTE,,,,,,,elu_entrant,wayback,moyen,2023-11-27,wb2023112709
+e07a9316d8c9b01e,2023-11-27,senat,arrivee,anne frenoy gayaud laure,GAYAUD FRENOY,Anne-Laure,Mme,grosvalet philippe,,Philippe GROSVALET,,,,,,,,wayback,moyen,2023-11-27,wb2023112709
+653bcbcd1fea4b1f,2023-11-27,senat,arrivee,ariane monnier,MONNIER,Ariane,Mme,ouzoulias pierre,,Pierre OUZOULIAS,,,,,,,,wayback,moyen,2023-11-27,wb2023112709
+2ec25b0c7448ddbd,2023-11-27,senat,arrivee,arthur diot,DIOT,Arthur,M.,margate marianne,,Marianne MARGATÉ,,,,,,,,wayback,moyen,2023-11-27,wb2023112709
+8e9222ea7bb85af1,2023-11-27,senat,arrivee,aude dudenko,DUDENKO,Aude,Mme,audrey linkenheld,,Audrey LINKENHELD,,,,,,,,wayback,moyen,2023-11-27,wb2023112709
+1f2663c2da9f0942,2023-11-27,senat,depart,aurelie maillols,MAILLOLS,Aurélie,Mme,guylene pantel,,Guylène PANTEL,,,,,,,,wayback,moyen,2023-11-27,wb2023112709
+60c1c58f3409b16a,2023-11-27,senat,arrivee,aurelien brianceau roch,BRIANCEAU-ROCH,Aurélien,M.,canales marion,,Marion CANALÈS,,,,,,,,wayback,moyen,2023-11-27,wb2023112709
+b4babeb0a5dc7ba3,2023-11-27,senat,arrivee,baptiste jean lachenal,LACHENAL,Jean-Baptiste,M.,anne souyris,,Anne SOUYRIS,,,,,,,,wayback,moyen,2023-11-27,wb2023112709
+b594de7472a4189a,2023-11-27,senat,arrivee,bellan marie,BELLAN,Marie,Mme,bernard pillefer,,Bernard PILLEFER,,,,,,,,wayback,moyen,2023-11-27,wb2023112709
+80a2cff656d885a3,2023-11-27,senat,arrivee,benjamin derothe,DEROTHE,Benjamin,M.,corinne narassiguin,,Corinne NARASSIGUIN,,,,,,,,wayback,moyen,2023-11-27,wb2023112709
+62d5bb92b2c673be,2023-11-27,senat,arrivee,boespflug sarrazin thibaud,SARRAZIN-BOESPFLUG,Thibaud,M.,jean luc ruelle,,Jean-Luc RUELLE,,,,,,,elu_entrant,wayback,moyen,2023-11-27,wb2023112709
+627b54f23caab42a,2023-11-27,senat,depart,boura chamssidini,BOURA,Chamssidini,M.,mohamed soilihi thani,,Thani MOHAMED SOILIHI,,,,,,,,wayback,moyen,2023-11-27,wb2023112709
+f4829764ec3e28c9,2023-11-27,senat,arrivee,bouttet ludovic,BOUTTET,Ludovic,M.,jean pierre rochette,,Pierre-Jean ROCHETTE,,,,,,,elu_entrant,wayback,moyen,2023-11-27,wb2023112709
+8bc9f6dbd7e996b0,2023-11-27,senat,depart,breton gregory,BRETON,Grégory,M.,havet nadege,,Nadège HAVET,,,,,,,,wayback,moyen,2023-11-27,wb2023112709
+9cb3704fea45fb23,2023-11-27,senat,arrivee,breuil florence,BREUIL,Florence,Mme,antoine jocelyne,,Jocelyne ANTOINE,,,,,,,elu_entrant,wayback,moyen,2023-11-27,wb2023112709
+99a75cd4f4ccae05,2023-11-27,senat,arrivee,buisson du du frederique mesnil,du MESNIL du BUISSON,Frédérique,Mme,malet viviane,,Viviane MALET,,,,,,,,wayback,moyen,2023-11-27,wb2023112709
+eee6c3522a37952f,2023-11-27,senat,transfert,capucine faivre,FAIVRE,Capucine,Mme,daniel fargeot,,Daniel FARGEOT,,brisson max,,Max BRISSON,,,,wayback,moyen,2023-11-27,wb2023112709
+954374f7a0108273,2023-11-27,senat,arrivee,carpin samuel,CARPIN,Samuel,M.,briquet isabelle,,Isabelle BRIQUET,,,,,,,,wayback,moyen,2023-11-27,wb2023112709
+4e099b511c9d6d85,2023-11-27,senat,arrivee,chabli lyes,CHABLI,Lyes,M.,hir le sylvie valente,,Sylvie VALENTE LE HIR,,,,,,,elu_entrant,wayback,moyen,2023-11-27,wb2023112709
+0c946d4815f2b5b7,2023-11-27,senat,arrivee,chaffaud claire debre,DEBRE CHAFFAUD,Claire,Mme,louault vincent,,Vincent LOUAULT,,,,,,,,wayback,moyen,2023-11-27,wb2023112709
+f73f596c7ca2f0a8,2023-11-27,senat,arrivee,charlotte hemery,HEMERY,Charlotte,Mme,olivia richard,,Olivia RICHARD,,,,,,,elu_entrant,wayback,moyen,2023-11-27,wb2023112709
+88274b0a43812d8e,2023-11-27,senat,arrivee,charlotte sophie vito,VITO,Sophie-Charlotte,Mme,christine herzog,,Christine HERZOG,,,,,,,,wayback,moyen,2023-11-27,wb2023112709
+7f3b0aca00ad27d1,2023-11-27,senat,arrivee,charlotte tissut,TISSUT,Charlotte,Mme,bleunven yves,,Yves BLEUNVEN,,,,,,,,wayback,moyen,2023-11-27,wb2023112709
+41ead7c5ea65de3e,2023-11-27,senat,depart,cirillo valentin,CIRILLO,Valentin,M.,haye ludovic,,Ludovic HAYE,,,,,,,,wayback,moyen,2023-11-27,wb2023112709
+a0845162ff64a40d,2023-11-27,senat,arrivee,claoue mathieu,CLAOUE,Mathieu,M.,masset michel,,Michel MASSET,,,,,,,elu_entrant,wayback,moyen,2023-11-27,wb2023112709
+58cbfef555da5c1c,2023-11-27,senat,arrivee,constantin gantelet,GANTELET,Constantin,M.,christopher szczurek,,Christopher SZCZUREK,,,,,,,,wayback,moyen,2023-11-27,wb2023112709
+b99403ef0bf31216,2023-11-27,senat,arrivee,coue emilie,COUE,Emilie,Mme,bleunven yves,,Yves BLEUNVEN,,,,,,,,wayback,moyen,2023-11-27,wb2023112709
+a4e4ea268c9f1d63,2023-11-27,senat,arrivee,coutard paul,COUTARD,Paul,M.,michael weber,,Michaël WEBER,,,,,,,,wayback,moyen,2023-11-27,wb2023112709
+6314c032cac029f7,2023-11-27,senat,arrivee,d herouville le marie tanneur,D'HEROUVILLE-LE TANNEUR,Marie,Mme,haye ludovic,,Ludovic HAYE,,,,,,,,wayback,moyen,2023-11-27,wb2023112709
+07d8d59401b9dc44,2023-11-27,senat,arrivee,de graziella villepin,DE VILLEPIN,Graziella,Mme,francis szpiner,,Francis SZPINER,,,,,,,elu_entrant,wayback,moyen,2023-11-27,wb2023112709
+4726bd0fd19e6190,2023-11-27,senat,arrivee,de maupeou segolene,de MAUPEOU,Ségolène,Mme,simon uzenat,,Simon UZENAT,,,,,,,,wayback,moyen,2023-11-27,wb2023112709
+2b930f4bfb9d0bd3,2023-11-27,senat,arrivee,defaux stephanie,DEFAUX,Stéphanie,Mme,barros pierre,,Pierre BARROS,,,,,,,elu_entrant,wayback,moyen,2023-11-27,wb2023112709
+ce8c284b0e87b3b9,2023-11-27,senat,arrivee,denieault thomas,DENIEAULT,Thomas,M.,alberic de montgolfier,,Albéric de MONTGOLFIER,,,,,,,,wayback,moyen,2023-11-27,wb2023112709
+3d8b694b8a87a76a,2023-11-27,senat,arrivee,dijoux gabriel,DIJOUX,Gabriel,M.,corbiere evelyne naminzo,,Evelyne CORBIERE NAMINZO,,,,,,,elu_entrant,wayback,moyen,2023-11-27,wb2023112709
+f7f9c69be2ebed24,2023-11-27,senat,arrivee,dimitri ekoh,EKOH,Dimitri,M.,gagin paoli vanina,,Vanina PAOLI-GAGIN,,,,,,,,wayback,moyen,2023-11-27,wb2023112709
+3ab520586acf38d6,2023-11-27,senat,depart,ducloux nollan,DUCLOUX,Nöllan,M.,cabanel henri,,Henri CABANEL,,,,,,,,wayback,moyen,2023-11-27,wb2023112709
+9072914f45d411a3,2023-11-27,senat,depart,durand solene,DURAND,Solène,Mme,claude jean tissot,,Jean-Claude TISSOT,,,,,,,,wayback,moyen,2023-11-27,wb2023112709
+6de64be1f90a3618,2023-11-27,senat,arrivee,edouard fougere,FOUGERE,Edouard,M.,gagin paoli vanina,,Vanina PAOLI-GAGIN,,,,,,,,wayback,moyen,2023-11-27,wb2023112709
+295149014745c2f3,2023-11-27,senat,arrivee,edouard pack,PACK,Edouard,M.,rohfritsch teva,,Teva ROHFRITSCH,,,,,,,,wayback,moyen,2023-11-27,wb2023112709
+31ae2d310e9d174b,2023-11-27,senat,arrivee,emma hugues,HUGUES,Emma,Mme,daubet raphael,,Raphaël DAUBET,,,,,,,,wayback,moyen,2023-11-27,wb2023112709
+36f83b745385e08e,2023-11-27,senat,arrivee,emmanuelle ramond,RAMOND,Emmanuelle,Mme,daniel karine,,Karine DANIEL,,,,,,,elu_entrant,wayback,moyen,2023-11-27,wb2023112709
+bfdee10c1e9073ac,2023-11-27,senat,arrivee,emna sghaier,SGHAIER,Emna,Mme,adel ziane,,Adel ZIANE,,,,,,,,wayback,moyen,2023-11-27,wb2023112709
+c264ba24b5389373,2023-11-27,senat,arrivee,enrick marchand,MARCHAND,Enrick,M.,hochart joshua,,Joshua HOCHART,,,,,,,,wayback,moyen,2023-11-27,wb2023112709
+67f86b0156cab235,2023-11-27,senat,arrivee,gage hubert,GAGE,Hubert,M.,hir le sylvie valente,,Sylvie VALENTE LE HIR,,,,,,,elu_entrant,wayback,moyen,2023-11-27,wb2023112709
+94bdf1865f205bcf,2023-11-27,senat,arrivee,garcia julien,GARCIA,Julien,M.,guidez jocelyne,,Jocelyne GUIDEZ,,,,,,,,wayback,moyen,2023-11-27,wb2023112709
+212a0d516741172d,2023-11-27,senat,arrivee,gaudillat yanis,GAUDILLAT,Yanis,M.,hochart joshua,,Joshua HOCHART,,,,,,,,wayback,moyen,2023-11-27,wb2023112709
+0ec142973f20fdbb,2023-11-27,senat,arrivee,giannesini jacques jean,GIANNESINI,Jean-Jacques,M.,carrere claire gee marie,,Marie-Claire CARRÈRE-GÉE,,,,,,,,wayback,moyen,2023-11-27,wb2023112709
+9fbd4b82a5b2702f,2023-11-27,senat,arrivee,giry marie therese,GIRY,Marie-Thérèse,Mme,jean pierre rochette,,Pierre-Jean ROCHETTE,,,,,,,elu_entrant,wayback,moyen,2023-11-27,wb2023112709
+61ff28ba3149301d,2023-11-27,senat,arrivee,gorny oriane,GORNY,Oriane,Mme,florennes isabelle,,Isabelle FLORENNES,,,,,,,,wayback,moyen,2023-11-27,wb2023112709
+c58c2608eedee3ef,2023-11-27,senat,depart,hadouiri manale,HADOUIRI,Manale,Mme,merillou serge,,Serge MÉRILLOU,,,,,,,,wayback,moyen,2023-11-27,wb2023112709
+181626108f69e501,2023-11-27,senat,arrivee,hamu henriette,HAMU,Henriette,Mme,georges naturel,,Georges NATUREL,,,,,,,,wayback,moyen,2023-11-27,wb2023112709
+5b161a824393c8b6,2023-11-27,senat,arrivee,hee renaud,HEE,Renaud,M.,aymeric durox,,Aymeric DUROX,,,,,,,,wayback,moyen,2023-11-27,wb2023112709
+51912eac422e3dfb,2023-11-27,senat,arrivee,hermann sarah,HERMANN,Sarah,Mme,jean luc ruelle,,Jean-Luc RUELLE,,,,,,,elu_entrant,wayback,moyen,2023-11-27,wb2023112709
+beba7f102b43dfdc,2023-11-27,senat,arrivee,jacopin stephane,JACOPIN,Stéphane,M.,khalife khalife,,Khalifé KHALIFÉ,,,,,,,,wayback,moyen,2023-11-27,wb2023112709
+6a230089ab480c6e,2023-11-27,senat,depart,jakubowicz julia,JAKUBOWICZ,Julia,Mme,bansard jean pierre,,Jean-Pierre BANSARD,,,,,,,,wayback,moyen,2023-11-27,wb2023112709
+a7312bafeae04f18,2023-11-27,senat,arrivee,jarasse manon,JARASSE,Manon,Mme,jean luc ruelle,,Jean-Luc RUELLE,,,,,,,elu_entrant,wayback,moyen,2023-11-27,wb2023112709
+7a81ab9c45977fa9,2023-11-27,senat,arrivee,jocelyn linise,LINISE,Jocelyn,M.,buval frederic,,Frédéric BUVAL,,,,,,,,wayback,moyen,2023-11-27,wb2023112709
+46bc70ad5368bcf2,2023-11-27,senat,arrivee,jupiter sylvie,JUPITER,Sylvie,Mme,buval frederic,,Frédéric BUVAL,,,,,,,,wayback,moyen,2023-11-27,wb2023112709
+7717db0f9f467180,2023-11-27,senat,arrivee,laura roche,ROCHE,Laura,Mme,jean luc ruelle,,Jean-Luc RUELLE,,,,,,,elu_entrant,wayback,moyen,2023-11-27,wb2023112709
+316cbaa0ad944113,2023-11-27,senat,arrivee,laville paul,LAVILLE,Paul,M.,masset michel,,Michel MASSET,,,,,,,elu_entrant,wayback,moyen,2023-11-27,wb2023112709
+25698ef0b26a8930,2023-11-27,senat,depart,lazare levy,LEVY,Lazare,M.,cabanel henri,,Henri CABANEL,,,,,,,,wayback,moyen,2023-11-27,wb2023112709
+f4d484792260120b,2023-11-27,senat,arrivee,ledieu patrick,LEDIEU,Patrick,M.,jean pierre rochette,,Pierre-Jean ROCHETTE,,,,,,,elu_entrant,wayback,moyen,2023-11-27,wb2023112709
+01a46a06d7da54ba,2023-11-27,senat,arrivee,lidwine linard,LINARD,Lidwine,Mme,franck menonville,,Franck MENONVILLE,,,,,,,,wayback,moyen,2023-11-27,wb2023112709
+cf7d18816136adb0,2023-11-27,senat,arrivee,lisa roy,ROY,Lisa,Mme,antoine jocelyne,,Jocelyne ANTOINE,,,,,,,elu_entrant,wayback,moyen,2023-11-27,wb2023112709
+01356a2b2b5fbafc,2023-11-27,senat,arrivee,lize victorien,LIZE,Victorien,M.,chaillou christophe,,Christophe CHAILLOU,,,,,,,,wayback,moyen,2023-11-27,wb2023112709
+4292f752374dd4e1,2023-11-27,senat,depart,louis pretrot,PRETROT,Louis,M.,hugues saury,,Hugues SAURY,,,,,,,,wayback,moyen,2023-11-27,wb2023112709
+90b7403b7b0d1334,2023-11-27,senat,arrivee,lucie munck stoffel,STOFFEL-MUNCK,Lucie,Mme,francis szpiner,,Francis SZPINER,,,,,,,elu_entrant,wayback,moyen,2023-11-27,wb2023112709
+8577c62f54fd82cf,2023-11-27,senat,arrivee,lucine sarkissian,SARKISSIAN,Lucine,Mme,anne souyris,,Anne SOUYRIS,,,,,,,,wayback,moyen,2023-11-27,wb2023112709
+74f46f0bd2c48862,2023-11-27,senat,arrivee,marie perrin,PERRIN,Marie,Mme,damien michallet,,Damien MICHALLET,,,,,,,elu_entrant,wayback,moyen,2023-11-27,wb2023112709
+8dfd202dcd8291a7,2023-11-27,senat,arrivee,marion yoann,MARION,Yoann,M.,daniel karine,,Karine DANIEL,,,,,,,elu_entrant,wayback,moyen,2023-11-27,wb2023112709
+cbe33f55d6fe66d9,2023-11-27,senat,arrivee,martin raphael,MARTIN,Raphaël,M.,alexandre ouizille,,Alexandre OUIZILLE,,,,,,,,wayback,moyen,2023-11-27,wb2023112709
+c659365f244e4331,2023-11-27,senat,arrivee,matthew reardon,REARDON,Matthew,M.,annick girardin,,Annick GIRARDIN,,,,,,,,wayback,moyen,2023-11-27,wb2023112709
+4e44cb09f780849f,2023-11-27,senat,transfert,ornella petrides,PETRIDES,Ornella,Mme,fagnen sebastien,,Sébastien FAGNEN,,jacquin olivier,,Olivier JACQUIN,,,,wayback,moyen,2023-11-27,wb2023112709
+60547ca821dd4d97,2023-11-27,senat,arrivee,ramia salama,RAMIA,Salama,Mme,mohamed soilihi thani,,Thani MOHAMED SOILIHI,,,,,,,,wayback,moyen,2023-11-27,wb2023112709
+9ce3c9e54656810d,2023-11-27,senat,arrivee,ratto robin,RATTO,Robin,M.,josende lauriane,,Lauriane JOSENDE,,,,,,,,wayback,moyen,2023-11-27,wb2023112709
+bd26e6d6b3587d7d,2023-11-27,senat,arrivee,rucin simon,RUCIN,Simon,M.,alain pierre roiron,,Pierre-Alain ROIRON,,,,,,,,wayback,moyen,2023-11-27,wb2023112709
+9f4b95388659aa9b,2023-11-27,senat,arrivee,ruellan tanguy,RUELLAN,Tanguy,M.,ghislaine senee,,Ghislaine SENÉE,,,,,,,,wayback,moyen,2023-11-27,wb2023112709
+ab62423a870d295a,2023-11-27,senat,arrivee,thomas vigot,VIGOT,Thomas,M.,audrey belim,,Audrey BÉLIM,,,,,,,elu_entrant,wayback,moyen,2023-11-27,wb2023112709
+ca0de65c44c86d1b,2023-11-29,senat,depart,angelique susini,SUSINI,Angélique,Mme,pla sebastien,,Sébastien PLA,,,,,,,,wayback,moyen,2023-11-29,wb2023112907
+755793c20881edba,2023-11-29,senat,arrivee,apolline halbecq,HALBECQ,Apolline,Mme,hugues saury,,Hugues SAURY,,,,,,,,wayback,moyen,2023-11-29,wb2023112907
+48330e4dde79c02b,2023-11-29,senat,arrivee,arthur gadenne,GADENNE,Arthur,M.,olivia richard,,Olivia RICHARD,,,,,,,,wayback,moyen,2023-11-29,wb2023112907
+6e0332e1f0dd483f,2023-11-29,senat,arrivee,balana camille,BALANA,Camille,M.,margate marianne,,Marianne MARGATÉ,,,,,,,,wayback,moyen,2023-11-29,wb2023112907
+8a823bdf295143b8,2023-11-29,senat,arrivee,dhaker trabelsi,TRABELSI,Dhaker,M.,mathilde ollivier,,Mathilde OLLIVIER,,,,,,,,wayback,moyen,2023-11-29,wb2023112907
+788b3f2675b67f2e,2023-11-29,senat,depart,masson veyrat vincent,VEYRAT MASSON,Vincent,M.,iacovelli xavier,,Xavier IACOVELLI,,,,,,,,wayback,moyen,2023-11-29,wb2023112907
+74e6016af8da85ae,2023-11-30,senat,arrivee,christine fompudie,FOMPUDIE,Christine,Mme,masset michel,,Michel MASSET,,,,,,,,wayback,moyen,2023-11-30,wb2023113020
+32245347667b690d,2023-12-01,senat,depart,ahmed fadul fatouma,AHMED FADUL,Fatouma,Mme,mohamed soilihi thani,,Thani MOHAMED SOILIHI,,,,,,,,wayback,moyen,2023-12-01,wb2023120120
+776a433446ad66c0,2023-12-01,senat,depart,alain esperinas gnocchi,GNOCCHI-ESPERINAS,Alain,M.,bourgi hussein,,Hussein BOURGI,,,,,,,,wayback,moyen,2023-12-01,wb2023120120
+6ae453f1e3ab578f,2023-12-01,senat,depart,bruno thiery,THIERY,Bruno,M.,christine herzog,,Christine HERZOG,,,,,,,,wayback,moyen,2023-12-01,wb2023120120
+616b66a43151e90b,2024-04-30,senat,arrivee,a dana serhir,SERHIR,Dana'a,Mme,akli mellouli,,Akli MELLOULI,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+030eb1e6c8109d4e,2024-04-30,senat,transfert,abi elie saad,ABI SAAD,Elie,M.,khalife khalife,,Khalifé KHALIFÉ,,guerriau joel,,Joël GUERRIAU,,,,wayback,moyen,2024-04-30,wb2024043019
+2e5ae871832b7a59,2024-04-30,senat,depart,achfaa soumia,ACHFAA,Soumia,Mme,ahmed laouedj,,Ahmed LAOUEDJ,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+a1229f560eec3a73,2024-04-30,senat,arrivee,adam wahabi,WAHABI,Adam,M.,iacovelli xavier,,Xavier IACOVELLI,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+1b6dfb976d54417c,2024-04-30,senat,depart,adrien de van walle,VAN DE WALLE,Adrien,M.,berthet martine,,Martine BERTHET,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+3c9f5f189eb9ccac,2024-04-30,senat,arrivee,ahamada mounayat,AHAMADA,Mounayat,Mme,mohamed soilihi thani,,Thani MOHAMED SOILIHI,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+b4954c8e57c17b7c,2024-04-30,senat,arrivee,alain esperinas gnocchi,GNOCCHI-ESPERINAS,Alain,M.,bourgi hussein,,Hussein BOURGI,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+db8c9f46218ed1e6,2024-04-30,senat,arrivee,alban merian,MERIAN,Alban,M.,josende lauriane,,Lauriane JOSENDE,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+a27a37edab2b2aec,2024-04-30,senat,arrivee,alban smith,SMITH,Alban,M.,martin pauline,,Pauline MARTIN,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+eeb11bb2c9d4f428,2024-04-30,senat,arrivee,alessandria annabelle,ALESSANDRIA,Annabelle,Mme,josende lauriane,,Lauriane JOSENDE,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+993d7bd8a2f0b974,2024-04-30,senat,arrivee,alexandre laurent,LAURENT,Alexandre,M.,michael weber,,Michaël WEBER,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+34269de57a6658d9,2024-04-30,senat,arrivee,alexandre queron,QUERON,Alexandre,M.,boyer valerie,,Valérie BOYER,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+08c5a04ab0472996,2024-04-30,senat,arrivee,alexis d leili,D'ALEXIS,Leïli,M.,nadille solanges,,Solanges NADILLE,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+4b2ef9e7681f7f75,2024-04-30,senat,arrivee,alicot karine,ALICOT,Karine,Mme,faure jean marc vayssouze,,Jean-Marc VAYSSOUZE-FAURE,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+415c6e96ede8b1e1,2024-04-30,senat,arrivee,amoussou syndie,AMOUSSOU,Syndie,Mme,jean luc ruelle,,Jean-Luc RUELLE,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+f4d72cf2408ff1fd,2024-04-30,senat,arrivee,anais vivion,VIVION,Anaïs,Mme,daniel karine,,Karine DANIEL,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+effcb9276e2d629b,2024-04-30,senat,depart,angelique susini,SUSINI,Angélique,Mme,audrey linkenheld,,Audrey LINKENHELD,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+9e94dc3e4bc47a73,2024-04-30,senat,arrivee,anna koulakssis,KOULAKSSIS,Anna,Mme,louault vincent,,Vincent LOUAULT,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+607ed6d7706d94ed,2024-04-30,senat,arrivee,annick de gonzague,de GONZAGUE,Annick,Mme,buval frederic,,Frédéric BUVAL,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+7319cbc249a54b22,2024-04-30,senat,depart,antoine authier marc,AUTHIER,Marc-Antoine,M.,capus emmanuel,,Emmanuel CAPUS,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+d4e82c8f9da062af,2024-04-30,senat,arrivee,antoine capblancq robert,ROBERT CAPBLANCQ,Antoine,M.,brisson max,,Max BRISSON,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+d59a7f71be84ee9f,2024-04-30,senat,arrivee,antoine capblancq robert,ROBERT CAPBLANCQ,Antoine,M.,piednoir stephane,,Stéphane PIEDNOIR,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+152ca367c4fcfda1,2024-04-30,senat,arrivee,antonin lesieur,LESIEUR,Antonin,M.,kanner patrick,,Patrick KANNER,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+e6e98650af117917,2024-04-30,senat,arrivee,antonin porcu,PORCU,Antonin,M.,christian klinger,,Christian KLINGER,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+e0bc9ff4b66aa703,2024-04-30,senat,arrivee,aodren magnard,MAGNARD,Aodren,M.,joly patrice,,Patrice JOLY,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+fc4282a5bc14584c,2024-04-30,senat,arrivee,ardenghi nanou pernot,PERNOT-ARDENGHI,Nanou,Mme,clement pernot,,Clément PERNOT,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+d4d541190a4c89f2,2024-04-30,senat,arrivee,ari salot,SALOT,Ari,M.,jacquin olivier,,Olivier JACQUIN,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+dd7b13f7e336b9bf,2024-04-30,senat,arrivee,armand douin,DOUIN,Armand,M.,hugonet jean raymond,,Jean-Raymond HUGONET,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+886485567e3641bd,2024-04-30,senat,depart,armelle blanzat,BLANZAT,Armelle,Mme,gerard larcher,,Gérard LARCHER,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+2b8d878b0a049b77,2024-04-30,senat,arrivee,arruga beatrice,ARRUGA,Béatrice,Mme,brault jean luc,,Jean-Luc BRAULT,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+70cfb634324b3ff4,2024-04-30,senat,depart,arthur gueulle,GUEULLE,Arthur,M.,agnes canayer,,Agnès CANAYER,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+9afe9492db4e5067,2024-04-30,senat,depart,auche eymeric,AUCHE,Eymeric,M.,delattre nathalie,,Nathalie DELATTRE,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+c473d1baa25453b3,2024-04-30,senat,transfert,aude chavane,CHAVANE,Aude,Mme,bellamy jeanne marie,,Marie-Jeanne BELLAMY,,bouloux yves,,Yves BOULOUX,,,elu_sortant,wayback,moyen,2024-04-30,wb2024043019
+fbeecd1540d3d958,2024-04-30,senat,arrivee,audrey essola,ESSOLA,Audrey,M.,simon uzenat,,Simon UZENAT,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+b5155e271abac4b8,2024-04-30,senat,arrivee,audrey milani,MILANI,Audrey,Mme,bonfanti christine dossat,,Christine BONFANTI-DOSSAT,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+79f1df87822cb9a4,2024-04-30,senat,arrivee,aurelien chevallier,CHEVALLIER,Aurélien,M.,pla sebastien,,Sébastien PLA,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+a433323e6fe87785,2024-04-30,senat,arrivee,aurianne fleret,FLERET,Aurianne,Mme,sylvie vermeillet,,Sylvie VERMEILLET,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+54a8bec3ab82b529,2024-04-30,senat,depart,auriol elsa,AURIOL,Elsa,Mme,herve marseille,,Hervé MARSEILLE,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+969c13e9f9c2af09,2024-04-30,senat,arrivee,avril calka,CALKA,Avril,Mme,ghislaine senee,,Ghislaine SENÉE,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+e9da89e2e4e60f1e,2024-04-30,senat,arrivee,awa youssouf,YOUSSOUF,Awa,Mme,oili omar said,,Saïd OMAR OILI,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+e5d7879c70b32f64,2024-04-30,senat,depart,axelle pannier,PANNIER,Axelle,Mme,kristina pluchet,,Kristina PLUCHET,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+081548a30d6a05ba,2024-04-30,senat,depart,aymeric de rouge,DE ROUGE,Aymeric,M.,alberic de montgolfier,,Albéric de MONTGOLFIER,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+ac12ec68b64962ef,2024-04-30,senat,arrivee,balisoni barbara pianelli,PIANELLI-BALISONI,Barbara,Mme,parigi paul toussaint,,Paul Toussaint PARIGI,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+a4395198d78c0b6e,2024-04-30,senat,arrivee,baloul veronique,BALOUL,Véronique,Mme,bitz olivier,,Olivier BITZ,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+59ee56f55adb13b1,2024-04-30,senat,depart,baptiste chaleroux jean,CHALEROUX,Jean-Baptiste,M.,cedric perrin,,Cédric PERRIN,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+4402480c481324e8,2024-04-30,senat,arrivee,barou baye m,M'BAYE,Barou,M.,georges patient,,Georges PATIENT,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+617078f4475d063b,2024-04-30,senat,arrivee,barviaux francois,BARVIAUX,François,M.,josende lauriane,,Lauriane JOSENDE,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+f083c8d759d07593,2024-04-30,senat,arrivee,bastide stephanie,BASTIDE,Stéphanie,Mme,canales marion,,Marion CANALÈS,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+d283300136c3f615,2024-04-30,senat,arrivee,belanger xavier,BELANGER,Xavier,M.,jourda muriel,,Muriel JOURDA,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+05e109ed9943c81d,2024-04-30,senat,depart,benjamin candalot,CANDALOT,Benjamin,M.,carrere maryse,,Maryse CARRÈRE,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+f2a8083637e91686,2024-04-30,senat,depart,benjamin locatelli,LOCATELLI,Benjamin,M.,courtial edouard,,Édouard COURTIAL,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+113988930f9ad6ff,2024-04-30,senat,depart,benoit kerrain,KERRAIN,Benoît,M.,guerriau joel,,Joël GUERRIAU,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+ccd48ce9ab401973,2024-04-30,senat,arrivee,berengere bouriez,BOURIEZ,Bérengère,Mme,claude lermytte marie,,Marie-Claude LERMYTTE,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+7c20595cf7168648,2024-04-30,senat,arrivee,bernard maxance,BERNARD,Maxance,M.,franck menonville,,Franck MENONVILLE,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+ac7323d3d99ec922,2024-04-30,senat,arrivee,berne maxime,BERNE,Maxime,M.,bourcier corinne,,Corinne BOURCIER,,,,,,,elu_entrant,wayback,moyen,2024-04-30,wb2024043019
+7e829bd457c47240,2024-04-30,senat,arrivee,beryl boyer,BOYER,Béryl,Mme,baptiste blanc jean,,Jean-Baptiste BLANC,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+82d17a1befff84ad,2024-04-30,senat,arrivee,billon claudie,BILLON,Claudie,Mme,havet nadege,,Nadège HAVET,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+f7bf6d87e62173f5,2024-04-30,senat,arrivee,birahima traore,TRAORE,Birahima,M.,david ros,,David ROS,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+889e352dfe110766,2024-04-30,senat,arrivee,blanc terence,BLANC,Terence,M.,georges naturel,,Georges NATUREL,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+5505b9a9aa81ec06,2024-04-30,senat,arrivee,bocquet thomas,BOCQUET,Thomas,M.,ghislaine senee,,Ghislaine SENÉE,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+6396d6d5cae38593,2024-04-30,senat,arrivee,bonnard josephine,BONNARD,Joséphine,Mme,antoinette guhl,,Antoinette GUHL,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+aecc864fab123fb9,2024-04-30,senat,depart,bonnefous eric,BONNEFOUS,Eric,M.,piednoir stephane,,Stéphane PIEDNOIR,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+f7088d5c2ccc55f8,2024-04-30,senat,arrivee,bonnefous eric,BONNEFOUS,Eric,M.,chevrollier guillaume,,Guillaume CHEVROLLIER,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+915d01e6a4b043e4,2024-04-30,senat,arrivee,bonnefous eric,BONNEFOUS,Eric,M.,michel savin,,Michel SAVIN,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+1e45b2d94ef9d342,2024-04-30,senat,arrivee,boucher thibault,BOUCHER,Thibault,M.,audrey belim,,Audrey BÉLIM,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+d657418b0bac68dd,2024-04-30,senat,arrivee,boulay eric,BOULAY,Eric,M.,louault vincent,,Vincent LOUAULT,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+04cb7c51f8ac37eb,2024-04-30,senat,depart,brandenburg brice,BRANDENBURG,Brice,M.,herve maurey,,Hervé MAUREY,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+56855c0ba0c50f71,2024-04-30,senat,depart,bruno janot,JANOT,Bruno,M.,eric kerrouche,,Éric KERROUCHE,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+0ee252b6de8b4ec9,2024-04-30,senat,depart,bruno janot,JANOT,Bruno,M.,lubin monique,,Monique LUBIN,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+619d4446d9b64974,2024-04-30,senat,depart,buisson du du frederique mesnil,du MESNIL du BUISSON,Frédérique,Mme,hugonet jean raymond,,Jean-Raymond HUGONET,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+bfc43c9ca737d536,2024-04-30,senat,depart,buisson du du frederique mesnil,du MESNIL du BUISSON,Frédérique,Mme,malet viviane,,Viviane MALET,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+affeb41af2be0c9f,2024-04-30,senat,arrivee,capucine fiacre,FIACRE,Capucine,Mme,iacovelli xavier,,Xavier IACOVELLI,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+100a9775a98609e1,2024-04-30,senat,arrivee,capucine lespilette,LESPILETTE,Capucine,Mme,greaume michelle,,Michelle GRÉAUME,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+f3c66da5b48da86d,2024-04-30,senat,depart,carissimo rodolphe,CARISSIMO,Rodolphe,M.,hugues saury,,Hugues SAURY,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+651f0c91ac02d53e,2024-04-30,senat,depart,carissimo rodolphe,CARISSIMO,Rodolphe,M.,martin pauline,,Pauline MARTIN,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+15bcc1c2b2406de3,2024-04-30,senat,depart,caroline duc,DUC,Caroline,Mme,agnes evren,,Agnès EVREN,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+99a1df294404542f,2024-04-30,senat,transfert,caroline gaillard,GAILLARD,Caroline,Mme,bellamy jeanne marie,,Marie-Jeanne BELLAMY,,bouloux yves,,Yves BOULOUX,,,elu_sortant,wayback,moyen,2024-04-30,wb2024043019
+0f7c4096ecf5d242,2024-04-30,senat,arrivee,caroline racine,RACINE,Caroline,Mme,michael weber,,Michaël WEBER,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+2ae4af5a46dd0da8,2024-04-30,senat,depart,casa michele,CASA,Michèle,Mme,dumont francoise,,Françoise DUMONT,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+b77002dc96bf362c,2024-04-30,senat,arrivee,catherine durand eleonore,DURAND,Catherine-Eléonore,Mme,agnes evren,,Agnès EVREN,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+47287fa2fa1b51cf,2024-04-30,senat,arrivee,catherine leclere,LECLERE,Catherine,Mme,bacchi jeremy,,Jérémy BACCHI,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+7131cba4683bf5ab,2024-04-30,senat,arrivee,celine devoise,DEVOISE,Céline,Mme,alain houpert,,Alain HOUPERT,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+7151937366b49234,2024-04-30,senat,depart,certain nils,CERTAIN,Nils,M.,dominique theophile,,Dominique THÉOPHILE,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+bf470a8f9d29be96,2024-04-30,senat,transfert,chabanne delphine michel,MICHEL-CHABANNE,Delphine,Mme,jouve mireille,,Mireille JOUVE,,guerini jean noel,,Jean-Noël GUÉRINI,,,elu_sortant,wayback,moyen,2024-04-30,wb2024043019
+83a8830906cd4864,2024-04-30,senat,depart,chabli lyes,CHABLI,Lyes,M.,hir le sylvie valente,,Sylvie VALENTE LE HIR,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+65de23597820a5f0,2024-04-30,senat,depart,chabli lyes,CHABLI,Lyes,M.,olivier paccaud,,Olivier PACCAUD,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+825484f4212361da,2024-04-30,senat,arrivee,chanez herbanne,HERBANNE,Chanez,Mme,courtial edouard,,Édouard COURTIAL,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+2ce40fb3bb27f700,2024-04-30,senat,arrivee,chauvin sarah,CHAUVIN,Sarah,Mme,boyer jean marc,,Jean-Marc BOYER,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+e9a4e1064565c5ef,2024-04-30,senat,arrivee,chenouf ibrahim,CHENOUF,Ibrahim,M.,blanc gregory,,Grégory BLANC,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+c7e29f7f5c920dbb,2024-04-30,senat,depart,chevrollier daina,CHEVROLLIER,Daïna,Mme,piednoir stephane,,Stéphane PIEDNOIR,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+d599be6c81a7d29c,2024-04-30,senat,arrivee,christine vaudron,VAUDRON,Christine,Mme,bitz olivier,,Olivier BITZ,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+547189802b7fe2e3,2024-04-30,senat,depart,christopher grohin,GROHIN,Christopher,M.,dumont francoise,,Françoise DUMONT,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+eea8de6d9ea863dd,2024-04-30,senat,depart,claire grignon,GRIGNON,Claire,Mme,belin bruno,,Bruno BELIN,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+8204f74512a74a48,2024-04-30,senat,depart,clauzel isabelle,CLAUZEL,Isabelle,Mme,boyer jean marc,,Jean-Marc BOYER,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+f00a293cb238b6aa,2024-04-30,senat,arrivee,clemence precetti,PRECETTI,Clémence,Mme,daniel fargeot,,Daniel FARGEOT,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+e192b7d8b263925c,2024-04-30,senat,arrivee,clementine laure,LAURE,Clémentine,Mme,antoine levi pierre,,Pierre-Antoine LEVI,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+3554d7cd5794d915,2024-04-30,senat,arrivee,clotilde robin,ROBIN,Clotilde,Mme,herve reynaud,,Hervé REYNAUD,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+92df529532946643,2024-04-30,senat,depart,codina delio,CODINA,Délio,M.,de gontrie la marie pierre,,Marie-Pierre de LA GONTRIE,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+a1fb0204dc13fe8d,2024-04-30,senat,arrivee,coisgaud jessica,COISGAUD,Jessica,Mme,bourcier corinne,,Corinne BOURCIER,,,,,,,elu_entrant,wayback,moyen,2024-04-30,wb2024043019
+a916970fc9eaa1d3,2024-04-30,senat,arrivee,coisgaud jessica,COISGAUD,Jessica,Mme,capus emmanuel,,Emmanuel CAPUS,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+32ba31b933b3d453,2024-04-30,senat,depart,comtet fragne geraldine,FRAGNE,- COMTET Géraldine,Mme,chavent goy sylvie,,Sylvie GOY-CHAVENT,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+7ad3f9c39973e25d,2024-04-30,senat,arrivee,comtet geraldine,COMTET,Géraldine,Mme,chavent goy sylvie,,Sylvie GOY-CHAVENT,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+e3341d47a888c9b7,2024-04-30,senat,depart,constant hecquefeuille,HECQUEFEUILLE,Constant,M.,gruny pascale,,Pascale GRUNY,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+90df6bfc4c078a51,2024-04-30,senat,depart,couet lauriane,COUET,Lauriane,Mme,cozic thierry,,Thierry COZIC,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+62cdc63a47283fd4,2024-04-30,senat,arrivee,crespeau karine,CRESPEAU,Karine,Mme,bourcier corinne,,Corinne BOURCIER,,,,,,,elu_entrant,wayback,moyen,2024-04-30,wb2024043019
+1188099065fdc9a8,2024-04-30,senat,depart,d herouville le marie tanneur,D'HEROUVILLE-LE TANNEUR,Marie,Mme,haye ludovic,,Ludovic HAYE,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+8b34cc5b1810e551,2024-04-30,senat,depart,daubresse mathieu,DAUBRESSE,Mathieu,M.,mickael vallet,,Mickaël VALLET,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+b852f4f5d0877b16,2024-04-30,senat,depart,de enzo gregorio,DE GREGORIO,Enzo,M.,gerard lahellec,,Gérard LAHELLEC,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+75bd2e440a5b79a3,2024-04-30,senat,arrivee,delacoux des marin roseaux,DELACOUX DES ROSEAUX,Marin,M.,bourcier corinne,,Corinne BOURCIER,,,,,,,elu_entrant,wayback,moyen,2024-04-30,wb2024043019
+b92199187ac8a3f3,2024-04-30,senat,arrivee,delacoux des marin roseaux,DELACOUX DES ROSEAUX,Marin,M.,jean pierre rochette,,Pierre-Jean ROCHETTE,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+852d9744b7c0bf1c,2024-04-30,senat,arrivee,delaitre jade,DELAITRE,Jade,Mme,anne romagny sophie,,Anne-Sophie ROMAGNY,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+c7c67143ea4bb6a9,2024-04-30,senat,depart,delphine lavau,LAVAU,Delphine,Mme,gontard guillaume,,Guillaume GONTARD,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+56373f5629581c8e,2024-04-30,senat,arrivee,divo lea,DIVO,Léa,Mme,catherine desailly morin,,Catherine MORIN-DESAILLY,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+d706b434a71e747a,2024-04-30,senat,arrivee,dostes romain,DOSTES,Romain,M.,de marco monique,,Monique de MARCO,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+4786189e0cb6a2fe,2024-04-30,senat,arrivee,dufosse elisa,DUFOSSE,Elisa,Mme,kristina pluchet,,Kristina PLUCHET,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+43d698cab312307f,2024-04-30,senat,arrivee,duigou gaelle,DUIGOU,Gaëlle,Mme,daniel fargeot,,Daniel FARGEOT,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+e8ee4c663af3ecc2,2024-04-30,senat,depart,duperray fanny,DUPERRAY,Fanny,Mme,daniel salmon,,Daniel SALMON,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+a2cc4ed808cb8257,2024-04-30,senat,depart,duval jord,DUVAL,Jord,M.,benarroche guy,,Guy BENARROCHE,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+6a25240195851353,2024-04-30,senat,arrivee,emilio perrault,PERRAULT,Emilio,M.,delattre nathalie,,Nathalie DELATTRE,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+db75b980e8af38a4,2024-04-30,senat,depart,emma mathioudakis,MATHIOUDAKIS,Emma,Mme,akli mellouli,,Akli MELLOULI,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+f5ba98bee0361a83,2024-04-30,senat,arrivee,emmanuelle toucourt,TOUCOURT,Emmanuelle,Mme,alain pierre roiron,,Pierre-Alain ROIRON,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+51b0c9ec2a5ccac8,2024-04-30,senat,arrivee,estique melanie,ESTIQUE,Mélanie,Mme,bansard jean pierre,,Jean-Pierre BANSARD,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+d73671d1822a918c,2024-04-30,senat,depart,evelyne surgot,SURGOT,Evelyne,Mme,frederique puissat,,Frédérique PUISSAT,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+1a1730b63a3cd859,2024-04-30,senat,arrivee,farda rachid,RACHID,Farda,Mme,mohamed soilihi thani,,Thani MOHAMED SOILIHI,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+1671af3c2fcc6c8b,2024-04-30,senat,arrivee,faycal kaddour,KADDOUR,Fayçal,M.,akli mellouli,,Akli MELLOULI,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+6b8a50590b7e97c1,2024-04-30,senat,arrivee,fiorello valentine,FIORELLO,Valentine,Mme,herve reynaud,,Hervé REYNAUD,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+c0ac2b48cea24998,2024-04-30,senat,arrivee,flavie noel,NOEL,Flavie,Mme,fagnen sebastien,,Sébastien FAGNEN,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+f93cb9032b5836c0,2024-04-30,senat,depart,fline thibault,FLINE,Thibault,M.,cuypers pierre,,Pierre CUYPERS,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+7692b608f62ae248,2024-04-30,senat,depart,force guillaume,FORCE,Guillaume,M.,alain joyandet,,Alain JOYANDET,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+b4af88539cc1a87d,2024-04-30,senat,arrivee,fouille le lenaig,LE FOUILLE,Lénaig,Mme,dantec ronan,,Ronan DANTEC,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+2a8d7d244c63ac8e,2024-04-30,senat,transfert,francois le magali,LE FRANCOIS,Magali,Mme,jouve mireille,,Mireille JOUVE,,guerini jean noel,,Jean-Noël GUÉRINI,,,elu_sortant,wayback,moyen,2024-04-30,wb2024043019
+aef276329b7e167a,2024-04-30,senat,arrivee,frederic froment,FROMENT,Frédéric,M.,frederique puissat,,Frédérique PUISSAT,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+fe801a6e5872f821,2024-04-30,senat,depart,gabin peyros,PEYROS,Gabin,M.,bitz olivier,,Olivier BITZ,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+a166eb24a6a9d463,2024-04-30,senat,transfert,gaches stephanie,GACHES,Stéphanie,Mme,elsa schalck,,Elsa SCHALCK,,anne chain larche,,Anne CHAIN-LARCHÉ,,,,wayback,moyen,2024-04-30,wb2024043019
+ac3488a2d5d6f6a4,2024-04-30,senat,arrivee,gaudillat yanis,GAUDILLAT,Yanis,M.,christopher szczurek,,Christopher SZCZUREK,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+fbb1e293bd6a6d33,2024-04-30,senat,arrivee,gayrard theophile,GAYRARD,Théophile,M.,hugues saury,,Hugues SAURY,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+c7d0e1069d639abd,2024-04-30,senat,arrivee,gingali lisa tonia,GINGALI,Tonia-Lisa,Mme,berthet martine,,Martine BERTHET,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+9c8dcb4782e0cbbf,2024-04-30,senat,depart,giry marie therese,GIRY,Marie-Thérèse,Mme,jean pierre rochette,,Pierre-Jean ROCHETTE,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+ec62f926b460cc9a,2024-04-30,senat,depart,goirand sylvie,GOIRAND,Sylvie,Mme,brigitte devesa,,Brigitte DEVÉSA,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+97b87dddb6531a00,2024-04-30,senat,arrivee,gregoire kinossian,KINOSSIAN,Grégoire,M.,herve maurey,,Hervé MAUREY,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+52024d78371f022c,2024-04-30,senat,depart,guieau virginie,GUIEAU,Virginie,Mme,bleunven yves,,Yves BLEUNVEN,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+a8d6cc8f05e46e4b,2024-04-30,senat,arrivee,gwendoline tarquis,TARQUIS,Gwendoline,Mme,georges naturel,,Georges NATUREL,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+9d27837feed395ff,2024-04-30,senat,depart,hainigue marc,HAINIGUE,Marc,M.,greaume michelle,,Michelle GRÉAUME,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+1e95dacf40f5e53b,2024-04-30,senat,arrivee,halberstadt thomas,HALBERSTADT,Thomas,M.,nadille solanges,,Solanges NADILLE,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+64da9ca0a1d37e14,2024-04-30,senat,arrivee,hnepeune samuel,HNEPEUNE,Samuel,M.,robert wienie xowie,,Robert Wienie XOWIE,,,,,,,elu_entrant,wayback,moyen,2024-04-30,wb2024043019
+c159817cf3fbc38e,2024-04-30,senat,arrivee,hugo teixeira,TEIXEIRA,Hugo,M.,antoine lefevre,,Antoine LEFÈVRE,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+c82a3b63db5bd984,2024-04-30,senat,arrivee,isabelle lannuzel,LANNUZEL,Isabelle,Mme,havet nadege,,Nadège HAVET,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+5488a51bce0cd645,2024-04-30,senat,arrivee,isabelle mariage,MARIAGE,Isabelle,Mme,dhersin franck,,Franck DHERSIN,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+f1017fb9069cd2cd,2024-04-30,senat,arrivee,jacquelin pineau,PINEAU,Jacquelin,M.,cambon christian,,Christian CAMBON,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+3db0a1763936ea74,2024-04-30,senat,depart,jacquemin veronique,JACQUEMIN,Véronique,Mme,bonfanti christine dossat,,Christine BONFANTI-DOSSAT,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+7d6be02cdcf3d659,2024-04-30,senat,arrivee,jacques jean roset,ROSET,Jean-Jacques,M.,brault jean luc,,Jean-Luc BRAULT,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+0944d3a0d05f9400,2024-04-30,senat,arrivee,jacques pauline,JACQUES,Pauline,Mme,gerard lahellec,,Gérard LAHELLEC,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+dec2c8dfc0c3da1c,2024-04-30,senat,depart,johann nezelof,NEZELOF,Johann,M.,dominique estrosi sassone,,Dominique ESTROSI SASSONE,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+d23e512115a63a56,2024-04-30,senat,arrivee,jules mario moreau,MOREAU,Jules Mario,M.,fouassin stephane,,Stéphane FOUASSIN,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+fc0ff4b8c354cb6d,2024-04-30,senat,arrivee,juliette robichon,ROBICHON,Juliette,Mme,chaillou christophe,,Christophe CHAILLOU,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+da16891f425ef361,2024-04-30,senat,arrivee,kerbouche mathieu,KERBOUCHE,Mathieu,M.,antoinette guhl,,Antoinette GUHL,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+3e3ea92e2783b5d5,2024-04-30,senat,depart,lanoire sibylle,LANOIRE,Sibylle,Mme,ghislaine senee,,Ghislaine SENÉE,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+518b9172cf6cb013,2024-04-30,senat,depart,le lydie pabic,LE PABIC,Lydie,Mme,jourda muriel,,Muriel JOURDA,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+dc5989fecb1afa69,2024-04-30,senat,arrivee,lefevre marine,LEFEVRE,Marine,Mme,gruny pascale,,Pascale GRUNY,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+d6976a8e3bc1a888,2024-04-30,senat,arrivee,lena pirard,PIRARD,Léna,Mme,berthet martine,,Martine BERTHET,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+5f5418ffa1586ff6,2024-04-30,senat,depart,lidwine linard,LINARD,Lidwine,Mme,franck menonville,,Franck MENONVILLE,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+3af4ca2046b8d1da,2024-04-30,senat,arrivee,lisa pernet,PERNET,Lisa,Mme,berthet martine,,Martine BERTHET,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+faea61d3c3d82acc,2024-04-30,senat,arrivee,lisa pernet,PERNET,Lisa,Mme,francois husson jean,,Jean-François HUSSON,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+effd95a029f2a986,2024-04-30,senat,depart,lize victorien,LIZE,Victorien,M.,chaillou christophe,,Christophe CHAILLOU,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+cb42c348b902c1d7,2024-04-30,senat,arrivee,loiseau pierre yves,LOISEAU,Pierre-Yves,M.,michel savin,,Michel SAVIN,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+3495634cf8cb5d2e,2024-04-30,senat,arrivee,losbar nathanaelle,LOSBAR,Nathanaëlle,Mme,nadille solanges,,Solanges NADILLE,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+92348bbf9f0263c0,2024-04-30,senat,arrivee,louis seguinard,SEGUINARD,Louis,M.,daubet raphael,,Raphaël DAUBET,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+04f1328b2e1ed5b1,2024-04-30,senat,depart,louis thevenot,THEVENOT,Louis,M.,catherine desailly morin,,Catherine MORIN-DESAILLY,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+a343dfa1b88e9f4b,2024-04-30,senat,arrivee,lucas minhava,MINHAVA,Lucas,M.,damien michallet,,Damien MICHALLET,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+37470c03e85e7065,2024-04-30,senat,arrivee,maingault sonia,MAINGAULT,Sonia,Mme,gerard jean paumier,,Jean-Gérard PAUMIER,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+95379edc62eac1eb,2024-04-30,senat,arrivee,mallipoudy satya,MALLIPOUDY,Satya,Mme,simon uzenat,,Simon UZENAT,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+a65aa66d5d019273,2024-04-30,senat,depart,manalle ourrami,OURRAMI,Manalle,Mme,joly patrice,,Patrice JOLY,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+b04d2932da3a3b7f,2024-04-30,senat,arrivee,mancuso tess,MANCUSO,Tess,Mme,silvana silvani,,Silvana SILVANI,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+964ae1df56b2494c,2024-04-30,senat,arrivee,marc simon,SIMON,Marc,M.,bitz olivier,,Olivier BITZ,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+9d5564c93932e478,2024-04-30,senat,depart,marion yoann,MARION,Yoann,M.,daniel karine,,Karine DANIEL,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+b57ffdae167d480f,2024-04-30,senat,arrivee,mathieu ponsoda,PONSODA,Mathieu,M.,agnes canayer,,Agnès CANAYER,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+ad2ee4b16372661d,2024-04-30,senat,arrivee,melissa theaud,THEAUD,Mélissa,Mme,belin bruno,,Bruno BELIN,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+7fc7776e6252774c,2024-04-30,senat,arrivee,metayer soazic,METAYER,Soazic,Mme,bleunven yves,,Yves BLEUNVEN,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+11911f78cbaabc9f,2024-04-30,senat,arrivee,milan sen,SEN,Milan,M.,mickael vallet,,Mickaël VALLET,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+9eb58579e404241e,2024-04-30,senat,arrivee,mireille starck,STARCK,Mireille,Mme,frederique puissat,,Frédérique PUISSAT,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+4cdd9d222fd35ec6,2024-04-30,senat,depart,molinier quentin,MOLINIER,Quentin,M.,dantec ronan,,Ronan DANTEC,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+d385dee027b5be61,2024-04-30,senat,depart,moreau sophie,MOREAU,Sophie,Mme,de marco monique,,Monique de MARCO,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+bc7657a5523f18f9,2024-04-30,senat,arrivee,morgane seven,SEVEN,Morgane,Mme,rohfritsch teva,,Teva ROHFRITSCH,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+dc3546a5ecd39680,2024-04-30,senat,depart,moro serge sibilot,MORO-SIBILOT,Serge,M.,arnaud jean michel,,Jean-Michel ARNAUD,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+e9b72cced0e60dfb,2024-04-30,senat,arrivee,mouhoub sadia,MOUHOUB,Sadia,Mme,aeschlimann do marie,,Marie-Do AESCHLIMANN,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+36fe404476f43c56,2024-04-30,senat,arrivee,narbonnais valentin,NARBONNAIS,Valentin,M.,daniel karine,,Karine DANIEL,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+2581c6a59f8ae23a,2024-04-30,senat,arrivee,natacha poplineau,POPLINEAU,Natacha,Mme,dumont francoise,,Françoise DUMONT,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+03c408a020e99d31,2024-04-30,senat,arrivee,nee valentin,NEE,Valentin,M.,bitz olivier,,Olivier BITZ,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+4806266b8b2f39c5,2024-04-30,senat,depart,paquet ruth,PAQUET,Ruth,Mme,lurel victorin,,Victorin LUREL,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+cf30dc19fed20c66,2024-04-30,senat,depart,paul sebe,SEBE,Paul,M.,chevrollier guillaume,,Guillaume CHEVROLLIER,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+9c9a73977cfde45f,2024-04-30,senat,arrivee,pelage sarah,PELAGE,Sarah,Mme,robert wienie xowie,,Robert Wienie XOWIE,,,,,,,elu_entrant,wayback,moyen,2024-04-30,wb2024043019
+a387f509c1d07661,2024-04-30,senat,arrivee,puech sarah,PUECH,Sarah,Mme,corbiere evelyne naminzo,,Evelyne CORBIERE NAMINZO,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+6cdbf32f25a48b46,2024-04-30,senat,arrivee,rames tiana,RAMES,Tiana,Mme,georges naturel,,Georges NATUREL,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+0f71fcc0a9069e2e,2024-04-30,senat,depart,ratto robin,RATTO,Robin,M.,josende lauriane,,Lauriane JOSENDE,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+c1c14cdc5d300c7f,2024-04-30,senat,depart,safaa sari,SARI,Safaa,Mme,rachid temal,,Rachid TEMAL,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+fe32a298461103e8,2024-04-30,senat,depart,serino valentine,SERINO,Valentine,Mme,michel savin,,Michel SAVIN,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+a70d9c2f4dc30894,2024-04-30,senat,depart,toufik zarrougui,ZARROUGUI,Toufik,M.,antoinette guhl,,Antoinette GUHL,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+01a5c3638207bcc8,2024-04-30,senat,arrivee,toujas yseult,TOUJAS,Yseult,Mme,espagnac frederique,,Frédérique ESPAGNAC,,,,,,,,wayback,moyen,2024-04-30,wb2024043019
+83a58008a29040b1,2024-07-11,senat,arrivee,alex olivier,OLIVIER,Alex,M.,brossat ian,,Ian BROSSAT,,,,,,,,wayback,moyen,2024-07-11,wb2024071108
+7248bf73f725d938,2024-07-11,senat,arrivee,alexandra mailly,MAILLY,Alexandra,Mme,corbisez jean pierre,,Jean-Pierre CORBISEZ,,,,,,,,wayback,moyen,2024-07-11,wb2024071108
+f039d6db89d04410,2024-07-11,senat,depart,alexandre queron,QUERON,Alexandre,M.,boyer valerie,,Valérie BOYER,,,,,,,,wayback,moyen,2024-07-11,wb2024071108
+e6ea88700181578f,2024-07-11,senat,arrivee,anna ferron gautie,FERRON GAUTIE,Anna,Mme,delattre nathalie,,Nathalie DELATTRE,,,,,,,,wayback,moyen,2024-07-11,wb2024071108
+5a58f3bafeb3c01d,2024-07-11,senat,arrivee,anne constans emmanuelle,CONSTANS,Anne-Emmanuelle,Mme,masset michel,,Michel MASSET,,,,,,,,wayback,moyen,2024-07-11,wb2024071108
+e8b7616c3fc262f0,2024-07-11,senat,arrivee,anthony weber,WEBER,Anthony,M.,guillotin veronique,,Véronique GUILLOTIN,,,,,,,,wayback,moyen,2024-07-11,wb2024071108
+9a9cfca70a754fe3,2024-07-11,senat,depart,aude dudenko,DUDENKO,Aude,Mme,audrey linkenheld,,Audrey LINKENHELD,,,,,,,,wayback,moyen,2024-07-11,wb2024071108
+62032b1b3ff2a677,2024-07-11,senat,depart,aurelie dhennin,DHENNIN,Aurélie,Mme,bocquet eric,,Éric BOCQUET,,,,,,,,wayback,moyen,2024-07-11,wb2024071108
+059741efea215d59,2024-07-11,senat,depart,aurelie dhennin,DHENNIN,Aurélie,Mme,greaume michelle,,Michelle GRÉAUME,,,,,,,,wayback,moyen,2024-07-11,wb2024071108
+978e8ab2bc0e07da,2024-07-11,senat,depart,baloul veronique,BALOUL,Véronique,Mme,bitz olivier,,Olivier BITZ,,,,,,,,wayback,moyen,2024-07-11,wb2024071108
+ed12998eced753b8,2024-07-11,senat,depart,barviaux francois,BARVIAUX,François,M.,josende lauriane,,Lauriane JOSENDE,,,,,,,,wayback,moyen,2024-07-11,wb2024071108
+a2e90cdaef059d4b,2024-07-11,senat,arrivee,behiels lili,BEHIELS,Lili,Mme,gontard guillaume,,Guillaume GONTARD,,,,,,,,wayback,moyen,2024-07-11,wb2024071108
+4e0dac7f870af162,2024-07-11,senat,depart,berne maxime,BERNE,Maxime,M.,bourcier corinne,,Corinne BOURCIER,,,,,,,,wayback,moyen,2024-07-11,wb2024071108
+afb582c5e3e833b8,2024-07-11,senat,depart,berne maxime,BERNE,Maxime,M.,capus emmanuel,,Emmanuel CAPUS,,,,,,,,wayback,moyen,2024-07-11,wb2024071108
+a8785deab5a91846,2024-07-11,senat,depart,beryl boyer,BOYER,Béryl,Mme,baptiste blanc jean,,Jean-Baptiste BLANC,,,,,,,,wayback,moyen,2024-07-11,wb2024071108
+7b426ceb7eafd804,2024-07-11,senat,depart,bieber christophe,BIEBER,Christophe,M.,arlette carlotti marie,,Marie-Arlette CARLOTTI,,,,,,,,wayback,moyen,2024-07-11,wb2024071108
+e1500285a2bef4f4,2024-07-11,senat,arrivee,bonnefoy louis,BONNEFOY,Louis,M.,jean pierre rochette,,Pierre-Jean ROCHETTE,,,,,,,,wayback,moyen,2024-07-11,wb2024071108
+3291b4a1708e5855,2024-07-11,senat,depart,bouquin leo,BOUQUIN,Léo,M.,grosperrin jacques,,Jacques GROSPERRIN,,,,,,,,wayback,moyen,2024-07-11,wb2024071108
+c65ff0572a7dfb92,2024-07-11,senat,arrivee,buisson du du frederique mesnil,du MESNIL du BUISSON,Frédérique,Mme,christine herzog,,Christine HERZOG,,,,,,,,wayback,moyen,2024-07-11,wb2024071108
+776890b826090312,2024-07-11,senat,arrivee,cami sarah,CAMI,Sarah,Mme,gagin paoli vanina,,Vanina PAOLI-GAGIN,,,,,,,,wayback,moyen,2024-07-11,wb2024071108
+00f3b6fec6716f05,2024-07-11,senat,depart,celestin perrin,PERRIN,Célestin,M.,bernard jomier,,Bernard JOMIER,,,,,,,,wayback,moyen,2024-07-11,wb2024071108
+dad8fcb6180866dd,2024-07-11,senat,arrivee,celine fargues,FARGUES,Céline,Mme,faure jean marc vayssouze,,Jean-Marc VAYSSOUZE-FAURE,,,,,,,,wayback,moyen,2024-07-11,wb2024071108
+d39fe23e3bb12543,2024-07-11,senat,depart,chanez herbanne,HERBANNE,Chanez,Mme,courtial edouard,,Édouard COURTIAL,,,,,,,,wayback,moyen,2024-07-11,wb2024071108
+75fb138b2dfa2039,2024-07-11,senat,depart,charbonnel damien,CHARBONNEL,Damien,M.,louault vincent,,Vincent LOUAULT,,,,,,,,wayback,moyen,2024-07-11,wb2024071108
+eb8ad8958881fa22,2024-07-11,senat,arrivee,charles henri perdereau,PERDEREAU,Charles-Henri,M.,olivier paccaud,,Olivier PACCAUD,,,,,,,,wayback,moyen,2024-07-11,wb2024071108
+880b49f4a7523c8e,2024-07-11,senat,arrivee,charles moulin,MOULIN,Charles,M.,josende lauriane,,Lauriane JOSENDE,,,,,,,,wayback,moyen,2024-07-11,wb2024071108
+49a1526e664d1edc,2024-07-11,senat,arrivee,claire francois,FRANCOIS,Claire,Mme,catherine desailly morin,,Catherine MORIN-DESAILLY,,,,,,,,wayback,moyen,2024-07-11,wb2024071108
+966a3f6a62879a65,2024-07-11,senat,depart,clemence precetti,PRECETTI,Clémence,Mme,daniel fargeot,,Daniel FARGEOT,,,,,,,,wayback,moyen,2024-07-11,wb2024071108
+45ab96d365d78e0f,2024-07-11,senat,depart,clementine laure,LAURE,Clémentine,Mme,antoine levi pierre,,Pierre-Antoine LEVI,,,,,,,,wayback,moyen,2024-07-11,wb2024071108
+2479c5c37661d284,2024-07-11,senat,depart,debaene virginie,DEBAENE,Virginie,Mme,cedric vial,,Cédric VIAL,,,,,,,,wayback,moyen,2024-07-11,wb2024071108
+c6b7565aa1cd6f71,2024-07-11,senat,depart,duigou gaelle,DUIGOU,Gaëlle,Mme,daniel fargeot,,Daniel FARGEOT,,,,,,,,wayback,moyen,2024-07-11,wb2024071108
+216351b115069fff,2024-07-11,senat,depart,edouard fougere,FOUGERE,Edouard,M.,gagin paoli vanina,,Vanina PAOLI-GAGIN,,,,,,,,wayback,moyen,2024-07-11,wb2024071108
+2ca344e596a5cdac,2024-07-11,senat,arrivee,elie grandbois marie,GRANDBOIS,Marie-Elie,Mme,dominique theophile,,Dominique THÉOPHILE,,,,,,,,wayback,moyen,2024-07-11,wb2024071108
+67ba36eead21f8e3,2024-07-11,senat,arrivee,elodie norguet,NORGUET,Élodie,Mme,brault jean luc,,Jean-Luc BRAULT,,,,,,,,wayback,moyen,2024-07-11,wb2024071108
+adf0b5d87c5b889e,2024-07-11,senat,arrivee,esther reinette,REINETTE,Esther,Mme,fouassin stephane,,Stéphane FOUASSIN,,,,,,,,wayback,moyen,2024-07-11,wb2024071108
+d7a8976cb6044412,2024-07-11,senat,depart,ferniot remy,FERNIOT,Rémy,M.,herve marseille,,Hervé MARSEILLE,,,,,,,,wayback,moyen,2024-07-11,wb2024071108
+60dc0831fdc7e207,2024-07-11,senat,arrivee,florentin fourny,FOURNY,Florentin,M.,belrhiti catherine,,Catherine BELRHITI,,,,,,,,wayback,moyen,2024-07-11,wb2024071108
+15daf7b8a5700e74,2024-07-11,senat,arrivee,gadler lucille,GADLER,Lucille,Mme,de gontrie la marie pierre,,Marie-Pierre de LA GONTRIE,,,,,,,,wayback,moyen,2024-07-11,wb2024071108
+e2b31b4f52672d03,2024-07-11,senat,arrivee,griffoux lena,GRIFFOUX,Léna,Mme,cazebonne samantha,,Samantha CAZEBONNE,,,,,,,,wayback,moyen,2024-07-11,wb2024071108
+4655d2bddea0bb49,2024-07-11,senat,arrivee,guay maxime,GUAY,Maxime,M.,alexandra borchio fontimp,,Alexandra BORCHIO FONTIMP,,,,,,,,wayback,moyen,2024-07-11,wb2024071108
+6d04fb54fe686daf,2024-07-11,senat,depart,hanane mansouri,MANSOURI,Hanane,Mme,josende lauriane,,Lauriane JOSENDE,,,,,,,,wayback,moyen,2024-07-11,wb2024071108
+37266dc8b26ca33e,2024-07-11,senat,depart,henry labonne therese,HENRY-LABONNE,Thérèse,Mme,christine herzog,,Christine HERZOG,,,,,,,,wayback,moyen,2024-07-11,wb2024071108
+81eaea9024f7eebb,2024-07-11,senat,arrivee,hermann jean sambenoun,SAMBENOUN,Jean Hermann,M.,audrey belim,,Audrey BÉLIM,,,,,,,,wayback,moyen,2024-07-11,wb2024071108
+817657837b45598b,2024-07-11,senat,arrivee,hirti samia,HIRTI,Samia,Mme,audrey linkenheld,,Audrey LINKENHELD,,,,,,,,wayback,moyen,2024-07-11,wb2024071108
+b910b847dddb960c,2024-07-11,senat,arrivee,labastugue maude,LABASTUGUE,Maude,Mme,fernique jacques,,Jacques FERNIQUE,,,,,,,,wayback,moyen,2024-07-11,wb2024071108
+a13ec1003c84f5c4,2024-07-11,senat,arrivee,launai quentin,LAUNAI,Quentin,M.,burgoa laurent,,Laurent BURGOA,,,,,,,,wayback,moyen,2024-07-11,wb2024071108
+ee7fa3b486b981a0,2024-07-11,senat,depart,lavoine pierrick,LAVOINE,Pierrick,M.,brossat ian,,Ian BROSSAT,,,,,,,,wayback,moyen,2024-07-11,wb2024071108
+0dfc0f9daf4e9aa5,2024-07-11,senat,arrivee,legrand nathalie,LEGRAND,Nathalie,Mme,hir le sylvie valente,,Sylvie VALENTE LE HIR,,,,,,,,wayback,moyen,2024-07-11,wb2024071108
+c776640bb0b22ffb,2024-07-11,senat,arrivee,marie toussaint,TOUSSAINT,Marie,Mme,corbiere evelyne naminzo,,Evelyne CORBIERE NAMINZO,,,,,,,,wayback,moyen,2024-07-11,wb2024071108
+c70d4991b414c17c,2024-07-11,senat,depart,messi william,MESSI,William,M.,corinne feret,,Corinne FÉRET,,,,,,,,wayback,moyen,2024-07-11,wb2024071108
+bfc361c728505430,2024-07-11,senat,arrivee,mylene nicoud,NICOUD,Mylène,Mme,cedric vial,,Cédric VIAL,,,,,,,,wayback,moyen,2024-07-11,wb2024071108
+db358d24a3698fb8,2024-07-11,senat,arrivee,nathalie rapetti,RAPETTI,Nathalie,Mme,herve marseille,,Hervé MARSEILLE,,,,,,,,wayback,moyen,2024-07-11,wb2024071108
+525f1448334cdbaf,2024-07-11,senat,arrivee,rayane zribi,ZRIBI,Rayane,M.,primas sophie,,Sophie PRIMAS,,,,,,,,wayback,moyen,2024-07-11,wb2024071108
+769d49df3d587cbe,2024-07-11,senat,arrivee,sebrier valentin,SEBRIER,Valentin,M.,aeschlimann do marie,,Marie-Do AESCHLIMANN,,,,,,,,wayback,moyen,2024-07-11,wb2024071108
+06ec834f39512008,2025-02-26,senat,depart,adam wahabi,WAHABI,Adam,M.,iacovelli xavier,,Xavier IACOVELLI,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+d301fa6550a851bf,2025-02-26,senat,arrivee,adelaide jean michel,ADELAIDE,Jean-Michel,M.,gagin paoli vanina,,Vanina PAOLI-GAGIN,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+48fa17feee5dc784,2025-02-26,senat,arrivee,adeline berenice,ADELINE,Bérénice,Mme,iacovelli xavier,,Xavier IACOVELLI,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+ac73d0e1dca4e8b3,2025-02-26,senat,depart,adeline carriat,CARRIAT,Adeline,Mme,brossel colombe,,Colombe BROSSEL,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+b14e3efe01d1b0fe,2025-02-26,senat,transfert,ahamada mounayat,AHAMADA,Mounayat,Mme,ramia salama,,Salama RAMIA,,mohamed soilihi thani,,Thani MOHAMED SOILIHI,,,elu_sortant,wayback,moyen,2025-02-26,wb2025022613
+7be1b78ec87c5891,2025-02-26,senat,depart,ahn artis lu,ARTIS,Lu Ahn,Mme,chantrel yan,,Yan CHANTREL,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+5a4e7a66e6a2d532,2025-02-26,senat,depart,aida manouguian,MANOUGUIAN,Aïda,Mme,aeschlimann do marie,,Marie-Do AESCHLIMANN,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+ab3608fd38f9da81,2025-02-26,senat,depart,aidaoui romain,AIDAOUI,Romain,M.,philippe tabarot,,Philippe TABAROT,,,,,,,elu_sortant,wayback,moyen,2025-02-26,wb2025022613
+df0e9309e1887d65,2025-02-26,senat,depart,alain paker,PAKER,Alain,M.,brulin celine,,Céline BRULIN,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+8a877cdb28e724c9,2025-02-26,senat,arrivee,alan volant,VOLANT,Alan,M.,brossel colombe,,Colombe BROSSEL,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+38bdfcc658519b8e,2025-02-26,senat,depart,alessandria annabelle,ALESSANDRIA,Annabelle,Mme,josende lauriane,,Lauriane JOSENDE,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+544dc46073b3f7d0,2025-02-26,senat,arrivee,alexandra dayras,DAYRAS,Alexandra,Mme,piednoir stephane,,Stéphane PIEDNOIR,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+4a342dd6bb11946a,2025-02-26,senat,depart,alexandre basquin,BASQUIN,Alexandre,M.,bocquet eric,,Éric BOCQUET,,,,,,,elu_sortant,wayback,moyen,2025-02-26,wb2025022613
+9c6e829438a58622,2025-02-26,senat,depart,alexandre billette,BILLETTE,Alexandre,M.,melanie vogel,,Mélanie VOGEL,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+ec8d18954f4f0dc8,2025-02-26,senat,depart,alexer mboungou niangui,MBOUNGOU NIANGUI,Alexer,Mme,haye ludovic,,Ludovic HAYE,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+e8cdd71e5f0771ff,2025-02-26,senat,arrivee,alexia blick,BLICK,Alexia,Mme,francis szpiner,,Francis SZPINER,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+4aedae031e70b5a0,2025-02-26,senat,transfert,alexis galinie,GALINIE,Alexis,M.,jean marc ruel,,Jean-Marc RUEL,,annick girardin,,Annick GIRARDIN,,,elu_sortant,wayback,moyen,2025-02-26,wb2025022613
+adde933953640533,2025-02-26,senat,arrivee,alexis nau,NAU,Alexis,M.,francois husson jean,,Jean-François HUSSON,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+23a0227f6e75750a,2025-02-26,senat,arrivee,alice benard,BENARD,Alice,Mme,louault vincent,,Vincent LOUAULT,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+6930ecf378770b64,2025-02-26,senat,depart,allegre antoine,ALLEGRE,Antoine,M.,dossus thomas,,Thomas DOSSUS,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+dadf7272270dd62d,2025-02-26,senat,depart,allegre antoine,ALLEGRE,Antoine,M.,monge poncet raymonde,,Raymonde PONCET MONGE,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+e42edf8a185a7ce9,2025-02-26,senat,arrivee,allegrini marie,ALLEGRINI,Marie,Mme,arlette carlotti marie,,Marie-Arlette CARLOTTI,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+cc4d654d046fccef,2025-02-26,senat,depart,amelie hebel,HEBEL,Amélie,Mme,kanner patrick,,Patrick KANNER,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+d96c645981326c5c,2025-02-26,senat,arrivee,amely hebel,HEBEL,Amély,Mme,kanner patrick,,Patrick KANNER,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+bbf637e56ff829b3,2025-02-26,senat,arrivee,amoussou syndie,AMOUSSOU,Syndie,Mme,briante guillemont sophie,,Sophie BRIANTE GUILLEMONT,,,,,,,elu_entrant,wayback,moyen,2025-02-26,wb2025022613
+02680190f0f6fd43,2025-02-26,senat,arrivee,ana lou marijon,MARIJON,Lou-Ana,Mme,briante guillemont sophie,,Sophie BRIANTE GUILLEMONT,,,,,,,elu_entrant,wayback,moyen,2025-02-26,wb2025022613
+ee5cf743417d6b64,2025-02-26,senat,arrivee,anais kose,KOSE,Anaïs,Mme,robert wienie xowie,,Robert Wienie XOWIE,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+fa1cc472872b4c45,2025-02-26,senat,depart,anatole sagot,SAGOT,Anatole,M.,fabien genet,,Fabien GENET,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+e377093d7791ca93,2025-02-26,senat,arrivee,ann carol juste,JUSTE,Carol-Ann,Mme,belrhiti catherine,,Catherine BELRHITI,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+8c14bea049cd70c5,2025-02-26,senat,transfert,anna ferron gautie,FERRON GAUTIE,Anna,Mme,conte jaubert mireille,,Mireille CONTE JAUBERT,,delattre nathalie,,Nathalie DELATTRE,,,elu_sortant,wayback,moyen,2025-02-26,wb2025022613
+e25a3d5853b22524,2025-02-26,senat,depart,anna koulakssis,KOULAKSSIS,Anna,Mme,louault vincent,,Vincent LOUAULT,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+ad14c66d10219c76,2025-02-26,senat,depart,anne constans emmanuelle,CONSTANS,Anne-Emmanuelle,Mme,masset michel,,Michel MASSET,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+ad26c01ee1f93ba0,2025-02-26,senat,depart,anne coutard de frenais,FRENAIS DE COUTARD,Anne,Mme,doineau elisabeth,,Élisabeth DOINEAU,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+6e0fff1a00c89640,2025-02-26,senat,depart,anne ducelier valerie,DUCELIER,Anne-Valérie,Mme,bernard jomier,,Bernard JOMIER,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+164009668c622579,2025-02-26,senat,arrivee,anthony bouvier,BOUVIER,Anthony,M.,chavent goy sylvie,,Sylvie GOY-CHAVENT,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+ef9faf3926ffc4f4,2025-02-26,senat,depart,anthony weber,WEBER,Anthony,M.,guillotin veronique,,Véronique GUILLOTIN,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+94391103ae3d7076,2025-02-26,senat,depart,antoine chemellier de,DE CHEMELLIER,Antoine,M.,le rudulier stephane,,Stéphane LE RUDULIER,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+f36fe328dcf3597e,2025-02-26,senat,arrivee,antoine portelli,PORTELLI,Antoine,M.,capus emmanuel,,Emmanuel CAPUS,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+266f425445313e1a,2025-02-26,senat,depart,antoine schahl,SCHAHL,Antoine,M.,belrhiti catherine,,Catherine BELRHITI,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+5f5ac89aa6a43336,2025-02-26,senat,depart,antoine schahl,SCHAHL,Antoine,M.,khalife khalife,,Khalifé KHALIFÉ,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+3541b4f87e2bb03c,2025-02-26,senat,depart,arainty aurelie,ARAINTY,Aurélie,Mme,mickael vallet,,Mickaël VALLET,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+d081733d149da7a1,2025-02-26,senat,depart,ari salot,SALOT,Ari,M.,jacquin olivier,,Olivier JACQUIN,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+c9845d42b1a488fc,2025-02-26,senat,arrivee,arnaud aurelien,ARNAUD,Aurélien,M.,bourgi hussein,,Hussein BOURGI,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+75bd08bbcab11662,2025-02-26,senat,depart,arnaud julia,ARNAUD,Julia,Mme,demas patricia,,Patricia DEMAS,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+989ecf3c61151087,2025-02-26,senat,arrivee,arthur delaye,DELAYE,Arthur,M.,greaume michelle,,Michelle GRÉAUME,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+40ffed3cec84fd71,2025-02-26,senat,arrivee,arthur durand,DURAND,Arthur,M.,chauvet patrick,,Patrick CHAUVET,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+71d6aac3c425c161,2025-02-26,senat,arrivee,astrid renoult,RENOULT,Astrid,Mme,francis szpiner,,Francis SZPINER,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+ff545c32528d68bd,2025-02-26,senat,arrivee,augustin de meaux,de MEAUX,Augustin,M.,baptiste blanc jean,,Jean-Baptiste BLANC,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+be0cea7e5f77f9ed,2025-02-26,senat,arrivee,augustin lepercq,LEPERCQ,Augustin,M.,belin bruno,,Bruno BELIN,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+955e47fc38f96aa6,2025-02-26,senat,arrivee,aurelie meziere,MEZIERE,Aurélie,Mme,dantec ronan,,Ronan DANTEC,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+3f17e902d71c5703,2025-02-26,senat,depart,aurianne fleret,FLERET,Aurianne,Mme,sylvie vermeillet,,Sylvie VERMEILLET,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+b0f830b49f016393,2025-02-26,senat,arrivee,aurora michael,AURORA,Michaël,M.,franck montauge,,Franck MONTAUGÉ,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+d88a81fecd1bf658,2025-02-26,senat,arrivee,aurore caro,CARO,Aurore,Mme,martin pauline,,Pauline MARTIN,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+cbdb1a30b7e20c77,2025-02-26,senat,arrivee,axel guggino,GUGGINO,Axel,M.,michel savin,,Michel SAVIN,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+51d61945e74d0a17,2025-02-26,senat,arrivee,bachelier juliette,BACHELIER,Juliette,Mme,sylvie vermeillet,,Sylvie VERMEILLET,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+77248af623109845,2025-02-26,senat,arrivee,bachmann manon,BACHMANN,Manon,Mme,francois husson jean,,Jean-François HUSSON,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+5f3b8d7fcd16ff89,2025-02-26,senat,arrivee,balincourt de gabriel,de BALINCOURT,Gabriel,M.,christine lavarde,,Christine LAVARDE,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+c82e11ec18fb89c6,2025-02-26,senat,arrivee,balsamello jessica,BALSAMELLO,Jessica,Mme,antoine jocelyne,,Jocelyne ANTOINE,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+15cb9f9b8f0da419,2025-02-26,senat,arrivee,baptiste henneresse,HENNERESSE,Baptiste,M.,bitz olivier,,Olivier BITZ,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+80a83dd0dfc1af8e,2025-02-26,senat,arrivee,baptiste menard,MENARD,Baptiste,M.,rachid temal,,Rachid TEMAL,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+1d4f31de855cdef4,2025-02-26,senat,depart,barou baye m,M'BAYE,Barou,M.,georges patient,,Georges PATIENT,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+5137777226ab6eea,2025-02-26,senat,arrivee,baye ismael m,M'BAYE,Ismaël,M.,georges patient,,Georges PATIENT,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+0ee27241744f8d5b,2025-02-26,senat,arrivee,bayer julien,BAYER,Julien,M.,fabien genet,,Fabien GENET,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+7059978198327d73,2025-02-26,senat,arrivee,beghin elise,BEGHIN,Elise,Mme,monge poncet raymonde,,Raymonde PONCET MONGE,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+b39c5ca173e87b63,2025-02-26,senat,depart,belz victoria,BELZ,Victoria,Mme,primas sophie,,Sophie PRIMAS,,,,,,,elu_sortant,wayback,moyen,2025-02-26,wb2025022613
+f8ba76c7d71b7f64,2025-02-26,senat,arrivee,benedicte dupont,DUPONT,Bénédicte,Mme,alexandre basquin,,Alexandre BASQUIN,,,,,,,elu_entrant,wayback,moyen,2025-02-26,wb2025022613
+07394ecc20515526,2025-02-26,senat,arrivee,benedicte dupont,DUPONT,Bénédicte,Mme,greaume michelle,,Michelle GRÉAUME,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+5a86ae9c6fd9df21,2025-02-26,senat,arrivee,benjamin chanteclerc,CHANTECLERC,Benjamin,M.,francois husson jean,,Jean-François HUSSON,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+0d3b28dcf3878843,2025-02-26,senat,depart,benjamin gibert,GIBERT,Benjamin,M.,claude jean tissot,,Jean-Claude TISSOT,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+8c805fdc23450f92,2025-02-26,senat,depart,benjamin gibert,GIBERT,Benjamin,M.,didier marie,,Didier MARIE,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+77e1e37401fcb3fe,2025-02-26,senat,arrivee,benzakine nina,BENZAKINE,Nina,Mme,berthet martine,,Martine BERTHET,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+a764fe79f2d903fb,2025-02-26,senat,arrivee,beriwan diessler,DIESSLER,Beriwan,Mme,anne ventalon,,Anne VENTALON,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+0f9a8a6b0cdaf657,2025-02-26,senat,depart,bertrand pericaud,PERICAUD,Bertrand,M.,apourceau cathy poly,,Cathy APOURCEAU-POLY,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+fe3f617b7304290d,2025-02-26,senat,arrivee,besma medini,MEDINI,Besma,Mme,chantrel yan,,Yan CHANTREL,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+2e3e01909ec91c91,2025-02-26,senat,arrivee,beulne severine,BEULNE,Séverine,Mme,hingray jean,,Jean HINGRAY,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+cfba221e702194a8,2025-02-26,senat,arrivee,biliana ilic,ILIC,Biliana,Mme,baptiste jean lemoyne,,Jean-Baptiste LEMOYNE,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+f878a8d618fb9b5d,2025-02-26,senat,depart,biljana ilic,ILIC,Biljana,Mme,baptiste jean lemoyne,,Jean-Baptiste LEMOYNE,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+1214182e27965298,2025-02-26,senat,depart,birckel marie,BIRCKEL,Marie,Mme,christine herzog,,Christine HERZOG,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+bc15acbf58afd421,2025-02-26,senat,depart,blanc terence,BLANC,Terence,M.,georges naturel,,Georges NATUREL,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+73ccc4bebf16bc9d,2025-02-26,senat,arrivee,blouin coline,BLOUIN,Coline,Mme,bourcier corinne,,Corinne BOURCIER,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+2c159ee40500a8e9,2025-02-26,senat,arrivee,blouin coline,BLOUIN,Coline,Mme,capus emmanuel,,Emmanuel CAPUS,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+18e161ac0e36bfdb,2025-02-26,senat,depart,boissiere paul,BOISSIERE,Paul,M.,catherine desailly morin,,Catherine MORIN-DESAILLY,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+dc83ac76fd99a803,2025-02-26,senat,depart,bonnard josephine,BONNARD,Joséphine,Mme,antoinette guhl,,Antoinette GUHL,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+9c6f14f3efff44f6,2025-02-26,senat,depart,bonnefous eric,BONNEFOUS,Eric,M.,chevrollier guillaume,,Guillaume CHEVROLLIER,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+234999b2d08c4e95,2025-02-26,senat,depart,bonnefous eric,BONNEFOUS,Eric,M.,michel savin,,Michel SAVIN,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+31ce7c067a7bbe80,2025-02-26,senat,depart,bonnefoy louis,BONNEFOY,Louis,M.,jean pierre rochette,,Pierre-Jean ROCHETTE,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+3fc385db98ca2ef2,2025-02-26,senat,depart,borel jean,BOREL,Jean,M.,buffet francois noel,,François-Noël BUFFET,,,,,,,elu_sortant,wayback,moyen,2025-02-26,wb2025022613
+c1425860b9c1bd2f,2025-02-26,senat,arrivee,boucher thibault,BOUCHER,Thibault,M.,merillou serge,,Serge MÉRILLOU,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+593a4179db3e3623,2025-02-26,senat,transfert,bouchet clement veronique,BOUCHET-CLEMENT,Véronique,Mme,anne patru sophie,,Anne-Sophie PATRU,,francoise gatel,,Françoise GATEL,,,elu_sortant,wayback,moyen,2025-02-26,wb2025022613
+78442de75b9b0408,2025-02-26,senat,depart,bouchoule carla,BOUCHOULE,Carla,Mme,philippe tabarot,,Philippe TABAROT,,,,,,,elu_sortant,wayback,moyen,2025-02-26,wb2025022613
+e041a5f47dc58dc3,2025-02-26,senat,depart,bousquet tom,BOUSQUET,Tom,M.,jean pierre vogel,,Jean Pierre VOGEL,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+5ea5b6384c3a4897,2025-02-26,senat,depart,bradley chan ching tsun,CHAN TSUN CHING,Bradley,M.,fouassin stephane,,Stéphane FOUASSIN,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+1b39e07bfb23454f,2025-02-26,senat,depart,breysse laetitia,BREYSSE,Laetitia,Mme,cedric vial,,Cédric VIAL,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+fca944ac38fc0750,2025-02-26,senat,depart,brigitte cheze,CHEZE,Brigitte,Mme,bouchet gilbert,,Gilbert BOUCHET,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+1e31a68941cdbb14,2025-02-26,senat,arrivee,brigitte grudler,GRUDLER,Brigitte,Mme,jean pierre vogel,,Jean Pierre VOGEL,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+a0f112bc4d7ae33f,2025-02-26,senat,arrivee,brochand nathalie,BROCHAND,Nathalie,Mme,chavent goy sylvie,,Sylvie GOY-CHAVENT,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+bc9a27ed603bceb3,2025-02-26,senat,arrivee,brutinaud pellereau romain,BRUTINAUD-PELLEREAU,Romain,M.,anne patru sophie,,Anne-Sophie PATRU,,,,,,,elu_entrant,wayback,moyen,2025-02-26,wb2025022613
+2c5c268702e5e7f1,2025-02-26,senat,depart,brutinaud romain,BRUTINAUD,Romain,M.,francoise gatel,,Françoise GATEL,,,,,,,elu_sortant,wayback,moyen,2025-02-26,wb2025022613
+ccc5578a21e3004f,2025-02-26,senat,depart,buisson du du frederique mesnil,du MESNIL du BUISSON,Frédérique,Mme,christine herzog,,Christine HERZOG,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+fc6abed66afe4adc,2025-02-26,senat,depart,cacoub sarah,CACOUB,Sarah,Mme,bansard jean pierre,,Jean-Pierre BANSARD,,,,,,,elu_sortant,wayback,moyen,2025-02-26,wb2025022613
+9984c7efa7976a77,2025-02-26,senat,depart,cacoub sarah,CACOUB,Sarah,Mme,evelyne garabedian renaud,,Évelyne RENAUD-GARABEDIAN,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+87198cdfddb7a413,2025-02-26,senat,depart,caillaud eugenie,CAILLAUD,Eugénie,Mme,annie houerou le,,Annie LE HOUEROU,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+1efc1e18d83fb7a7,2025-02-26,senat,arrivee,calloc h noe,CALLOC'H,Noé,M.,cedric vial,,Cédric VIAL,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+feb98b658cf9bb23,2025-02-26,senat,depart,cami sarah,CAMI,Sarah,Mme,gagin paoli vanina,,Vanina PAOLI-GAGIN,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+37f74aaf952daa32,2025-02-26,senat,depart,capucine lespilette,LESPILETTE,Capucine,Mme,greaume michelle,,Michelle GRÉAUME,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+b52fef3d4c7f761f,2025-02-26,senat,depart,carl clarisse,CARL,Clarisse,Mme,martin pauline,,Pauline MARTIN,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+df0e0b50449b78e2,2025-02-26,senat,depart,caroline entemeyer joly,JOLY-ENTEMEYER,Caroline,Mme,francois husson jean,,Jean-François HUSSON,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+2e894e7abc8d7f31,2025-02-26,senat,transfert,catherine constance,CONSTANCE,Catherine,Mme,paul vidal,,Paul VIDAL,,buffet francois noel,,François-Noël BUFFET,,,elu_sortant,wayback,moyen,2025-02-26,wb2025022613
+180e007ee5588816,2025-02-26,senat,depart,catherine durand eleonore,DURAND,Catherine-Eléonore,Mme,agnes evren,,Agnès EVREN,,,,,,,elu_sortant,wayback,moyen,2025-02-26,wb2025022613
+3d67fe1715f88d8d,2025-02-26,senat,depart,catherine jacob,JACOB,Catherine,Mme,bonnecarrere philippe,,Philippe BONNECARRÈRE,,,,,,,elu_sortant,wayback,moyen,2025-02-26,wb2025022613
+d491121473d6d52f,2025-02-26,senat,arrivee,cedric olea,OLEA,Cédric,M.,bernard jomier,,Bernard JOMIER,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+8b14374b752e5fb7,2025-02-26,senat,transfert,celian rolland,ROLLAND,Célian,M.,briante guillemont sophie,,Sophie BRIANTE GUILLEMONT,,bansard jean pierre,,Jean-Pierre BANSARD,,,elu_sortant,wayback,moyen,2025-02-26,wb2025022613
+13dbf1a5705361f6,2025-02-26,senat,arrivee,champenois laetitia,CHAMPENOIS,Laetitia,Mme,cozic thierry,,Thierry COZIC,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+556ba4e29459aa77,2025-02-26,senat,arrivee,charef dahmane,CHAREF,Dahmane,M.,aeschlimann do marie,,Marie-Do AESCHLIMANN,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+a890879e60f84005,2025-02-26,senat,transfert,charles moulin,MOULIN,Charles,M.,bruyen christian,,Christian BRUYEN,,josende lauriane,,Lauriane JOSENDE,,,,wayback,moyen,2025-02-26,wb2025022613
+67ee646f3938852e,2025-02-26,senat,depart,chauvet vincent,CHAUVET,Vincent,M.,amel gacquerre,,Amel GACQUERRE,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+694bee5e3729102c,2025-02-26,senat,depart,chavent marc,CHAVENT,Marc,M.,chavent goy sylvie,,Sylvie GOY-CHAVENT,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+1125997edd098805,2025-02-26,senat,depart,chenouf ibrahim,CHENOUF,Ibrahim,M.,blanc gregory,,Grégory BLANC,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+2c8c0dbbbc953d62,2025-02-26,senat,arrivee,cheze diane,CHEZE,Diane,Mme,bouchet gilbert,,Gilbert BOUCHET,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+0f70814ed58aab1a,2025-02-26,senat,arrivee,christelle thellier,THELLIER,Christelle,Mme,cedric vial,,Cédric VIAL,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+d6ce0ffcac005ede,2025-02-26,senat,depart,christine daumas marie,DAUMAS,Marie-Christine,Mme,alain chatillon,,Alain CHATILLON,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+bc0c12bfbed80785,2025-02-26,senat,depart,christine fompudie,FOMPUDIE,Christine,Mme,masset michel,,Michel MASSET,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+cebbc6aab70d8cba,2025-02-26,senat,transfert,christophe cornetto jean,CORNETTO,Jean-Christophe,M.,housseau lise marie,,Marie-Lise HOUSSEAU,,medevielle pierre,,Pierre MÉDEVIELLE,,,elu_entrant,wayback,moyen,2025-02-26,wb2025022613
+cba4f9d2de88c9e1,2025-02-26,senat,depart,christophe lekieffre,LEKIEFFRE,Christophe,M.,catherine dumas,,Catherine DUMAS,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+90ee704778046368,2025-02-26,senat,arrivee,clement penetrat,PENETRAT,Clément,M.,hingray jean,,Jean HINGRAY,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+8068b4099fe9c048,2025-02-26,senat,arrivee,cloe vanoni,VANONI,Cloé,Mme,jacquin olivier,,Olivier JACQUIN,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+57a80a7e5db73abe,2025-02-26,senat,depart,collin nadine,COLLIN,Nadine,Mme,herve maurey,,Hervé MAUREY,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+ad4396228ea1f1d1,2025-02-26,senat,depart,comtet geraldine,COMTET,Géraldine,Mme,chavent goy sylvie,,Sylvie GOY-CHAVENT,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+845f4065ce6d55c6,2025-02-26,senat,depart,corre klara le,LE CORRE,Klara,Mme,bonneau francois,,François BONNEAU,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+ba987b7cb79134b7,2025-02-26,senat,arrivee,courvasier leo,COURVASIER,Léo,M.,gagin paoli vanina,,Vanina PAOLI-GAGIN,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+aa04b47fb4621a6e,2025-02-26,senat,arrivee,couturier ronan,COUTURIER,Ronan,M.,bellamy jeanne marie,,Marie-Jeanne BELLAMY,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+9add3af8322cbf1d,2025-02-26,senat,depart,curier fred,CURIER,Fred,M.,lurel victorin,,Victorin LUREL,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+f54239efcaa11dc9,2025-02-26,senat,arrivee,cursio victor,CURSIO,Victor,M.,eric kerrouche,,Éric KERROUCHE,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+90556c9be7aed6ae,2025-02-26,senat,arrivee,cursio victor,CURSIO,Victor,M.,lubin monique,,Monique LUBIN,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+052e89674704f8d7,2025-02-26,senat,depart,david stephane,DAVID,Stéphane,M.,philippe tabarot,,Philippe TABAROT,,,,,,,elu_sortant,wayback,moyen,2025-02-26,wb2025022613
+df7cea1b47b05211,2025-02-26,senat,transfert,de edouard montgolfier,DE MONTGOLFIER,Edouard,M.,brigitte hybert,,Brigitte HYBERT,,bruno retailleau,,Bruno RETAILLEAU,,,elu_sortant,wayback,moyen,2025-02-26,wb2025022613
+a48a32694aa02872,2025-02-26,senat,depart,de elisabeth maistre,DE MAISTRE,Elisabeth,Mme,christine lavarde,,Christine LAVARDE,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+3c56de16851d406d,2025-02-26,senat,arrivee,de feligonde francoise marie pellissier,PELLISSIER DE FELIGONDE,Marie-Françoise,Mme,dominique theophile,,Dominique THÉOPHILE,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+ab1e023b59a92c44,2025-02-26,senat,depart,debas gregory,DEBAS,Grégory,M.,amel gacquerre,,Amel GACQUERRE,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+babe25fce941c79f,2025-02-26,senat,arrivee,delamare thibault,DELAMARE,Thibault,M.,conway helene mouret,,Hélène CONWAY-MOURET,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+ff5fb65b67201928,2025-02-26,senat,arrivee,delzenne pierre,DELZENNE,Pierre,M.,henno olivier,,Olivier HENNO,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+2a6d60d7b35017ee,2025-02-26,senat,arrivee,dereep luca,DEREEP,Luca,M.,brossat ian,,Ian BROSSAT,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+8c47127b628a8f39,2025-02-26,senat,depart,desmoulins thibault,DESMOULINS,Thibault,M.,andre reichardt,,André REICHARDT,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+6d77654e22fead9e,2025-02-26,senat,depart,dimitri ekoh,EKOH,Dimitri,M.,gagin paoli vanina,,Vanina PAOLI-GAGIN,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+7b4063482c3c9d6c,2025-02-26,senat,arrivee,ditte vincent,DITTE,Vincent,M.,audrey linkenheld,,Audrey LINKENHELD,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+ca66ed8cdce80a05,2025-02-26,senat,arrivee,durand paul,DURAND,Paul,M.,mickael vallet,,Mickaël VALLET,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+c5f5a9d393fb947f,2025-02-26,senat,depart,dutarde fourtic yseline,FOURTIC-DUTARDE,Yseline,Mme,laurence rossignol,,Laurence ROSSIGNOL,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+b34786060a1989a3,2025-02-26,senat,depart,eches matthieu,ECHES,Matthieu,M.,brossat ian,,Ian BROSSAT,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+f6d42ffb3885234e,2025-02-26,senat,depart,eckly yoline,ECKLY,Yoline,Mme,hingray jean,,Jean HINGRAY,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+233467156e0a6359,2025-02-26,senat,depart,edouard meunier,MEUNIER,Edouard,M.,aeschlimann do marie,,Marie-Do AESCHLIMANN,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+a6a17e54283b8b85,2025-02-26,senat,depart,ehl robin,EHL,Robin,M.,melanie vogel,,Mélanie VOGEL,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+14e65a7defa1a2cd,2025-02-26,senat,arrivee,el faycal idrissi,EL IDRISSI,Fayçal,M.,daubresse marc philippe,,Marc-Philippe DAUBRESSE,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+70026d5ae4ee0d6e,2025-02-26,senat,depart,el idrissi mustapha,EL IDRISSI,Mustapha,M.,daubresse marc philippe,,Marc-Philippe DAUBRESSE,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+3c2b7a04f93dd7d9,2025-02-26,senat,depart,elie grandbois marie,GRANDBOIS,Marie-Elie,Mme,dominique theophile,,Dominique THÉOPHILE,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+59d1e96ebe7aa8bf,2025-02-26,senat,arrivee,eliott massot paul,MASSOT,Paul-Eliott,M.,merillou serge,,Serge MÉRILLOU,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+79f69fd80dea2e80,2025-02-26,senat,arrivee,elyssa laurent,LAURENT,Elyssa,Mme,ramia salama,,Salama RAMIA,,,,,,,elu_entrant,wayback,moyen,2025-02-26,wb2025022613
+2df7ab7df76b35b0,2025-02-26,senat,arrivee,emile lemmers,LEMMERS,Emile,M.,haye ludovic,,Ludovic HAYE,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+9337772d68f18505,2025-02-26,senat,arrivee,emilie sebille,SEBILLE,Emilie,Mme,blanc gregory,,Grégory BLANC,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+30a7e9493dd4aaca,2025-02-26,senat,depart,emilio perrault,PERRAULT,Emilio,M.,delattre nathalie,,Nathalie DELATTRE,,,,,,,elu_sortant,wayback,moyen,2025-02-26,wb2025022613
+19387a1d1778ef33,2025-02-26,senat,arrivee,emmanuelle viquesnel,VIQUESNEL,Emmanuelle,Mme,herve maurey,,Hervé MAUREY,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+ba555231bf6c1040,2025-02-26,senat,transfert,emna sghaier,SGHAIER,Emna,Mme,rachid temal,,Rachid TEMAL,,adel ziane,,Adel ZIANE,,,,wayback,moyen,2025-02-26,wb2025022613
+a53fd66a0001a6be,2025-02-26,senat,arrivee,esteban evrard,EVRARD,Esteban,M.,apourceau cathy poly,,Cathy APOURCEAU-POLY,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+df32f609a02aa07a,2025-02-26,senat,depart,estique melanie,ESTIQUE,Mélanie,Mme,bansard jean pierre,,Jean-Pierre BANSARD,,,,,,,elu_sortant,wayback,moyen,2025-02-26,wb2025022613
+dbc08b60aaec003d,2025-02-26,senat,arrivee,etienne romain,ETIENNE,Romain,M.,florennes isabelle,,Isabelle FLORENNES,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+faa553b50c07b67c,2025-02-26,senat,depart,eva krivozoub,KRIVOZOUB,Eva,Mme,bernard delcros,,Bernard DELCROS,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+8a153bea15ef29f8,2025-02-26,senat,arrivee,fabien montrichard,MONTRICHARD,Fabien,M.,guidez jocelyne,,Jocelyne GUIDEZ,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+a1a5b031b40a9db8,2025-02-26,senat,depart,fagnen nicolas,FAGNEN,Nicolas,M.,merillou serge,,Serge MÉRILLOU,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+123ead38c10500f5,2025-02-26,senat,transfert,farda rachid,RACHID,Farda,Mme,ramia salama,,Salama RAMIA,,mohamed soilihi thani,,Thani MOHAMED SOILIHI,,,elu_sortant,wayback,moyen,2025-02-26,wb2025022613
+96b8ab6e75bf8940,2025-02-26,senat,depart,faustine roux,ROUX,Faustine,Mme,arnaud jean michel,,Jean-Michel ARNAUD,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+5716dd47561dded9,2025-02-26,senat,arrivee,felicie kempf,KEMPF,Félicie,Mme,laurence rossignol,,Laurence ROSSIGNOL,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+fef1e1a060b230fa,2025-02-26,senat,depart,fevrier ines,FEVRIER,Inès,Mme,harribey laurence,,Laurence HARRIBEY,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+f8d346786cbae8d6,2025-02-26,senat,arrivee,filippi paoli sophie,FILIPPI-PAOLI,Sophie,Mme,alexandre basquin,,Alexandre BASQUIN,,,,,,,elu_entrant,wayback,moyen,2025-02-26,wb2025022613
+0edeb05d3ea60811,2025-02-26,senat,arrivee,flecher mael,FLECHER,Mael,Mme,carrere claire gee marie,,Marie-Claire CARRÈRE-GÉE,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+53c846cee87ab87f,2025-02-26,senat,depart,florent mella,MELLA,Florent,M.,mickael vallet,,Mickaël VALLET,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+7a7f5107cdb16a29,2025-02-26,senat,depart,florian lambert,LAMBERT,Florian,M.,henno olivier,,Olivier HENNO,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+7cfeda68261ecc26,2025-02-26,senat,arrivee,fond louis,FOND,Louis,M.,claude jean tissot,,Jean-Claude TISSOT,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+bf6ba63dddd9fa19,2025-02-26,senat,depart,francois rosso,ROSSO,François,M.,demas patricia,,Patricia DEMAS,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+ee6ccd60c609c275,2025-02-26,senat,arrivee,friedrich karine,FRIEDRICH,Karine,Mme,christine herzog,,Christine HERZOG,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+5c31aff4c1670011,2025-02-26,senat,arrivee,furini rachel,FURINI,Rachel,Mme,masset michel,,Michel MASSET,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+d08b9a01984d9f95,2025-02-26,senat,depart,gabin gautereaud,GAUTEREAUD,Gabin,M.,francois jean longeot,,Jean-François LONGEOT,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+f70ce286cc0a003d,2025-02-26,senat,arrivee,gabrielle manon stepniewski,STEPNIEWSKI,Manon-Gabrielle,Mme,evelyne garabedian renaud,,Évelyne RENAUD-GARABEDIAN,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+aa28d3407d19e953,2025-02-26,senat,arrivee,gabrielle manon stepniewski,STEPNIEWSKI,Manon-Gabrielle,Mme,jean luc ruelle,,Jean-Luc RUELLE,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+2d13d66a31b5bc6c,2025-02-26,senat,depart,gaches stephanie,GACHES,Stéphanie,Mme,elsa schalck,,Elsa SCHALCK,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+d837b64b5ea1b5ed,2025-02-26,senat,arrivee,gaillard romain,GAILLARD,Romain,M.,melanie vogel,,Mélanie VOGEL,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+713800ebc95671ad,2025-02-26,senat,depart,garcia regis,GARCIA,Régis,M.,hingray jean,,Jean HINGRAY,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+63be76c8b275d8a9,2025-02-26,senat,arrivee,gaspard moretto,MORETTO,Gaspard,M.,harribey laurence,,Laurence HARRIBEY,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+8fa7517ff7dfb1d0,2025-02-26,senat,depart,gauyat pierre,GAUYAT,Pierre,M.,bocquet eric,,Éric BOCQUET,,,,,,,elu_sortant,wayback,moyen,2025-02-26,wb2025022613
+fc03bab9812dfa76,2025-02-26,senat,depart,genevieve parmentier,PARMENTIER,Geneviève,Mme,bonnecarrere philippe,,Philippe BONNECARRÈRE,,,,,,,elu_sortant,wayback,moyen,2025-02-26,wb2025022613
+099c8a79e02dde48,2025-02-26,senat,arrivee,geraldine jerome,JEROME,Géraldine,Mme,bonnefoy nicole,,Nicole BONNEFOY,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+02840c6458fb16bf,2025-02-26,senat,depart,gorny oriane,GORNY,Oriane,Mme,florennes isabelle,,Isabelle FLORENNES,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+0731cc3cd1376191,2025-02-26,senat,arrivee,goudaliez nathan,GOUDALIEZ,Nathan,M.,aeschlimann do marie,,Marie-Do AESCHLIMANN,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+79581f1746332157,2025-02-26,senat,arrivee,gourdel sebastien,GOURDEL,Sébastien,M.,bitz olivier,,Olivier BITZ,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+7d39172f64e80eb5,2025-02-26,senat,arrivee,gregoire hadamar,HADAMAR,Grégoire,M.,chaillou christophe,,Christophe CHAILLOU,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+1de3401240007544,2025-02-26,senat,arrivee,grenet justine,GRENET,Justine,Mme,chevrollier guillaume,,Guillaume CHEVROLLIER,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+3e7f23ddcc425c41,2025-02-26,senat,depart,griffoux lena,GRIFFOUX,Léna,Mme,cazebonne samantha,,Samantha CAZEBONNE,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+b8e67b2085648e2c,2025-02-26,senat,depart,guay maxime,GUAY,Maxime,M.,alexandra borchio fontimp,,Alexandra BORCHIO FONTIMP,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+286cff8139bb5c28,2025-02-26,senat,arrivee,hartmann maeva,HARTMANN,Maeva,Mme,daubet raphael,,Raphaël DAUBET,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+5c712392137718eb,2025-02-26,senat,depart,hee renaud,HEE,Renaud,M.,aymeric durox,,Aymeric DUROX,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+cf48de391c3f4c7a,2025-02-26,senat,depart,hnepeune samuel,HNEPEUNE,Samuel,M.,robert wienie xowie,,Robert Wienie XOWIE,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+503e7bf0307529df,2025-02-26,senat,arrivee,huberty martine,HUBERTY,Martine,Mme,courtial edouard,,Édouard COURTIAL,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+89014fecec96e478,2025-02-26,senat,arrivee,iris roland,ROLAND,Iris,Mme,annie houerou le,,Annie LE HOUEROU,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+4da0c52cb182e7e4,2025-02-26,senat,depart,isabelle lannuzel,LANNUZEL,Isabelle,Mme,havet nadege,,Nadège HAVET,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+19b2fbe7413d38b7,2025-02-26,senat,arrivee,isabelle martine roguet,ROGUET,Isabelle-Martine,Mme,noel sylviane,,Sylviane NOËL,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+e243916ca7b83d4d,2025-02-26,senat,depart,isabelle roguet,ROGUET,Isabelle,Mme,noel sylviane,,Sylviane NOËL,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+620c34ea37e29d6e,2025-02-26,senat,arrivee,isabelle rovarino,ROVARINO,Isabelle,Mme,arlette carlotti marie,,Marie-Arlette CARLOTTI,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+4e6ebcd496119faf,2025-02-26,senat,depart,jacques jean roset,ROSET,Jean-Jacques,M.,brault jean luc,,Jean-Luc BRAULT,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+45608314cf13fe32,2025-02-26,senat,depart,jacquin severine,JACQUIN,Séverine,Mme,hingray jean,,Jean HINGRAY,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+1d205b872fd37d90,2025-02-26,senat,depart,jarasse manon,JARASSE,Manon,Mme,jean luc ruelle,,Jean-Luc RUELLE,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+949eca3198e95680,2025-02-26,senat,depart,jean marie simon,SIMON,Jean-Marie,M.,gagin paoli vanina,,Vanina PAOLI-GAGIN,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+6a50274dc4ee7130,2025-02-26,senat,depart,joffre marie souleau,SOULEAU-JOFFRE,Marie,Mme,goulet nathalie,,Nathalie GOULET,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+6ad815311e9c7792,2025-02-26,senat,arrivee,joffre marie souleau,SOULEAU-JOFFRE,Marie,Mme,delia jean marc,,Jean-Marc DELIA,,,,,,,elu_entrant,wayback,moyen,2025-02-26,wb2025022613
+c1f990738bb4cb83,2025-02-26,senat,arrivee,joffre marie souleau,SOULEAU-JOFFRE,Marie,Mme,paul vidal,,Paul VIDAL,,,,,,,elu_entrant,wayback,moyen,2025-02-26,wb2025022613
+0528ac3bebc42d5b,2025-02-26,senat,depart,joffrey meyer,MEYER,Joffrey,M.,hingray jean,,Jean HINGRAY,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+c3999ea4a0b8e331,2025-02-26,senat,arrivee,journet valerie,JOURNET,Valérie,Mme,alexandre basquin,,Alexandre BASQUIN,,,,,,,elu_entrant,wayback,moyen,2025-02-26,wb2025022613
+2e9a7c8ff38a0bf7,2025-02-26,senat,depart,jules mario moreau,MOREAU,Jules Mario,M.,fouassin stephane,,Stéphane FOUASSIN,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+aa66442cd0d34170,2025-02-26,senat,depart,jules robin,ROBIN,Jules,M.,carrere claire gee marie,,Marie-Claire CARRÈRE-GÉE,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+8fbe7846446e7350,2025-02-26,senat,arrivee,julien perreau,PERREAU,Julien,M.,robert wienie xowie,,Robert Wienie XOWIE,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+016ba7b0a9aca6ea,2025-02-26,senat,arrivee,juliette lafont,LAFONT,Juliette,Mme,darnaud mathieu,,Mathieu DARNAUD,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+79331999209369fb,2025-02-26,senat,depart,juliette robichon,ROBICHON,Juliette,Mme,chaillou christophe,,Christophe CHAILLOU,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+65f8942f998a668b,2025-02-26,senat,arrivee,juliette scarato,SCARATO,Juliette,Mme,melanie vogel,,Mélanie VOGEL,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+2fb840aee1f4b23b,2025-02-26,senat,arrivee,juliette waquet,WAQUET,Juliette,Mme,apourceau cathy poly,,Cathy APOURCEAU-POLY,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+1c6b470d4983a73f,2025-02-26,senat,depart,junier virginie,JUNIER,Virginie,Mme,durain jerome,,Jérôme DURAIN,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+3f90955f78783c82,2025-02-26,senat,depart,justine rousse,ROUSSE,Justine,Mme,piednoir stephane,,Stéphane PIEDNOIR,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+1e594d3d83a31997,2025-02-26,senat,arrivee,kevin landry,LANDRY,Kévin,M.,amel gacquerre,,Amel GACQUERRE,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+ad73a1eed747e5ba,2025-02-26,senat,arrivee,kevin veronese,VERONESE,Kévin,M.,guillotin veronique,,Véronique GUILLOTIN,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+717402c1ffdab42e,2025-02-26,senat,depart,labastugue maude,LABASTUGUE,Maude,Mme,fernique jacques,,Jacques FERNIQUE,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+78a53a995a4a9d5d,2025-02-26,senat,depart,laib laura,LAIB,Laura,Mme,patricia schillinger,,Patricia SCHILLINGER,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+cbaff24749cdc873,2025-02-26,senat,arrivee,lallali rayan,LALLALI,Rayan,M.,baptiste jean lemoyne,,Jean-Baptiste LEMOYNE,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+b98d11a34ab85548,2025-02-26,senat,arrivee,lamboul pierre,LAMBOUL,Pierre,M.,martin pauline,,Pauline MARTIN,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+7b3b3b190f37d155,2025-02-26,senat,arrivee,lang xavier,LANG,Xavier,M.,haye ludovic,,Ludovic HAYE,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+884cd705d015a3fa,2025-02-26,senat,depart,launai quentin,LAUNAI,Quentin,M.,burgoa laurent,,Laurent BURGOA,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+9d5f3a7c45087384,2025-02-26,senat,arrivee,launay pauline,LAUNAY,Pauline,Mme,delia jean marc,,Jean-Marc DELIA,,,,,,,elu_entrant,wayback,moyen,2025-02-26,wb2025022613
+cd6b18e57f7ab270,2025-02-26,senat,transfert,laura laurens,LAURENS,Laura,Mme,frederique puissat,,Frédérique PUISSAT,,michel savin,,Michel SAVIN,,,,wayback,moyen,2025-02-26,wb2025022613
+89f3e966bc34cc68,2025-02-26,senat,depart,laura roche,ROCHE,Laura,Mme,bansard jean pierre,,Jean-Pierre BANSARD,,,,,,,elu_sortant,wayback,moyen,2025-02-26,wb2025022613
+df84dc3d850f1a70,2025-02-26,senat,transfert,lefeuvre nathalie,LEFEUVRE,Nathalie,Mme,brigitte hybert,,Brigitte HYBERT,,bruno retailleau,,Bruno RETAILLEAU,,,elu_sortant,wayback,moyen,2025-02-26,wb2025022613
+ad5232f79948acec,2025-02-26,senat,depart,lena pirard,PIRARD,Léna,Mme,berthet martine,,Martine BERTHET,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+bdafed47c0039602,2025-02-26,senat,depart,leveque pierre,LEVEQUE,Pierre,M.,anne ventalon,,Anne VENTALON,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+7a26c39f292317a8,2025-02-26,senat,depart,leveque pierre,LEVEQUE,Pierre,M.,darnaud mathieu,,Mathieu DARNAUD,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+6508395d7cb05b3d,2025-02-26,senat,depart,levy stephane valensi,LEVY-VALENSI,Stéphane,M.,marie monier pierre,,Marie-Pierre MONIER,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+b7187ba782c60efd,2025-02-26,senat,arrivee,lichten raphael,LICHTEN,Raphaël,M.,briante guillemont sophie,,Sophie BRIANTE GUILLEMONT,,,,,,,elu_entrant,wayback,moyen,2025-02-26,wb2025022613
+f10a5568cb8e82b2,2025-02-26,senat,depart,lisa pernet,PERNET,Lisa,Mme,berthet martine,,Martine BERTHET,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+146abb1eef20ce10,2025-02-26,senat,depart,lisa pernet,PERNET,Lisa,Mme,francois husson jean,,Jean-François HUSSON,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+5fb52ceba69ec0a2,2025-02-26,senat,arrivee,loick mboungou niangui,MBOUNGOU NIANGUI,Loick,Mme,dominique theophile,,Dominique THÉOPHILE,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+0d981eb7d6900b6d,2025-02-26,senat,depart,lorguillous mateo,LORGUILLOUS,Matéo,M.,francoise gatel,,Françoise GATEL,,,,,,,elu_sortant,wayback,moyen,2025-02-26,wb2025022613
+0709b1c0caf37336,2025-02-26,senat,arrivee,lotz melissa,LOTZ,Mélissa,Mme,le rudulier stephane,,Stéphane LE RUDULIER,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+c3a54df1358cb10c,2025-02-26,senat,arrivee,louis mouchotte,MOUCHOTTE,Louis,M.,carrere claire gee marie,,Marie-Claire CARRÈRE-GÉE,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+540e00bc7ab61865,2025-02-26,senat,depart,louis seguinard,SEGUINARD,Louis,M.,daubet raphael,,Raphaël DAUBET,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+7c1d6816c05bf234,2025-02-26,senat,arrivee,louison villemain,VILLEMAIN,Louison,M.,bernard jomier,,Bernard JOMIER,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+b083eb0bd9094198,2025-02-26,senat,depart,mallipoudy satya,MALLIPOUDY,Satya,Mme,simon uzenat,,Simon UZENAT,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+208670dc1ef764ba,2025-02-26,senat,depart,manceau mattieu,MANCEAU,Mattieu,M.,belin bruno,,Bruno BELIN,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+b04410b0df9c4c17,2025-02-26,senat,transfert,manon sigalas,SIGALAS,Manon,Mme,conte jaubert mireille,,Mireille CONTE JAUBERT,,delattre nathalie,,Nathalie DELATTRE,,,elu_sortant,wayback,moyen,2025-02-26,wb2025022613
+bb24bd2ed6770043,2025-02-26,senat,depart,marc simon,SIMON,Marc,M.,bitz olivier,,Olivier BITZ,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+94191dd7b12433fe,2025-02-26,senat,depart,marie reynes therese,REYNES,Marie-Thérèse,Mme,gisele jourda,,Gisèle JOURDA,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+3035d6f55cfc7719,2025-02-26,senat,depart,marie toussaint,TOUSSAINT,Marie,Mme,corbiere evelyne naminzo,,Evelyne CORBIERE NAMINZO,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+dfa0f0f7ea947762,2025-02-26,senat,arrivee,mario moreau,MOREAU,Mario,M.,fouassin stephane,,Stéphane FOUASSIN,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+8aa55822801dc449,2025-02-26,senat,arrivee,marion nicaise,NICAISE,Marion,Mme,demas patricia,,Patricia DEMAS,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+71f0285cde3f35d1,2025-02-26,senat,arrivee,marjorie vidal,VIDAL,Marjorie,Mme,arnaud jean michel,,Jean-Michel ARNAUD,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+87459ff07a4a7d9a,2025-02-26,senat,arrivee,mathias thibaudat,THIBAUDAT,Mathias,M.,alain pierre roiron,,Pierre-Alain ROIRON,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+2bf3c7129cc92a4c,2025-02-26,senat,transfert,mathieu ponsoda,PONSODA,Mathieu,M.,josende lauriane,,Lauriane JOSENDE,,agnes canayer,,Agnès CANAYER,,,,wayback,moyen,2025-02-26,wb2025022613
+58fbdba26f57ab4e,2025-02-26,senat,arrivee,matteo vitali,VITALI,Matteo,M.,grosperrin jacques,,Jacques GROSPERRIN,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+bae8bf0c1b32c3a0,2025-02-26,senat,transfert,matthew reardon,REARDON,Matthew,M.,jean marc ruel,,Jean-Marc RUEL,,annick girardin,,Annick GIRARDIN,,,elu_sortant,wayback,moyen,2025-02-26,wb2025022613
+c92a65e57bd3def9,2025-02-26,senat,transfert,may si yang,YANG,May-Si,Mme,catherine di folco,,Catherine DI FOLCO,,buffet francois noel,,François-Noël BUFFET,,,elu_sortant,wayback,moyen,2025-02-26,wb2025022613
+f16217547f7f055b,2025-02-26,senat,arrivee,maylis mouton,MOUTON,Maylis,Mme,gagin paoli vanina,,Vanina PAOLI-GAGIN,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+fdc834cdee4906d5,2025-02-26,senat,depart,mireille starck,STARCK,Mireille,Mme,frederique puissat,,Frédérique PUISSAT,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+2e5a502cee00eb09,2025-02-26,senat,arrivee,monika vassilev,VASSILEV,Monika,Mme,alain joyandet,,Alain JOYANDET,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+651c0699deb24034,2025-02-26,senat,depart,morgane seven,SEVEN,Morgane,Mme,rohfritsch teva,,Teva ROHFRITSCH,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+26c79968e23441f3,2025-02-26,senat,depart,mylene nicoud,NICOUD,Mylène,Mme,cedric vial,,Cédric VIAL,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+d6a755ca1a5766bc,2025-02-26,senat,transfert,nadir saifi,SAIFI,Nadir,M.,florennes isabelle,,Isabelle FLORENNES,,akli mellouli,,Akli MELLOULI,,,,wayback,moyen,2025-02-26,wb2025022613
+99ff98104f148cca,2025-02-26,senat,depart,natacha poplineau,POPLINEAU,Natacha,Mme,dumont francoise,,Françoise DUMONT,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+6ef3acb7c9d7fdcb,2025-02-26,senat,arrivee,natalene sylvestre,SYLVESTRE,Natalène,Mme,bernard delcros,,Bernard DELCROS,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+67e67e75db989f9e,2025-02-26,senat,depart,nathalie rapetti,RAPETTI,Nathalie,Mme,herve marseille,,Hervé MARSEILLE,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+897190eea1341d38,2025-02-26,senat,depart,nathalie trousseville,TROUSSEVILLE,Nathalie,Mme,mohamed soilihi thani,,Thani MOHAMED SOILIHI,,,,,,,elu_sortant,wayback,moyen,2025-02-26,wb2025022613
+d757eeecef598ece,2025-02-26,senat,arrivee,nequey sarah,NEQUEY,Sarah,Mme,corinne feret,,Corinne FÉRET,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+fc118972bb18f838,2025-02-26,senat,arrivee,nicolas pierrel,PIERREL,Nicolas,M.,goulet nathalie,,Nathalie GOULET,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+954c39c4d0fb9aef,2025-02-26,senat,arrivee,olariu thea,OLARIU,Théa,Mme,hingray jean,,Jean HINGRAY,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+25e82040e703287d,2025-02-26,senat,arrivee,pavy pierre,PAVY,Pierre,M.,housseau lise marie,,Marie-Lise HOUSSEAU,,,,,,,elu_entrant,wayback,moyen,2025-02-26,wb2025022613
+2c0a9c1b94f0bfda,2025-02-26,senat,arrivee,pierre rivory,RIVORY,Pierre,M.,bonneau francois,,François BONNEAU,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+07ebf17210c12684,2025-02-26,senat,depart,poiret vincent,POIRET,Vincent,M.,primas sophie,,Sophie PRIMAS,,,,,,,elu_sortant,wayback,moyen,2025-02-26,wb2025022613
+6583e7d097625d3a,2025-02-26,senat,arrivee,portarrieu valerie,PORTARRIEU,Valérie,Mme,medevielle pierre,,Pierre MÉDEVIELLE,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+025ba92645655670,2025-02-26,senat,arrivee,rachel recht,RECHT,Rachel,Mme,christine herzog,,Christine HERZOG,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+b3b884bac42e0588,2025-02-26,senat,depart,ramia salama,RAMIA,Salama,Mme,mohamed soilihi thani,,Thani MOHAMED SOILIHI,,,,,,,elu_sortant,wayback,moyen,2025-02-26,wb2025022613
+f7138b70044bb094,2025-02-26,senat,arrivee,rapetti thalie,RAPETTI,Thalie,Mme,herve marseille,,Hervé MARSEILLE,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+b3b9a43bcfe48392,2025-02-26,senat,depart,raphael valette,VALETTE,Raphaël,M.,rachid temal,,Rachid TEMAL,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+9faaf8be66db1de0,2025-02-26,senat,transfert,rayane zribi,ZRIBI,Rayane,M.,dumoulin eric,,Éric DUMOULIN,,primas sophie,,Sophie PRIMAS,,,elu_sortant,wayback,moyen,2025-02-26,wb2025022613
+0ff0d5624cc6c948,2025-02-26,senat,arrivee,rizoug safia,RIZOUG,Safia,Mme,akli mellouli,,Akli MELLOULI,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+4c8e16cd4dda68e2,2025-02-26,senat,depart,rose salami,SALAMI,Rose,Mme,guidez jocelyne,,Jocelyne GUIDEZ,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+a833f3ac33516b64,2025-02-26,senat,depart,rucin simon,RUCIN,Simon,M.,alain pierre roiron,,Pierre-Alain ROIRON,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+da2c5aae7262e174,2025-02-26,senat,arrivee,sahraoui saliha,SAHRAOUI,Saliha,Mme,silvana silvani,,Silvana SILVANI,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+be770cd8e19f9f44,2025-02-26,senat,arrivee,samuel seu,SEU,Samuel,M.,andre reichardt,,André REICHARDT,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+eb21b40c6f9d6fd2,2025-02-26,senat,arrivee,soriano victoria,SORIANO,Victoria,Mme,dossus thomas,,Thomas DOSSUS,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+2afc9fbde1e87071,2025-02-26,senat,arrivee,stephanie toussaint,TOUSSAINT,Stéphanie,Mme,corbiere evelyne naminzo,,Evelyne CORBIERE NAMINZO,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+50ee1b230588dbdc,2025-02-26,senat,arrivee,tavernier theodore,TAVERNIER,Théodore,M.,georges naturel,,Georges NATUREL,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+23d8549b2c1e164d,2025-02-26,senat,arrivee,tertrais thomas,TERTRAIS,Thomas,M.,alberic de montgolfier,,Albéric de MONTGOLFIER,,,,,,,,wayback,moyen,2025-02-26,wb2025022613
+4cc4a2de003418e9,2025-04-04,senat,depart,alexia blick,BLICK,Alexia,Mme,francis szpiner,,Francis SZPINER,,,,,,,,wayback,moyen,2025-04-04,wb2025040409
+5a1c8fe943858777,2025-04-04,senat,depart,anais kose,KOSE,Anaïs,Mme,robert wienie xowie,,Robert Wienie XOWIE,,,,,,,,wayback,moyen,2025-04-04,wb2025040409
+a91d38b401646b66,2025-04-04,senat,depart,ann carol juste,JUSTE,Carol-Ann,Mme,belrhiti catherine,,Catherine BELRHITI,,,,,,,,wayback,moyen,2025-04-04,wb2025040409
+df81fcbe0c040f08,2025-04-04,senat,arrivee,antier gabrielle,ANTIER,Gabrielle,Mme,mickael vallet,,Mickaël VALLET,,,,,,,,wayback,moyen,2025-04-04,wb2025040409
+5bd772d913e8d074,2025-04-04,senat,depart,arnaud aurelien,ARNAUD,Aurélien,M.,bourgi hussein,,Hussein BOURGI,,,,,,,,wayback,moyen,2025-04-04,wb2025040409
+4f7f63610776bd99,2025-04-04,senat,arrivee,arthur feller,FELLER,Arthur,M.,emilienne poumirol,,Emilienne POUMIROL,,,,,,,,wayback,moyen,2025-04-04,wb2025040409
+b2ecb275d1e5ebe1,2025-04-04,senat,depart,balisoni barbara pianelli,PIANELLI-BALISONI,Barbara,Mme,parigi paul toussaint,,Paul Toussaint PARIGI,,,,,,,,wayback,moyen,2025-04-04,wb2025040409
+0b0d041804252ebf,2025-04-04,senat,arrivee,baptiste ihage,IHAGE,Baptiste,M.,robert wienie xowie,,Robert Wienie XOWIE,,,,,,,,wayback,moyen,2025-04-04,wb2025040409
+8c975794daebb9c1,2025-04-04,senat,arrivee,baptiste normand,NORMAND,Baptiste,M.,aeschlimann do marie,,Marie-Do AESCHLIMANN,,,,,,,,wayback,moyen,2025-04-04,wb2025040409
+30f721546747954f,2025-04-04,senat,depart,batigne thomas,BATIGNE,Thomas,M.,cidrac de marta,,Marta de CIDRAC,,,,,,,,wayback,moyen,2025-04-04,wb2025040409
+6dac130c1d49bab7,2025-04-04,senat,arrivee,begin theophile,BEGIN,Théophile,M.,francois jean longeot,,Jean-François LONGEOT,,,,,,,,wayback,moyen,2025-04-04,wb2025040409
+d373e24837ad3833,2025-04-04,senat,arrivee,benjamin maillard,MAILLARD,Benjamin,M.,david margueritte,,David MARGUERITTE,,,,,,,elu_entrant,wayback,moyen,2025-04-04,wb2025040409
+51ec93d9112803c5,2025-04-04,senat,depart,betty cadet,CADET,Betty,Mme,daubresse marc philippe,,Marc-Philippe DAUBRESSE,,,,,,,,wayback,moyen,2025-04-04,wb2025040409
+7ee5f4814e573d16,2025-04-04,senat,arrivee,bihan erwan le,LE BIHAN,Erwan,M.,gisele jourda,,Gisèle JOURDA,,,,,,,,wayback,moyen,2025-04-04,wb2025040409
+f34928358bd92a97,2025-04-04,senat,depart,boespflug sarrazin thibaud,SARRAZIN-BOESPFLUG,Thibaud,M.,jean luc ruelle,,Jean-Luc RUELLE,,,,,,,,wayback,moyen,2025-04-04,wb2025040409
+a47fb56fc2c2eaaf,2025-04-04,senat,arrivee,bonvalet sarah younes,BONVALET-YOUNES,Sarah,Mme,antoinette guhl,,Antoinette GUHL,,,,,,,,wayback,moyen,2025-04-04,wb2025040409
+141ceb8025ed9680,2025-04-04,senat,depart,boulay eric,BOULAY,Eric,M.,louault vincent,,Vincent LOUAULT,,,,,,,,wayback,moyen,2025-04-04,wb2025040409
+ecb5003ac6472e91,2025-04-04,senat,depart,braut constance,BRAUT,Constance,Mme,alexandra borchio fontimp,,Alexandra BORCHIO FONTIMP,,,,,,,,wayback,moyen,2025-04-04,wb2025040409
+cc0841ea0fbefc53,2025-04-04,senat,arrivee,brisson emmanuelle,BRISSON,Emmanuelle,Mme,belrhiti catherine,,Catherine BELRHITI,,,,,,,,wayback,moyen,2025-04-04,wb2025040409
+6d2fe5789f2f0c0f,2025-04-04,senat,arrivee,buisson du du frederique mesnil,du MESNIL du BUISSON,Frédérique,Mme,alexandra borchio fontimp,,Alexandra BORCHIO FONTIMP,,,,,,,,wayback,moyen,2025-04-04,wb2025040409
+dd222ea50af9f88d,2025-04-04,senat,arrivee,cauvin francoise,CAUVIN,Françoise,Mme,corbisez jean pierre,,Jean-Pierre CORBISEZ,,,,,,,,wayback,moyen,2025-04-04,wb2025040409
+bde06aeabd53973b,2025-04-04,senat,arrivee,cedric sawicki,SAWICKI,Cédric,M.,agnes evren,,Agnès EVREN,,,,,,,elu_entrant,wayback,moyen,2025-04-04,wb2025040409
+e205aab0ecf5bdb8,2025-04-04,senat,transfert,charles doublet edouard,DOUBLET,Charles-Edouard,M.,catherine dumas,,Catherine DUMAS,,bruno rojouan,,Bruno ROJOUAN,,,,wayback,moyen,2025-04-04,wb2025040409
+94262b690ebcb935,2025-04-04,senat,arrivee,charles maurice,MAURICE,Charles,M.,goulet nathalie,,Nathalie GOULET,,,,,,,,wayback,moyen,2025-04-04,wb2025040409
+2c7862641f49e38e,2025-04-04,senat,depart,chauff de geraldine kerguenec le,LE CHAUFF de KERGUENEC,Géraldine,Mme,demas patricia,,Patricia DEMAS,,,,,,,,wayback,moyen,2025-04-04,wb2025040409
+94732f118e58a92c,2025-04-04,senat,depart,christelle thellier,THELLIER,Christelle,Mme,cedric vial,,Cédric VIAL,,,,,,,,wayback,moyen,2025-04-04,wb2025040409
+dcd332a65c42b34d,2025-04-04,senat,depart,clement penetrat,PENETRAT,Clément,M.,hingray jean,,Jean HINGRAY,,,,,,,,wayback,moyen,2025-04-04,wb2025040409
+a5d7e3c6acbf7b52,2025-04-04,senat,arrivee,clement puchaux,PUCHAUX,Clément,M.,josende lauriane,,Lauriane JOSENDE,,,,,,,,wayback,moyen,2025-04-04,wb2025040409
+b7b3cac047ada490,2025-04-04,senat,depart,couturier ronan,COUTURIER,Ronan,M.,bellamy jeanne marie,,Marie-Jeanne BELLAMY,,,,,,,,wayback,moyen,2025-04-04,wb2025040409
+ea3acf139f480632,2025-04-04,senat,arrivee,d geraud ivry ogier,OGIER D IVRY,Géraud,M.,brigitte hybert,,Brigitte HYBERT,,,,,,,,wayback,moyen,2025-04-04,wb2025040409
+bf6ec1576b13d2b7,2025-04-04,senat,arrivee,deuren pauline van,VAN DEUREN,Pauline,Mme,cyril pellevat,,Cyril PELLEVAT,,,,,,,,wayback,moyen,2025-04-04,wb2025040409
+5001b566b7f43aeb,2025-04-04,senat,arrivee,duquenne jacques,DUQUENNE,Jacques,M.,amel gacquerre,,Amel GACQUERRE,,,,,,,,wayback,moyen,2025-04-04,wb2025040409
+ec1aae1d467bbb10,2025-04-04,senat,arrivee,dylan suaud,SUAUD,Dylan,M.,bellamy jeanne marie,,Marie-Jeanne BELLAMY,,,,,,,,wayback,moyen,2025-04-04,wb2025040409
+adc7f6a238647b88,2025-04-04,senat,arrivee,emilio perrault,PERRAULT,Emilio,M.,demas patricia,,Patricia DEMAS,,,,,,,,wayback,moyen,2025-04-04,wb2025040409
+6bcf59cf5eabc970,2025-04-04,senat,depart,esnouf franck,ESNOUF,Franck,M.,bas philippe,,Philippe BAS,,,,,,,elu_sortant,wayback,moyen,2025-04-04,wb2025040409
+a9cd018bc2c96938,2025-04-04,senat,depart,gabrielle manon stepniewski,STEPNIEWSKI,Manon-Gabrielle,Mme,jean luc ruelle,,Jean-Luc RUELLE,,,,,,,,wayback,moyen,2025-04-04,wb2025040409
+f3a03a630561961d,2025-04-04,senat,depart,geraldine jerome,JEROME,Géraldine,Mme,bonnefoy nicole,,Nicole BONNEFOY,,,,,,,,wayback,moyen,2025-04-04,wb2025040409
+8ab73e058a1b8bc5,2025-04-04,senat,arrivee,gilles verron,VERRON,Gilles,M.,bernard jomier,,Bernard JOMIER,,,,,,,,wayback,moyen,2025-04-04,wb2025040409
+13777c714786bcd6,2025-04-04,senat,arrivee,hadrien therasse,THERASSE,Hadrien,M.,simon uzenat,,Simon UZENAT,,,,,,,,wayback,moyen,2025-04-04,wb2025040409
+e9732e4c4bb14475,2025-04-04,senat,arrivee,heisbourg laurence,HEISBOURG,Laurence,Mme,dumont francoise,,Françoise DUMONT,,,,,,,,wayback,moyen,2025-04-04,wb2025040409
+6bd1c1ff303579bd,2025-04-04,senat,depart,herlaud vaimiti,HERLAUD,Vaïmiti,Mme,rohfritsch teva,,Teva ROHFRITSCH,,,,,,,,wayback,moyen,2025-04-04,wb2025040409
+580ebcb5177173e1,2025-04-04,senat,arrivee,isabelle schild,SCHILD,Isabelle,Mme,hingray jean,,Jean HINGRAY,,,,,,,,wayback,moyen,2025-04-04,wb2025040409
+95833f561f85f1b2,2025-04-04,senat,transfert,jeremy maisonneuve,MAISONNEUVE,Jérémy,M.,david margueritte,,David MARGUERITTE,,bas philippe,,Philippe BAS,,,elu_sortant,wayback,moyen,2025-04-04,wb2025040409
+2b75439d2b9fbb0f,2025-04-04,senat,depart,julien perreau,PERREAU,Julien,M.,robert wienie xowie,,Robert Wienie XOWIE,,,,,,,,wayback,moyen,2025-04-04,wb2025040409
+25cdc7726e5f97dd,2025-04-04,senat,depart,juliette lafont,LAFONT,Juliette,Mme,bas philippe,,Philippe BAS,,,,,,,elu_sortant,wayback,moyen,2025-04-04,wb2025040409
+f24e0ddbc3c1e4f7,2025-04-04,senat,depart,kossonogow maroussia,KOSSONOGOW,Maroussia,Mme,cyril pellevat,,Cyril PELLEVAT,,,,,,,,wayback,moyen,2025-04-04,wb2025040409
+256a96b7b99c9757,2025-04-04,senat,depart,lattard pierre,LATTARD,Pierre,M.,brigitte micouleau,,Brigitte MICOULEAU,,,,,,,,wayback,moyen,2025-04-04,wb2025040409
+839f6ffca5312090,2025-04-04,senat,arrivee,miri sami,MIRI,Sami,M.,adel ziane,,Adel ZIANE,,,,,,,,wayback,moyen,2025-04-04,wb2025040409
+62b3bc60a54a08e5,2025-04-04,senat,depart,natalene sylvestre,SYLVESTRE,Natalène,Mme,bernard delcros,,Bernard DELCROS,,,,,,,,wayback,moyen,2025-04-04,wb2025040409
+bc427685d9d7f13a,2025-04-04,senat,depart,perry tumata,PERRY,Tumata,Mme,kulimoetoke mikaele,,Mikaele KULIMOETOKE,,,,,,,,wayback,moyen,2025-04-04,wb2025040409
+74746c77e3f92afe,2025-04-04,senat,arrivee,robin touzanne,TOUZANNE,Robin,M.,blanc gregory,,Grégory BLANC,,,,,,,,wayback,moyen,2025-04-04,wb2025040409
+3f5ac1a07d34bdbd,2025-04-04,senat,depart,ruellan tanguy,RUELLAN,Tanguy,M.,ghislaine senee,,Ghislaine SENÉE,,,,,,,,wayback,moyen,2025-04-04,wb2025040409
+28bbd250191cab7e,2025-07-07,senat,depart,a dana serhir,SERHIR,Dana'a,Mme,akli mellouli,,Akli MELLOULI,,,,,,,,wayback,moyen,2025-07-07,wb2025070715
+1fcde2b1acf08b80,2025-07-07,senat,arrivee,abdourraquib toillal,ABDOURRAQUIB,Toillal,M.,oili omar said,,Saïd OMAR OILI,,,,,,,,wayback,moyen,2025-07-07,wb2025070715
+8137c37f46b11327,2025-07-07,senat,depart,adeline berenice,ADELINE,Bérénice,Mme,iacovelli xavier,,Xavier IACOVELLI,,,,,,,,wayback,moyen,2025-07-07,wb2025070715
+e8f9ca83ed56c572,2025-07-07,senat,arrivee,agier sarah,AGIER,Sarah,Mme,boyer jean marc,,Jean-Marc BOYER,,,,,,,,wayback,moyen,2025-07-07,wb2025070715
+d12ecf3e00d0bfb9,2025-07-07,senat,arrivee,alexandra doussaud,DOUSSAUD,Alexandra,Mme,claude nougein,,Claude NOUGEIN,,,,,,,,wayback,moyen,2025-07-07,wb2025070715
+9392e72c4c75b2e1,2025-07-07,senat,arrivee,alexandre copin,COPIN,Alexandre,M.,cedric vial,,Cédric VIAL,,,,,,,,wayback,moyen,2025-07-07,wb2025070715
+f493e35621eef77d,2025-07-07,senat,depart,alexis d leili,D'ALEXIS,Leïli,M.,nadille solanges,,Solanges NADILLE,,,,,,,,wayback,moyen,2025-07-07,wb2025070715
+f6b92f1b1230bc33,2025-07-07,senat,arrivee,anna mary reiatua,REIATUA,Mary-Anna,Mme,rohfritsch teva,,Teva ROHFRITSCH,,,,,,,,wayback,moyen,2025-07-07,wb2025070715
+18beb9aedef4b31b,2025-07-07,senat,arrivee,anne bourgeois laure,BOURGEOIS,Anne-Laure,Mme,christine lavarde,,Christine LAVARDE,,,,,,,,wayback,moyen,2025-07-07,wb2025070715
+95dbdf6ab80c4f5a,2025-07-07,senat,depart,anne delpech panastier,PANASTIER-DELPECH,Anne,Mme,jean marie vanlerenberghe,,Jean-Marie VANLERENBERGHE,,,,,,,,wayback,moyen,2025-07-07,wb2025070715
+6251eb1eec88adaa,2025-07-07,senat,arrivee,anne emilie ravache,RAVACHE,Anne-Emilie,Mme,brulin celine,,Céline BRULIN,,,,,,,,wayback,moyen,2025-07-07,wb2025070715
+25268486b1e7b31a,2025-07-07,senat,depart,arthur feller,FELLER,Arthur,M.,emilienne poumirol,,Emilienne POUMIROL,,,,,,,,wayback,moyen,2025-07-07,wb2025070715
+722b21c5984b4d09,2025-07-07,senat,arrivee,astier sarah,ASTIER,Sarah,Mme,eric gold,,Éric GOLD,,,,,,,,wayback,moyen,2025-07-07,wb2025070715
+aec60cac4e85d23d,2025-07-07,senat,arrivee,aubineau carla,AUBINEAU,Carla,Mme,masset michel,,Michel MASSET,,,,,,,,wayback,moyen,2025-07-07,wb2025070715
+6ecb2a58a9c9bead,2025-07-07,senat,depart,auguste ott,OTT,Auguste,M.,patricia schillinger,,Patricia SCHILLINGER,,,,,,,,wayback,moyen,2025-07-07,wb2025070715
+a6de28b9e6599340,2025-07-07,senat,depart,augustin lepercq,LEPERCQ,Augustin,M.,belin bruno,,Bruno BELIN,,,,,,,,wayback,moyen,2025-07-07,wb2025070715
+0754533aedb19ff2,2025-07-07,senat,arrivee,auriane lescouarch,LESCOUARCH,Auriane,Mme,ghislaine senee,,Ghislaine SENÉE,,,,,,,,wayback,moyen,2025-07-07,wb2025070715
+a8714f687911aa71,2025-07-07,senat,depart,bachelier juliette,BACHELIER,Juliette,Mme,sylvie vermeillet,,Sylvie VERMEILLET,,,,,,,,wayback,moyen,2025-07-07,wb2025070715
+1eb5c96f29c1fba0,2025-07-07,senat,depart,balincourt de gabriel,de BALINCOURT,Gabriel,M.,christine lavarde,,Christine LAVARDE,,,,,,,,wayback,moyen,2025-07-07,wb2025070715
+0acc6ed2ef2e6c2d,2025-07-07,senat,transfert,baptiste henneresse,HENNERESSE,Baptiste,M.,anne catherine loisier,,Anne-Catherine LOISIER,,bitz olivier,,Olivier BITZ,,,,wayback,moyen,2025-07-07,wb2025070715
+83f120f03857db33,2025-07-07,senat,depart,baptiste ihage,IHAGE,Baptiste,M.,robert wienie xowie,,Robert Wienie XOWIE,,,,,,,,wayback,moyen,2025-07-07,wb2025070715
+50559e0ec3a2ba12,2025-07-07,senat,depart,bastien valtille,VALTILLE,Bastien,M.,jadot yannick,,Yannick JADOT,,,,,,,,wayback,moyen,2025-07-07,wb2025070715
+1fc12911d25acfb3,2025-07-07,senat,arrivee,benoit gautier,GAUTIER,Benoît,M.,grosperrin jacques,,Jacques GROSPERRIN,,,,,,,,wayback,moyen,2025-07-07,wb2025070715
+bc0ec8c1a98fcd14,2025-07-07,senat,arrivee,besson geraldine,BESSON,Géraldine,Mme,cedric vial,,Cédric VIAL,,,,,,,,wayback,moyen,2025-07-07,wb2025070715
+7834e7251a48d951,2025-07-07,senat,depart,bracq thomas,BRACQ,Thomas,M.,ouzoulias pierre,,Pierre OUZOULIAS,,,,,,,,wayback,moyen,2025-07-07,wb2025070715
+a468521269a9601b,2025-07-07,senat,arrivee,brian itema,ITEMA,Brian,M.,havet nadege,,Nadège HAVET,,,,,,,,wayback,moyen,2025-07-07,wb2025070715
+e05f4e7dc8167be3,2025-07-07,senat,arrivee,cassius gaspard,CASSIUS,Gaspard,M.,brulin celine,,Céline BRULIN,,,,,,,,wayback,moyen,2025-07-07,wb2025070715
+35f9013b839c5f93,2025-07-07,senat,depart,cecile collet robic,COLLET-ROBIC,Cécile,Mme,claude marie varaillas,,Marie-Claude VARAILLAS,,,,,,,,wayback,moyen,2025-07-07,wb2025070715
+d23b19d1eb2ff13c,2025-07-07,senat,depart,cedric olea,OLEA,Cédric,M.,bernard jomier,,Bernard JOMIER,,,,,,,,wayback,moyen,2025-07-07,wb2025070715
+64da1163e8006997,2025-07-07,senat,depart,cedric sawicki,SAWICKI,Cédric,M.,agnes evren,,Agnès EVREN,,,,,,,,wayback,moyen,2025-07-07,wb2025070715
+9650fa124502982b,2025-07-07,senat,depart,champenois laetitia,CHAMPENOIS,Laetitia,Mme,cozic thierry,,Thierry COZIC,,,,,,,,wayback,moyen,2025-07-07,wb2025070715
+a3b88eede42bcf98,2025-07-07,senat,depart,charles moulin,MOULIN,Charles,M.,bruyen christian,,Christian BRUYEN,,,,,,,,wayback,moyen,2025-07-07,wb2025070715
+13e66e5fe4a5fc50,2025-07-07,senat,depart,chauvin sarah,CHAUVIN,Sarah,Mme,boyer jean marc,,Jean-Marc BOYER,,,,,,,,wayback,moyen,2025-07-07,wb2025070715
+66b60d446cf8d684,2025-07-07,senat,arrivee,chevalier julien,CHEVALIER,Julien,M.,cozic thierry,,Thierry COZIC,,,,,,,,wayback,moyen,2025-07-07,wb2025070715
+3eef42678dd4edac,2025-07-07,senat,arrivee,cosnard janvrin thomas,JANVRIN-COSNARD,Thomas,M.,fouassin stephane,,Stéphane FOUASSIN,,,,,,,,wayback,moyen,2025-07-07,wb2025070715
+c87815f1c4d240fc,2025-07-07,senat,arrivee,deschamps gomez simon,GOMEZ DESCHAMPS,Simon,M.,agnes evren,,Agnès EVREN,,,,,,,,wayback,moyen,2025-07-07,wb2025070715
+2508d1e57ff28a11,2025-07-07,senat,arrivee,diez gutierrez matys y,GUTIERREZ Y DIEZ,Matys,M.,iacovelli xavier,,Xavier IACOVELLI,,,,,,,,wayback,moyen,2025-07-07,wb2025070715
+91aadd1c35614e23,2025-07-07,senat,arrivee,esnouf franck,ESNOUF,Franck,M.,david margueritte,,David MARGUERITTE,,,,,,,,wayback,moyen,2025-07-07,wb2025070715
+7adfdf555c84f453,2025-07-07,senat,depart,estefania hanson penn,PENN-HANSON,Estefania,Mme,annick petrus,,Annick PETRUS,,,,,,,,wayback,moyen,2025-07-07,wb2025070715
+3ea1ffdf9210bac7,2025-07-07,senat,arrivee,faugeras maximilien,FAUGERAS,Maximilien,M.,bruno rojouan,,Bruno ROJOUAN,,,,,,,,wayback,moyen,2025-07-07,wb2025070715
+c98752d85660b313,2025-07-07,senat,depart,feron jules,FERON,Jules,M.,christian klinger,,Christian KLINGER,,,,,,,,wayback,moyen,2025-07-07,wb2025070715
+4e1cfd4e370512fd,2025-07-07,senat,depart,florentin fourny,FOURNY,Florentin,M.,belrhiti catherine,,Catherine BELRHITI,,,,,,,,wayback,moyen,2025-07-07,wb2025070715
+ec3d764dd6b2a291,2025-07-07,senat,depart,gabrielle manon stepniewski,STEPNIEWSKI,Manon-Gabrielle,Mme,evelyne garabedian renaud,,Évelyne RENAUD-GARABEDIAN,,,,,,,,wayback,moyen,2025-07-07,wb2025070715
+3196b5b5062eb6b7,2025-07-07,senat,depart,gingali lisa tonia,GINGALI,Tonia-Lisa,Mme,berthet martine,,Martine BERTHET,,,,,,,,wayback,moyen,2025-07-07,wb2025070715
+c866f246ef66bb50,2025-07-07,senat,depart,giron lilian preault,GIRON-PREAULT,Lilian,Mme,robert sylvie,,Sylvie ROBERT,,,,,,,,wayback,moyen,2025-07-07,wb2025070715
+afa9dfdf2ff636d5,2025-07-07,senat,arrivee,guay maxime,GUAY,Maxime,M.,alexandra borchio fontimp,,Alexandra BORCHIO FONTIMP,,,,,,,,wayback,moyen,2025-07-07,wb2025070715
+12aa7ed36bbf95ef,2025-07-07,senat,depart,halberstadt thomas,HALBERSTADT,Thomas,M.,nadille solanges,,Solanges NADILLE,,,,,,,,wayback,moyen,2025-07-07,wb2025070715
+eab7d27274206daa,2025-07-07,senat,arrivee,harang maillard solal,HARANG-MAILLARD,Solal,M.,bitz olivier,,Olivier BITZ,,,,,,,,wayback,moyen,2025-07-07,wb2025070715
+a798a34af750735d,2025-07-07,senat,depart,isabelle schild,SCHILD,Isabelle,Mme,hingray jean,,Jean HINGRAY,,,,,,,,wayback,moyen,2025-07-07,wb2025070715
+146bbaff7bb9f609,2025-07-07,senat,arrivee,jaegle marie,JAEGLE,Marie,Mme,haye ludovic,,Ludovic HAYE,,,,,,,,wayback,moyen,2025-07-07,wb2025070715
+49d4a2510e0a16d3,2025-07-07,senat,arrivee,jenny willemin,WILLEMIN,Jenny,Mme,hingray jean,,Jean HINGRAY,,,,,,,,wayback,moyen,2025-07-07,wb2025070715
+54738ff80b17d334,2025-07-07,senat,depart,jolly sandrine,JOLLY,Sandrine,Mme,cedric vial,,Cédric VIAL,,,,,,,,wayback,moyen,2025-07-07,wb2025070715
+9670e190c4d9efa9,2025-07-07,senat,arrivee,lagarde marie,LAGARDE,Marie,Mme,darnaud mathieu,,Mathieu DARNAUD,,,,,,,,wayback,moyen,2025-07-07,wb2025070715
+b3b7f71acf31551f,2025-07-07,senat,arrivee,laura roche,ROCHE,Laura,Mme,evelyne garabedian renaud,,Évelyne RENAUD-GARABEDIAN,,,,,,,,wayback,moyen,2025-07-07,wb2025070715
+a7966aecf1364ec1,2025-07-07,senat,depart,loris mazet,MAZET,Loris,M.,canevet michel,,Michel CANÉVET,,,,,,,,wayback,moyen,2025-07-07,wb2025070715
+01ce0a2d4d5d6930,2025-07-07,senat,arrivee,marie meunier,MEUNIER,Marie,Mme,bernard delcros,,Bernard DELCROS,,,,,,,,wayback,moyen,2025-07-07,wb2025070715
+3a3481df1b281b9c,2025-07-07,senat,depart,martin raphael,MARTIN,Raphaël,M.,alexandre ouizille,,Alexandre OUIZILLE,,,,,,,,wayback,moyen,2025-07-07,wb2025070715
+3dfef5abeb2bf7ad,2025-07-07,senat,depart,mouhoub sadia,MOUHOUB,Sadia,Mme,aeschlimann do marie,,Marie-Do AESCHLIMANN,,,,,,,,wayback,moyen,2025-07-07,wb2025070715
+c530a49d5110e020,2025-07-07,senat,arrivee,nino prin,PRIN,Nino,M.,alexandre ouizille,,Alexandre OUIZILLE,,,,,,,,wayback,moyen,2025-07-07,wb2025070715
+40ef8b79242b5f28,2025-07-07,senat,depart,philippe singier,SINGIER,Philippe,M.,grosperrin jacques,,Jacques GROSPERRIN,,,,,,,,wayback,moyen,2025-07-07,wb2025070715
+4459a3dd4461e85c,2025-07-07,senat,depart,rachel recht,RECHT,Rachel,Mme,christine herzog,,Christine HERZOG,,,,,,,,wayback,moyen,2025-07-07,wb2025070715
+6ee8a78ccbcea50c,2025-07-07,senat,arrivee,safaa sari,SARI,Safaa,Mme,rachid temal,,Rachid TEMAL,,,,,,,,wayback,moyen,2025-07-07,wb2025070715
+3727f6114620d7db,2025-07-07,senat,depart,sophie taillard,TAILLARD,Sophie,Mme,eric gold,,Éric GOLD,,,,,,,,wayback,moyen,2025-07-07,wb2025070715
+466ba0e5395e708d,2025-11-28,senat,depart,achin charbonnel laurence,ACHIN-CHARBONNEL,Laurence,Mme,bouchet gilbert,,Gilbert BOUCHET,,,,,,,elu_sortant,wayback,moyen,2025-11-28,wb2025112823
+109d1f36a2f8a207,2025-11-28,senat,arrivee,achour ben bochra,BEN ACHOUR,Bochra,Mme,duranton nicole,,Nicole DURANTON,,,,,,,,wayback,moyen,2025-11-28,wb2025112823
+4be7711b5b9468c9,2025-11-28,senat,depart,adrien madec,MADEC,Adrien,M.,alexandre ouizille,,Alexandre OUIZILLE,,,,,,,,wayback,moyen,2025-11-28,wb2025112823
+409efc260ef8c560,2025-11-28,senat,transfert,ahamada mounayat,AHAMADA,Mounayat,Mme,mohamed soilihi thani,,Thani MOHAMED SOILIHI,,ramia salama,,Salama RAMIA,,,elu_sortant,wayback,moyen,2025-11-28,wb2025112823
+ad355ca610741da0,2025-11-28,senat,arrivee,aho marie,AHO,Marie,Mme,hugues saury,,Hugues SAURY,,,,,,,,wayback,moyen,2025-11-28,wb2025112823
+50517945c6430fbd,2025-11-28,senat,depart,alexandra doussaud,DOUSSAUD,Alexandra,Mme,claude nougein,,Claude NOUGEIN,,,,,,,,wayback,moyen,2025-11-28,wb2025112823
+aaf74af5cb1801c4,2025-11-28,senat,arrivee,alexandra rio,RIO,Alexandra,Mme,havet nadege,,Nadège HAVET,,,,,,,,wayback,moyen,2025-11-28,wb2025112823
+790d1b34f1e25b39,2025-11-28,senat,depart,alexandre dahel ehli,DAHEL,Ehli-Alexandre,M.,jean marie vanlerenberghe,,Jean-Marie VANLERENBERGHE,,,,,,,elu_sortant,wayback,moyen,2025-11-28,wb2025112823
+fa999e2313c82414,2025-11-28,senat,arrivee,alexandre pourquery,POURQUERY,Alexandre,M.,aeschlimann do marie,,Marie-Do AESCHLIMANN,,,,,,,,wayback,moyen,2025-11-28,wb2025112823
+bb4c4462950635fa,2025-11-28,senat,transfert,alexis galinie,GALINIE,Alexis,M.,annick girardin,,Annick GIRARDIN,,jean marc ruel,,Jean-Marc RUEL,,,elu_sortant,wayback,moyen,2025-11-28,wb2025112823
+a5fe1a8044647611,2025-11-28,senat,depart,alexis girszonas saconnet,GIRSZONAS SACONNET,Alexis,M.,brossel colombe,,Colombe BROSSEL,,,,,,,,wayback,moyen,2025-11-28,wb2025112823
+a49789dbe9f76180,2025-11-28,senat,depart,alice de turckheim,de TURCKHEIM,Alice,Mme,andre reichardt,,André REICHARDT,,,,,,,elu_sortant,wayback,moyen,2025-11-28,wb2025112823
+c9346b3911baa119,2025-11-28,senat,arrivee,allairat christelle,ALLAIRAT,Christelle,Mme,berthet martine,,Martine BERTHET,,,,,,,,wayback,moyen,2025-11-28,wb2025112823
+7e681e88717cf818,2025-11-28,senat,depart,ana lou marijon,MARIJON,Lou-Ana,Mme,briante guillemont sophie,,Sophie BRIANTE GUILLEMONT,,,,,,,,wayback,moyen,2025-11-28,wb2025112823
+470fd9e53438987a,2025-11-28,senat,transfert,anna ferron gautie,FERRON GAUTIE,Anna,Mme,delattre nathalie,,Nathalie DELATTRE,,conte jaubert mireille,,Mireille CONTE JAUBERT,,,elu_sortant,wayback,moyen,2025-11-28,wb2025112823
+9998f948d684a32f,2025-11-28,senat,arrivee,anne constans emmanuelle,CONSTANS,Anne-Emmanuelle,Mme,masset michel,,Michel MASSET,,,,,,,,wayback,moyen,2025-11-28,wb2025112823
+f5776b84c8fc296a,2025-11-28,senat,transfert,anne lise pelletier,PELLETIER,Anne-Lise,Mme,matray paulette,,Paulette MATRAY,,durain jerome,,Jérôme DURAIN,,,elu_sortant,wayback,moyen,2025-11-28,wb2025112823
+a28fc6df0c5ba4a7,2025-11-28,senat,depart,anthony jouvenel,JOUVENEL,Anthony,M.,jean marie vanlerenberghe,,Jean-Marie VANLERENBERGHE,,,,,,,elu_sortant,wayback,moyen,2025-11-28,wb2025112823
+487dcf7f556b8964,2025-11-28,senat,arrivee,antoine charaux,CHARAUX,Antoine,M.,jadot yannick,,Yannick JADOT,,,,,,,,wayback,moyen,2025-11-28,wb2025112823
+7e12b1eb4ce19f7c,2025-11-28,senat,depart,aubineau carla,AUBINEAU,Carla,Mme,masset michel,,Michel MASSET,,,,,,,,wayback,moyen,2025-11-28,wb2025112823
+6179329c4e94a986,2025-11-28,senat,arrivee,auguste ott,OTT,Auguste,M.,patricia schillinger,,Patricia SCHILLINGER,,,,,,,,wayback,moyen,2025-11-28,wb2025112823
+4e376da4497592aa,2025-11-28,senat,depart,augustin de meaux,de MEAUX,Augustin,M.,baptiste blanc jean,,Jean-Baptiste BLANC,,,,,,,,wayback,moyen,2025-11-28,wb2025112823
+3fa4fc3de8ddf632,2025-11-28,senat,depart,avril calka,CALKA,Avril,Mme,ghislaine senee,,Ghislaine SENÉE,,,,,,,,wayback,moyen,2025-11-28,wb2025112823
+58f113b001176a9a,2025-11-28,senat,depart,balsamello jessica,BALSAMELLO,Jessica,Mme,antoine jocelyne,,Jocelyne ANTOINE,,,,,,,,wayback,moyen,2025-11-28,wb2025112823
+cca41a5a3ca45f96,2025-11-28,senat,transfert,balthasar christine,BALTHASAR,Christine,Mme,marc sene,,Marc SÉNÉ,,andre reichardt,,André REICHARDT,,,elu_sortant,wayback,moyen,2025-11-28,wb2025112823
+6100ee8ed7e77021,2025-11-28,senat,arrivee,baptiste chalard du,du CHALARD,Baptiste,M.,christine lavarde,,Christine LAVARDE,,,,,,,,wayback,moyen,2025-11-28,wb2025112823
+7b38f8f10c5ae15d,2025-11-28,senat,depart,baptiste henneresse,HENNERESSE,Baptiste,M.,anne catherine loisier,,Anne-Catherine LOISIER,,,,,,,,wayback,moyen,2025-11-28,wb2025112823
+9d3fd38e53a0a3e0,2025-11-28,senat,arrivee,barbe cyriac,BARBE,Cyriac,M.,nadille solanges,,Solanges NADILLE,,,,,,,,wayback,moyen,2025-11-28,wb2025112823
+52e2b6bd4b0cb56e,2025-11-28,senat,depart,barillon brigitte,BARILLON,Brigitte,Mme,de la provote sonia,,Sonia de LA PROVÔTÉ,,,,,,,,wayback,moyen,2025-11-28,wb2025112823
+1ba29d73096a5faf,2025-11-28,senat,arrivee,barron daviet steven,DAVIET-BARRON,Steven,M.,blanc gregory,,Grégory BLANC,,,,,,,,wayback,moyen,2025-11-28,wb2025112823
+b1d5231f550f0a81,2025-11-28,senat,arrivee,bastien soret,SORET,Bastien,M.,georges naturel,,Georges NATUREL,,,,,,,,wayback,moyen,2025-11-28,wb2025112823
+1c37bff0a7bccb33,2025-11-28,senat,arrivee,beatrice faucon,FAUCON,Béatrice,Mme,marie monier pierre,,Marie-Pierre MONIER,,,,,,,,wayback,moyen,2025-11-28,wb2025112823
+3cb58ce3ac5c273e,2025-11-28,senat,arrivee,benoit tom,BENOIT,Tom,M.,clement pernot,,Clément PERNOT,,,,,,,,wayback,moyen,2025-11-28,wb2025112823
+d32ef8cb13bed1ea,2025-11-28,senat,arrivee,bergheaud justine,BERGHEAUD,Justine,Mme,briante guillemont sophie,,Sophie BRIANTE GUILLEMONT,,,,,,,,wayback,moyen,2025-11-28,wb2025112823
+1aeb2ba75a975512,2025-11-28,senat,arrivee,besnier lou,BESNIER,Lou,Mme,jouve mireille,,Mireille JOUVE,,,,,,,,wayback,moyen,2025-11-28,wb2025112823
+c91f96213217a3df,2025-11-28,senat,depart,bihan erwan le,LE BIHAN,Erwan,M.,catherine conconne,,Catherine CONCONNE,,,,,,,,wayback,moyen,2025-11-28,wb2025112823
+e41a04ee45709b45,2025-11-28,senat,arrivee,bihel sarah,BIHEL,Sarah,Mme,anne souyris,,Anne SOUYRIS,,,,,,,,wayback,moyen,2025-11-28,wb2025112823
+925aefceea59095c,2025-11-28,senat,arrivee,blandin theo,BLANDIN,Théo,M.,bessin guerin marie pierre,,Marie-Pierre BESSIN-GUERIN,,,,,,,elu_entrant,wayback,moyen,2025-11-28,wb2025112823
+47c954a3768b37f3,2025-11-28,senat,arrivee,blandine denby wilkes,DENBY WILKES,Blandine,Mme,buffet francois noel,,François-Noël BUFFET,,,,,,,elu_entrant,wayback,moyen,2025-11-28,wb2025112823
+7a0b159394733a3a,2025-11-28,senat,arrivee,bonnot cauvin thomas,BONNOT CAUVIN,Thomas,M.,matray paulette,,Paulette MATRAY,,,,,,,elu_entrant,wayback,moyen,2025-11-28,wb2025112823
+22dbd3bd4399aed7,2025-11-28,senat,transfert,bonvalet sarah younes,BONVALET-YOUNES,Sarah,Mme,akli mellouli,,Akli MELLOULI,,antoinette guhl,,Antoinette GUHL,,,,wayback,moyen,2025-11-28,wb2025112823
+f2d16c5241aac5e3,2025-11-28,senat,arrivee,borel jacques jean,BOREL,Jean-Jacques,M.,buffet francois noel,,François-Noël BUFFET,,,,,,,elu_entrant,wayback,moyen,2025-11-28,wb2025112823
+60a24bd84ff12bd1,2025-11-28,senat,depart,boulogne mylene,BOULOGNE,Mylène,Mme,anne catherine loisier,,Anne-Catherine LOISIER,,,,,,,,wayback,moyen,2025-11-28,wb2025112823
+b358ebe3c213cd33,2025-11-28,senat,depart,bouttet ludovic,BOUTTET,Ludovic,M.,jean pierre rochette,,Pierre-Jean ROCHETTE,,,,,,,,wayback,moyen,2025-11-28,wb2025112823
+91d2346f14d8ce64,2025-11-28,senat,depart,brian itema,ITEMA,Brian,M.,havet nadege,,Nadège HAVET,,,,,,,,wayback,moyen,2025-11-28,wb2025112823
+4090be97c16837ea,2025-11-28,senat,depart,brisson emmanuelle,BRISSON,Emmanuelle,Mme,belrhiti catherine,,Catherine BELRHITI,,,,,,,,wayback,moyen,2025-11-28,wb2025112823
+22b27d53b3bcb0b6,2025-11-28,senat,transfert,buisson du du frederique mesnil,du MESNIL du BUISSON,Frédérique,Mme,favreau gilbert,,Gilbert FAVREAU,,alexandra borchio fontimp,,Alexandra BORCHIO FONTIMP,,,,wayback,moyen,2025-11-28,wb2025112823
+c76b60c62eb4a7f0,2025-11-28,senat,arrivee,cailleteau julien,CAILLETEAU,Julien,M.,chaillou christophe,,Christophe CHAILLOU,,,,,,,,wayback,moyen,2025-11-28,wb2025112823
+a376e3316752757f,2025-11-28,senat,depart,catherine constance,CONSTANCE,Catherine,Mme,paul vidal,,Paul VIDAL,,,,,,,elu_sortant,wayback,moyen,2025-11-28,wb2025112823
+4b8b23a05f157e14,2025-11-28,senat,arrivee,celia muller,MULLER,Célia,Mme,belrhiti catherine,,Catherine BELRHITI,,,,,,,,wayback,moyen,2025-11-28,wb2025112823
+b615ff9e4587187c,2025-11-28,senat,depart,chabanne delphine michel,MICHEL-CHABANNE,Delphine,Mme,jouve mireille,,Mireille JOUVE,,,,,,,,wayback,moyen,2025-11-28,wb2025112823
+7879e3ebe319a6e8,2025-11-28,senat,arrivee,chambolle pierre,CHAMBOLLE,Pierre,M.,louault vincent,,Vincent LOUAULT,,,,,,,,wayback,moyen,2025-11-28,wb2025112823
+95aeaa6e2adef543,2025-11-28,senat,arrivee,chappuy mazenot sophie,MAZENOT CHAPPUY,Sophie,Mme,bacchi jeremy,,Jérémy BACCHI,,,,,,,,wayback,moyen,2025-11-28,wb2025112823
+454704be11c7593e,2025-11-28,senat,arrivee,charly mathey,MATHEY,Charly,M.,marie mouton pierre,,Marie-Pierre MOUTON,,,,,,,elu_entrant,wayback,moyen,2025-11-28,wb2025112823
+8243533d9f43fc6c,2025-11-28,senat,arrivee,chauff de geraldine kerguenec le,LE CHAUFF de KERGUENEC,Géraldine,Mme,cedric perrin,,Cédric PERRIN,,,,,,,,wayback,moyen,2025-11-28,wb2025112823
+f63178762d951ba3,2025-11-28,senat,depart,cheze diane,CHEZE,Diane,Mme,bouchet gilbert,,Gilbert BOUCHET,,,,,,,elu_sortant,wayback,moyen,2025-11-28,wb2025112823
+2f0031a27da5f225,2025-11-28,senat,transfert,christine martinez,MARTINEZ,Christine,Mme,bourguignon brigitte,,Brigitte BOURGUIGNON,,jean marie vanlerenberghe,,Jean-Marie VANLERENBERGHE,,,elu_sortant,wayback,moyen,2025-11-28,wb2025112823
+db9f22578c677595,2025-11-28,senat,depart,christon isabelle,CHRISTON,Isabelle,Mme,nadille solanges,,Solanges NADILLE,,,,,,,,wayback,moyen,2025-11-28,wb2025112823
+db62b6dcdd989c94,2025-11-28,senat,arrivee,clara hascoet,HASCOET,Clara,Mme,alexandra borchio fontimp,,Alexandra BORCHIO FONTIMP,,,,,,,,wayback,moyen,2025-11-28,wb2025112823
+9be3e2da1d1339aa,2025-11-28,senat,arrivee,clement diard julien,CLEMENT-DIARD,Julien,M.,robert sylvie,,Sylvie ROBERT,,,,,,,,wayback,moyen,2025-11-28,wb2025112823
+3e621a38832e1dad,2025-11-28,senat,arrivee,clement mugnier,MUGNIER,Clément,M.,matray paulette,,Paulette MATRAY,,,,,,,elu_entrant,wayback,moyen,2025-11-28,wb2025112823
+a1a8ed43001ce37c,2025-11-28,senat,depart,colisson laurence,COLISSON,Laurence,Mme,amel gacquerre,,Amel GACQUERRE,,,,,,,,wayback,moyen,2025-11-28,wb2025112823
+3a0b8f45992fc561,2025-11-28,senat,depart,d geraud ivry ogier,OGIER D IVRY,Géraud,M.,brigitte hybert,,Brigitte HYBERT,,,,,,,elu_sortant,wayback,moyen,2025-11-28,wb2025112823
+438a69fc0fff8dac,2025-11-28,senat,arrivee,dahel ehli,DAHEL,Ehli,M.,bourguignon brigitte,,Brigitte BOURGUIGNON,,,,,,,elu_entrant,wayback,moyen,2025-11-28,wb2025112823
+387847b2ad5fbd0b,2025-11-28,senat,arrivee,damase massamba therese,DAMASE-MASSAMBA,Thérèse,Mme,chantrel yan,,Yan CHANTREL,,,,,,,,wayback,moyen,2025-11-28,wb2025112823
+46fc17b98240b68a,2025-11-28,senat,transfert,de edouard montgolfier,DE MONTGOLFIER,Edouard,M.,bruno retailleau,,Bruno RETAILLEAU,,brigitte hybert,,Brigitte HYBERT,,,elu_sortant,wayback,moyen,2025-11-28,wb2025112823
+674f9ca683a43b87,2025-11-28,senat,arrivee,debray luisa valeria,DEBRAY,Valéria-Luisa,Mme,grand jean pierre,,Jean-Pierre GRAND,,,,,,,,wayback,moyen,2025-11-28,wb2025112823
+85047c1c1dd34616,2025-11-28,senat,depart,delaitre jade,DELAITRE,Jade,Mme,anne romagny sophie,,Anne-Sophie ROMAGNY,,,,,,,,wayback,moyen,2025-11-28,wb2025112823
+e36d2f77d6ada619,2025-11-28,senat,arrivee,delesse pauline,DELESSE,Pauline,Mme,agnes evren,,Agnès EVREN,,,,,,,,wayback,moyen,2025-11-28,wb2025112823
+fd34f5c055151f67,2025-11-28,senat,arrivee,delot evan,DELOT,Evan,M.,josende lauriane,,Lauriane JOSENDE,,,,,,,,wayback,moyen,2025-11-28,wb2025112823
+45d048d2b91f3c57,2025-11-28,senat,arrivee,dendievel stanislas,DENDIEVEL,Stanislas,M.,audrey linkenheld,,Audrey LINKENHELD,,,,,,,,wayback,moyen,2025-11-28,wb2025112823
+b7a8f4b1a250a22d,2025-11-28,senat,depart,denis doriane,DENIS,Doriane,Mme,blatrix contat florence,,Florence BLATRIX CONTAT,,,,,,,,wayback,moyen,2025-11-28,wb2025112823
+43da0609bd4e01dc,2025-11-28,senat,depart,deschamps gomez simon,GOMEZ DESCHAMPS,Simon,M.,agnes evren,,Agnès EVREN,,,,,,,,wayback,moyen,2025-11-28,wb2025112823
+e148653e8a285160,2025-11-28,senat,depart,ditte vincent,DITTE,Vincent,M.,audrey linkenheld,,Audrey LINKENHELD,,,,,,,,wayback,moyen,2025-11-28,wb2025112823
+e09ea760965d8acd,2025-11-28,senat,arrivee,domenech marceau,DOMENECH,Marceau,M.,brossel colombe,,Colombe BROSSEL,,,,,,,,wayback,moyen,2025-11-28,wb2025112823
+08b59d6eed4ecb3e,2025-11-28,senat,depart,dudragne michael,DUDRAGNE,Michaël,M.,durain jerome,,Jérôme DURAIN,,,,,,,elu_sortant,wayback,moyen,2025-11-28,wb2025112823
+092453c51f9a29ca,2025-11-28,senat,arrivee,dutriaux ludovic,DUTRIAUX,Ludovic,M.,bourguignon brigitte,,Brigitte BOURGUIGNON,,,,,,,elu_entrant,wayback,moyen,2025-11-28,wb2025112823
+93e22d219a91a8de,2025-11-28,senat,depart,ehrhard thomas,EHRHARD,Thomas,M.,anglars claude jean,,Jean-Claude ANGLARS,,,,,,,,wayback,moyen,2025-11-28,wb2025112823
+4612ba73a617ed33,2025-11-28,senat,arrivee,elisabeth petit,PETIT,Elisabeth,Mme,anne catherine loisier,,Anne-Catherine LOISIER,,,,,,,,wayback,moyen,2025-11-28,wb2025112823
+a1ab7b5db39ef78f,2025-11-28,senat,depart,elyssa laurent,LAURENT,Elyssa,Mme,ramia salama,,Salama RAMIA,,,,,,,elu_sortant,wayback,moyen,2025-11-28,wb2025112823
+f4b56cf46808f0cf,2025-11-28,senat,arrivee,emeric francois sadok,FRANCOIS-SADOK,Emeric,M.,henno olivier,,Olivier HENNO,,,,,,,,wayback,moyen,2025-11-28,wb2025112823
+abff2ffd8624eacd,2025-11-28,senat,depart,emile lemmers,LEMMERS,Emile,M.,haye ludovic,,Ludovic HAYE,,,,,,,,wayback,moyen,2025-11-28,wb2025112823
+827416618506110f,2025-11-28,senat,arrivee,erika etienne,ETIENNE,Erika,Mme,bessin guerin marie pierre,,Marie-Pierre BESSIN-GUERIN,,,,,,,elu_entrant,wayback,moyen,2025-11-28,wb2025112823
+ecea73b900e1a915,2025-11-28,senat,arrivee,eudes janine terant,TERANT,Janine Eudes,Mme,nadille solanges,,Solanges NADILLE,,,,,,,,wayback,moyen,2025-11-28,wb2025112823
+5603d6f7a17cd9a1,2025-11-28,senat,depart,farda rachid,RACHID,Farda,Mme,ramia salama,,Salama RAMIA,,,,,,,elu_sortant,wayback,moyen,2025-11-28,wb2025112823
+a05f69782e4fdba8,2025-11-28,senat,arrivee,florence gerbal mieze,GERBAL-MIEZE,Florence,Mme,bessin guerin marie pierre,,Marie-Pierre BESSIN-GUERIN,,,,,,,elu_entrant,wayback,moyen,2025-11-28,wb2025112823
+d8c028fbd9863b3e,2025-11-28,senat,arrivee,foret maxime,FORET,Maxime,M.,dhersin franck,,Franck DHERSIN,,,,,,,,wayback,moyen,2025-11-28,wb2025112823
+0d35b35994afc8f2,2025-11-28,senat,depart,gabin gautereaud,GAUTEREAUD,Gabin,M.,dhersin franck,,Franck DHERSIN,,,,,,,,wayback,moyen,2025-11-28,wb2025112823
+ba33d5bfb9b75bdb,2025-11-28,senat,arrivee,gabriel kauffmann,KAUFFMANN,Gabriel,M.,cidrac de marta,,Marta de CIDRAC,,,,,,,,wayback,moyen,2025-11-28,wb2025112823
+5e800e1eba7359de,2025-11-28,senat,depart,garcia lino refuveille,GARCIA REFUVEILLE,Lino,M.,folliot philippe,,Philippe FOLLIOT,,,,,,,,wayback,moyen,2025-11-28,wb2025112823
+59b6be203221a1b0,2025-11-28,senat,depart,gatt sylvain,GATT,Sylvain,M.,guerriau joel,,Joël GUERRIAU,,,,,,,elu_sortant,wayback,moyen,2025-11-28,wb2025112823
+f273b3f41c7e3b3d,2025-11-28,senat,depart,gaudrier marine,GAUDRIER,Marine,Mme,bouchet gilbert,,Gilbert BOUCHET,,,,,,,elu_sortant,wayback,moyen,2025-11-28,wb2025112823
+2202258eca26cb57,2025-11-28,senat,depart,gayrard theophile,GAYRARD,Théophile,M.,hugues saury,,Hugues SAURY,,,,,,,,wayback,moyen,2025-11-28,wb2025112823
+547777d7cf4bb8a4,2025-11-28,senat,arrivee,girard sarah,GIRARD,Sarah,Mme,duranton nicole,,Nicole DURANTON,,,,,,,,wayback,moyen,2025-11-28,wb2025112823
+c3470fd8bc8dccb3,2025-11-28,senat,depart,godon louis,GODON,Louis,M.,olivier paccaud,,Olivier PACCAUD,,,,,,,,wayback,moyen,2025-11-28,wb2025112823
+6a2a744e5e486363,2025-11-28,senat,arrivee,gomeri rania,GOMERI,Rania,Mme,olivier rietmann,,Olivier RIETMANN,,,,,,,,wayback,moyen,2025-11-28,wb2025112823
+e420c21eecfbcdde,2025-11-28,senat,depart,goudaliez nathan,GOUDALIEZ,Nathan,M.,aeschlimann do marie,,Marie-Do AESCHLIMANN,,,,,,,,wayback,moyen,2025-11-28,wb2025112823
+9340f1b0bade8aaa,2025-11-28,senat,depart,gregoire hadamar,HADAMAR,Grégoire,M.,chaillou christophe,,Christophe CHAILLOU,,,,,,,,wayback,moyen,2025-11-28,wb2025112823
+f02bfd1145aa0c4d,2025-11-28,senat,arrivee,guerin james,GUERIN,James,M.,marie mouton pierre,,Marie-Pierre MOUTON,,,,,,,elu_entrant,wayback,moyen,2025-11-28,wb2025112823
+46489995d090d834,2025-11-28,senat,arrivee,guiraudou hugo,GUIRAUDOU,Hugo,M.,alexandre ouizille,,Alexandre OUIZILLE,,,,,,,,wayback,moyen,2025-11-28,wb2025112823
+a8a775617df7a3dd,2025-11-28,senat,depart,hadrien therasse,THERASSE,Hadrien,M.,simon uzenat,,Simon UZENAT,,,,,,,,wayback,moyen,2025-11-28,wb2025112823
+2a21e0d36fd94143,2025-11-28,senat,depart,harang maillard solal,HARANG-MAILLARD,Solal,M.,bitz olivier,,Olivier BITZ,,,,,,,,wayback,moyen,2025-11-28,wb2025112823
+65ca65163024c472,2025-11-28,senat,arrivee,henri poinsot,POINSOT,Henri,M.,aeschlimann do marie,,Marie-Do AESCHLIMANN,,,,,,,,wayback,moyen,2025-11-28,wb2025112823
+ce452f2d3a0ff8c1,2025-11-28,senat,arrivee,heumel josephine,HEUMEL,Joséphine,Mme,michel savin,,Michel SAVIN,,,,,,,,wayback,moyen,2025-11-28,wb2025112823
+586c488531f10892,2025-11-28,senat,arrivee,hippolythe mispelaere,MISPELAERE,Hippolythe,M.,jacquin olivier,,Olivier JACQUIN,,,,,,,,wayback,moyen,2025-11-28,wb2025112823
+49649f33f3520a72,2025-11-28,senat,depart,houssaye sophie,HOUSSAYE,Sophie,Mme,catherine desailly morin,,Catherine MORIN-DESAILLY,,,,,,,,wayback,moyen,2025-11-28,wb2025112823
+60df7bc1f60ac365,2025-11-28,senat,depart,hurter therese,HURTER,Thérèse,Mme,daniel gremillet,,Daniel GREMILLET,,,,,,,,wayback,moyen,2025-11-28,wb2025112823
+c8f180f55ebe4cec,2025-11-28,senat,arrivee,ivan noetinger,NOETINGER,Ivan,M.,hingray jean,,Jean HINGRAY,,,,,,,,wayback,moyen,2025-11-28,wb2025112823
+f212cd1b6d7d3ac8,2025-11-28,senat,depart,joffre marie souleau,SOULEAU-JOFFRE,Marie,Mme,paul vidal,,Paul VIDAL,,,,,,,elu_sortant,wayback,moyen,2025-11-28,wb2025112823
+f1d72a1856cf854c,2025-11-28,senat,depart,jubault sara,JUBAULT,Sara,Mme,laurence rossignol,,Laurence ROSSIGNOL,,,,,,,,wayback,moyen,2025-11-28,wb2025112823
+175f72a573065cf9,2025-11-28,senat,depart,jules robin,ROBIN,Jules,M.,favreau gilbert,,Gilbert FAVREAU,,,,,,,,wayback,moyen,2025-11-28,wb2025112823
+cbf4da7ba5f0ba90,2025-11-28,senat,arrivee,julie landreau,LANDREAU,Julie,Mme,catherine conconne,,Catherine CONCONNE,,,,,,,,wayback,moyen,2025-11-28,wb2025112823
+3c1e8b75db75fb42,2025-11-28,senat,arrivee,keramprant thomas,KERAMPRANT,Thomas,M.,anne romagny sophie,,Anne-Sophie ROMAGNY,,,,,,,,wayback,moyen,2025-11-28,wb2025112823
+06af9fc4cdf88a6e,2025-11-28,senat,arrivee,kerdiles lola,KERDILES,Lola,Mme,agnes evren,,Agnès EVREN,,,,,,,,wayback,moyen,2025-11-28,wb2025112823
+0b42c8f58c5d021e,2025-11-28,senat,arrivee,lea martinovic,MARTINOVIC,Léa,Mme,arlette carlotti marie,,Marie-Arlette CARLOTTI,,,,,,,,wayback,moyen,2025-11-28,wb2025112823
+622bc1852839f6f5,2025-11-28,senat,depart,ledieu patrick,LEDIEU,Patrick,M.,jean pierre rochette,,Pierre-Jean ROCHETTE,,,,,,,,wayback,moyen,2025-11-28,wb2025112823
+35d0077ce74e0d4d,2025-11-28,senat,transfert,lefeuvre nathalie,LEFEUVRE,Nathalie,Mme,bruno retailleau,,Bruno RETAILLEAU,,brigitte hybert,,Brigitte HYBERT,,,elu_sortant,wayback,moyen,2025-11-28,wb2025112823
+284874ef6b7685da,2025-11-28,senat,arrivee,leger lena raud,RAUD--LEGER,Léna,Mme,ouzoulias pierre,,Pierre OUZOULIAS,,,,,,,,wayback,moyen,2025-11-28,wb2025112823
+664a2b6f538afe6a,2025-11-28,senat,arrivee,lhermitte thomas,LHERMITTE,Thomas,M.,demilly stephane,,Stéphane DEMILLY,,,,,,,,wayback,moyen,2025-11-28,wb2025112823
+2ad1d9be06a298e5,2025-11-28,senat,depart,lia taghianosyan,TAGHIANOSYAN,Lia,Mme,jacquin olivier,,Olivier JACQUIN,,,,,,,,wayback,moyen,2025-11-28,wb2025112823
+faaa6c74b7742cb7,2025-11-28,senat,depart,louis mouchotte,MOUCHOTTE,Louis,M.,carrere claire gee marie,,Marie-Claire CARRÈRE-GÉE,,,,,,,,wayback,moyen,2025-11-28,wb2025112823
+17ab502bc32cea3a,2025-11-28,senat,arrivee,louis pemot,PEMOT,Louis,M.,ahmed laouedj,,Ahmed LAOUEDJ,,,,,,,,wayback,moyen,2025-11-28,wb2025112823
+79c40dc19a2a1cc3,2025-11-28,senat,arrivee,louise rogues,ROGUES,Louise,Mme,de la provote sonia,,Sonia de LA PROVÔTÉ,,,,,,,,wayback,moyen,2025-11-28,wb2025112823
+bd22d625946c7750,2025-11-28,senat,arrivee,lucas noel,NOEL,Lucas,M.,belrhiti catherine,,Catherine BELRHITI,,,,,,,,wayback,moyen,2025-11-28,wb2025112823
+08497474ea278925,2025-11-28,senat,depart,lucine sarkissian,SARKISSIAN,Lucine,Mme,anne souyris,,Anne SOUYRIS,,,,,,,,wayback,moyen,2025-11-28,wb2025112823
+1c01254aaf55ad43,2025-11-28,senat,transfert,manon sigalas,SIGALAS,Manon,Mme,delattre nathalie,,Nathalie DELATTRE,,conte jaubert mireille,,Mireille CONTE JAUBERT,,,elu_sortant,wayback,moyen,2025-11-28,wb2025112823
+c68aebbb375a5cb6,2025-11-28,senat,transfert,mathieu ponsoda,PONSODA,Mathieu,M.,anglars claude jean,,Jean-Claude ANGLARS,,josende lauriane,,Lauriane JOSENDE,,,,wayback,moyen,2025-11-28,wb2025112823
+b0face0222fe6d08,2025-11-28,senat,transfert,matthew reardon,REARDON,Matthew,M.,annick girardin,,Annick GIRARDIN,,jean marc ruel,,Jean-Marc RUEL,,,elu_sortant,wayback,moyen,2025-11-28,wb2025112823
+5f8c17f4dc05a21c,2025-11-28,senat,arrivee,mehdi seghaier,SEGHAIER,Mehdi,M.,annick girardin,,Annick GIRARDIN,,,,,,,elu_entrant,wayback,moyen,2025-11-28,wb2025112823
+571e39c3a81cf996,2025-11-28,senat,arrivee,mevel raphael,MEVEL,Raphaël,M.,blanc gregory,,Grégory BLANC,,,,,,,,wayback,moyen,2025-11-28,wb2025112823
+ed5009060c47d55e,2025-11-28,senat,depart,michel raphael,MICHEL,Raphaël,M.,bacchi jeremy,,Jérémy BACCHI,,,,,,,,wayback,moyen,2025-11-28,wb2025112823
+457f365f9dc5b876,2025-11-28,senat,arrivee,millory morgane,MILLORY,Morgane,Mme,goulet nathalie,,Nathalie GOULET,,,,,,,,wayback,moyen,2025-11-28,wb2025112823
+0ca4086d997d712a,2025-11-28,senat,depart,miri sami,MIRI,Sami,M.,adel ziane,,Adel ZIANE,,,,,,,,wayback,moyen,2025-11-28,wb2025112823
+74fa3cd77ccd0e02,2025-11-28,senat,arrivee,nathalie trousseville,TROUSSEVILLE,Nathalie,Mme,mohamed soilihi thani,,Thani MOHAMED SOILIHI,,,,,,,elu_entrant,wayback,moyen,2025-11-28,wb2025112823
+c5216e1bcb4edfcd,2025-11-28,senat,depart,nicolas pierrel,PIERREL,Nicolas,M.,goulet nathalie,,Nathalie GOULET,,,,,,,,wayback,moyen,2025-11-28,wb2025112823
+caadf39e6faeea1e,2025-11-28,senat,depart,nino prin,PRIN,Nino,M.,alexandre ouizille,,Alexandre OUIZILLE,,,,,,,,wayback,moyen,2025-11-28,wb2025112823
+4a151f9741b41e49,2025-11-28,senat,depart,noemie pribetich,PRIBETICH,Noémie,Mme,arlette carlotti marie,,Marie-Arlette CARLOTTI,,,,,,,,wayback,moyen,2025-11-28,wb2025112823
+c14edb1da8702123,2025-11-28,senat,transfert,olariu thea,OLARIU,Théa,Mme,sylvie vermeillet,,Sylvie VERMEILLET,,hingray jean,,Jean HINGRAY,,,,wayback,moyen,2025-11-28,wb2025112823
+e01d9cf59408f75b,2025-11-28,senat,arrivee,poiret vincent,POIRET,Vincent,M.,primas sophie,,Sophie PRIMAS,,,,,,,elu_entrant,wayback,moyen,2025-11-28,wb2025112823
+37b6a0fba975a4e6,2025-11-28,senat,transfert,rayane zribi,ZRIBI,Rayane,M.,primas sophie,,Sophie PRIMAS,,dumoulin eric,,Éric DUMOULIN,,,elu_sortant,wayback,moyen,2025-11-28,wb2025112823
+11cefde54566e23f,2025-11-28,senat,depart,robin touzanne,TOUZANNE,Robin,M.,blanc gregory,,Grégory BLANC,,,,,,,,wayback,moyen,2025-11-28,wb2025112823
+0db1886134f53c0b,2025-11-28,senat,depart,samuel seu,SEU,Samuel,M.,andre reichardt,,André REICHARDT,,,,,,,elu_sortant,wayback,moyen,2025-11-28,wb2025112823
+dc359b75b88ff566,2025-11-28,senat,depart,sarah zekri,ZEKRI,Sarah,Mme,duranton nicole,,Nicole DURANTON,,,,,,,,wayback,moyen,2025-11-28,wb2025112823
+b79d0594f30c82bf,2025-11-28,senat,arrivee,saulnier vincent,SAULNIER,Vincent,M.,bessin guerin marie pierre,,Marie-Pierre BESSIN-GUERIN,,,,,,,elu_entrant,wayback,moyen,2025-11-28,wb2025112823
+6f1d744f407f41f0,2025-11-28,senat,depart,soriano victoria,SORIANO,Victoria,Mme,dossus thomas,,Thomas DOSSUS,,,,,,,,wayback,moyen,2025-11-28,wb2025112823
+b5e920db08b797fa,2025-11-28,senat,depart,tavernier theodore,TAVERNIER,Théodore,M.,georges naturel,,Georges NATUREL,,,,,,,,wayback,moyen,2025-11-28,wb2025112823
+03062bc5100fcd63,2026-01-31,senat,arrivee,agathe lanoe,LANOE,Agathe,Mme,annie houerou le,,Annie LE HOUEROU,,,,,,,,wayback,moyen,2026-01-31,wb2026013107
+34880392d0cfda36,2026-01-31,senat,arrivee,amelie marie sueur,SUEUR,Marie-Amélie,Mme,daubet raphael,,Raphaël DAUBET,,,,,,,,wayback,moyen,2026-01-31,wb2026013107
+5d3dee154c2cd535,2026-01-31,senat,arrivee,anais anouilh,ANOUILH,Anaïs,Mme,chantrel yan,,Yan CHANTREL,,,,,,,,wayback,moyen,2026-01-31,wb2026013107
+8ee65573341dd2a2,2026-01-31,senat,depart,angelique pawlak,PAWLAK,Angélique,Mme,alain cadec,,Alain CADEC,,,,,,,,wayback,moyen,2026-01-31,wb2026013107
+3300a166acf9c6be,2026-01-31,senat,arrivee,antoine schahl,SCHAHL,Antoine,M.,marc sene,,Marc SÉNÉ,,,,,,,,wayback,moyen,2026-01-31,wb2026013107
+f8ea4b5fd7f84626,2026-01-31,senat,arrivee,aude galpin,GALPIN,Aude,Mme,david margueritte,,David MARGUERITTE,,,,,,,,wayback,moyen,2026-01-31,wb2026013107
+93d30a3a09c8b6aa,2026-01-31,senat,arrivee,ayyoub benyahia,BENYAHIA,Ayyoub,M.,adel ziane,,Adel ZIANE,,,,,,,,wayback,moyen,2026-01-31,wb2026013107
+276cd5631ca95b8c,2026-01-31,senat,depart,barbe cyriac,BARBE,Cyriac,M.,nadille solanges,,Solanges NADILLE,,,,,,,,wayback,moyen,2026-01-31,wb2026013107
+ac1091f5a23571bf,2026-01-31,senat,arrivee,boglarka petras,PETRAS,Boglárka,Mme,laurence rossignol,,Laurence ROSSIGNOL,,,,,,,,wayback,moyen,2026-01-31,wb2026013107
+4f74107c5c34af33,2026-01-31,senat,depart,caroline racine,RACINE,Caroline,Mme,michael weber,,Michaël WEBER,,,,,,,,wayback,moyen,2026-01-31,wb2026013107
+eccaabb2efaf4328,2026-01-31,senat,depart,chryst passard,PASSARD,Chryst,M.,horth laure marie phinera,,Marie-Laure PHINERA-HORTH,,,,,,,,wayback,moyen,2026-01-31,wb2026013107
+ff39653e958d127f,2026-01-31,senat,depart,clotilde marie mathilde,CLOTILDE,Marie Mathilde,Mme,dominique theophile,,Dominique THÉOPHILE,,,,,,,,wayback,moyen,2026-01-31,wb2026013107
+cc158bc34516cd34,2026-01-31,senat,depart,corinne ibarra,IBARRA,Corinne,Mme,bernard delcros,,Bernard DELCROS,,,,,,,,wayback,moyen,2026-01-31,wb2026013107
+9ec4d01b70070478,2026-01-31,senat,depart,coue emilie,COUE,Emilie,Mme,bleunven yves,,Yves BLEUNVEN,,,,,,,,wayback,moyen,2026-01-31,wb2026013107
+2c2a7fb7d4e9c7ee,2026-01-31,senat,depart,diez gutierrez matys y,GUTIERREZ Y DIEZ,Matys,M.,iacovelli xavier,,Xavier IACOVELLI,,,,,,,,wayback,moyen,2026-01-31,wb2026013107
+79b12778cc23442d,2026-01-31,senat,depart,dijoux gabriel,DIJOUX,Gabriel,M.,corbiere evelyne naminzo,,Evelyne CORBIERE NAMINZO,,,,,,,,wayback,moyen,2026-01-31,wb2026013107
+8d26848b55d6e8eb,2026-01-31,senat,depart,donay raphael,DONAY,Raphaël,M.,chantrel yan,,Yan CHANTREL,,,,,,,,wayback,moyen,2026-01-31,wb2026013107
+450acb7cfd5c1223,2026-01-31,senat,arrivee,elio lann le muniz,MUNIZ LE LANN,Elio,M.,dantec ronan,,Ronan DANTEC,,,,,,,,wayback,moyen,2026-01-31,wb2026013107
+bef653bb6a1c1007,2026-01-31,senat,depart,flouriot romane,FLOURIOT,Romane,Mme,annie houerou le,,Annie LE HOUEROU,,,,,,,,wayback,moyen,2026-01-31,wb2026013107
+cadfec9536262137,2026-01-31,senat,depart,girard sarah,GIRARD,Sarah,Mme,duranton nicole,,Nicole DURANTON,,,,,,,,wayback,moyen,2026-01-31,wb2026013107
+ff0f85651856c51b,2026-01-31,senat,arrivee,groell storck zenodore,STORCK-GROELL,Zénodore,M.,patricia schillinger,,Patricia SCHILLINGER,,,,,,,,wayback,moyen,2026-01-31,wb2026013107
+d7a30410cdefbe3b,2026-01-31,senat,arrivee,guillaume ludovic,GUILLAUME,Ludovic,M.,cambon christian,,Christian CAMBON,,,,,,,,wayback,moyen,2026-01-31,wb2026013107
+631cb7b4ea4d60d8,2026-01-31,senat,depart,henri poinsot,POINSOT,Henri,M.,aeschlimann do marie,,Marie-Do AESCHLIMANN,,,,,,,,wayback,moyen,2026-01-31,wb2026013107
+6aa90f9a9f91d151,2026-01-31,senat,depart,heumel josephine,HEUMEL,Joséphine,Mme,michel savin,,Michel SAVIN,,,,,,,,wayback,moyen,2026-01-31,wb2026013107
+32a7a392c93eddb2,2026-01-31,senat,arrivee,hnaia maria,HNAIA,Maria,Mme,robert wienie xowie,,Robert Wienie XOWIE,,,,,,,,wayback,moyen,2026-01-31,wb2026013107
+32ded595c8ec4b61,2026-01-31,senat,depart,jacquelin pineau,PINEAU,Jacquelin,M.,cambon christian,,Christian CAMBON,,,,,,,,wayback,moyen,2026-01-31,wb2026013107
+53dc25c7ef6d9488,2026-01-31,senat,arrivee,jean luc vienne,VIENNE,Jean-Luc,M.,cecile cukierman,,Cécile CUKIERMAN,,,,,,,,wayback,moyen,2026-01-31,wb2026013107
+424bfabecc8dc441,2026-01-31,senat,arrivee,joris logologofolau,LOGOLOGOFOLAU,Joris,M.,robert wienie xowie,,Robert Wienie XOWIE,,,,,,,,wayback,moyen,2026-01-31,wb2026013107
+188f27a9e37495f5,2026-01-31,senat,arrivee,julie landreau,LANDREAU,Julie,Mme,simon uzenat,,Simon UZENAT,,,,,,,,wayback,moyen,2026-01-31,wb2026013107
+e1b2d2b6f4f6c233,2026-01-31,senat,arrivee,louis mary,MARY,Louis,M.,grosperrin jacques,,Jacques GROSPERRIN,,,,,,,,wayback,moyen,2026-01-31,wb2026013107
+c73edff3bcf870b0,2026-01-31,senat,arrivee,manzana vallee,VALLEE,Manzana,Mme,nadille solanges,,Solanges NADILLE,,,,,,,,wayback,moyen,2026-01-31,wb2026013107
+0c399cbcfea03c13,2026-01-31,senat,depart,murielle roux,ROUX,Murielle,Mme,claude nougein,,Claude NOUGEIN,,,,,,,,wayback,moyen,2026-01-31,wb2026013107
+fd3bcb07b9002c9f,2026-01-31,senat,depart,pascal priouret,PRIOURET,Pascal,M.,le rudulier stephane,,Stéphane LE RUDULIER,,,,,,,,wayback,moyen,2026-01-31,wb2026013107
+4b5f9634a776949f,2026-01-31,senat,arrivee,pernet remi,PERNET,Rémi,M.,daniel gremillet,,Daniel GREMILLET,,,,,,,,wayback,moyen,2026-01-31,wb2026013107
+32b5cd93b39d4cc5,2026-01-31,senat,arrivee,pierre vitali,VITALI,Pierre,M.,bruno retailleau,,Bruno RETAILLEAU,,,,,,,,wayback,moyen,2026-01-31,wb2026013107
+da9f068396a2c3c7,2026-02-02,senat,depart,andre rochinha,ROCHINHA,André,M.,monge poncet raymonde,,Raymonde PONCET MONGE,,,,,,,,wayback,moyen,2026-02-02,wb2026020203
+88611088645991cc,2026-02-02,senat,depart,baptiste normand,NORMAND,Baptiste,M.,aeschlimann do marie,,Marie-Do AESCHLIMANN,,,,,,,,wayback,moyen,2026-02-02,wb2026020203
+96802c6d45cd4baa,2026-02-02,senat,depart,barron daviet steven,DAVIET-BARRON,Steven,M.,blanc gregory,,Grégory BLANC,,,,,,,,wayback,moyen,2026-02-02,wb2026020203
+29884d468e5de3b3,2026-02-02,senat,depart,faugeras maximilien,FAUGERAS,Maximilien,M.,bruno rojouan,,Bruno ROJOUAN,,,,,,,,wayback,moyen,2026-02-02,wb2026020203
+453fb50dcecd742b,2026-02-02,senat,depart,mario moreau,MOREAU,Mario,M.,fouassin stephane,,Stéphane FOUASSIN,,,,,,,,wayback,moyen,2026-02-02,wb2026020203
+00cc3e788bd0d323,2026-02-04,senat,depart,manon sigalas,SIGALAS,Manon,Mme,delattre nathalie,,Nathalie DELATTRE,,,,,,,,wayback,moyen,2026-02-04,wb2026020400
+f8b730009c244859,2026-02-04,senat,arrivee,maxime paixao,PAIXAO,Maxime,M.,iacovelli xavier,,Xavier IACOVELLI,,,,,,,,wayback,moyen,2026-02-04,wb2026020400
+257d60c464dbf4b7,2026-02-07,senat,arrivee,chloe lagrange,LAGRANGE,Chloé,Mme,aeschlimann do marie,,Marie-Do AESCHLIMANN,,,,,,,,wayback,moyen,2026-02-07,wb2026020700
+ac3467a64c0a2da7,2026-02-11,senat,arrivee,aho marie,AHO,Marie,Mme,delattre nathalie,,Nathalie DELATTRE,,,,,,,,wayback,moyen,2026-02-11,wb2026021111
+fc187513e73a68d1,2026-02-11,senat,arrivee,justin khouni,KHOUNI,Justin,M.,karoutchi roger,,Roger KAROUTCHI,,,,,,,,wayback,moyen,2026-02-11,wb2026021111
+f32da039cb3045a3,2026-02-11,senat,arrivee,sidoli yoann,SIDOLI,Yoann,M.,housseau lise marie,,Marie-Lise HOUSSEAU,,,,,,,,wayback,moyen,2026-02-11,wb2026021111
+901f248d53eee5ed,2026-02-17,senat,arrivee,anissa mokdad,MOKDAD,Anissa,Mme,rohfritsch teva,,Teva ROHFRITSCH,,,,,,,,wayback,moyen,2026-02-17,wb2026021719
+ece783dbdeee4ef8,2026-02-17,senat,depart,anna mary reiatua,REIATUA,Mary-Anna,Mme,rohfritsch teva,,Teva ROHFRITSCH,,,,,,,,wayback,moyen,2026-02-17,wb2026021719
+4f357871c5c43024,2026-02-17,senat,arrivee,belair mathius,BELAIR,Mathius,M.,nadille solanges,,Solanges NADILLE,,,,,,,,wayback,moyen,2026-02-17,wb2026021719
+fd331afb0bb2bb7a,2026-02-17,senat,arrivee,charbonneau lea,CHARBONNEAU,Léa,Mme,blanc gregory,,Grégory BLANC,,,,,,,,wayback,moyen,2026-02-17,wb2026021719
+546547b96e7274cf,2026-02-17,senat,depart,emma hugues,HUGUES,Emma,Mme,daubet raphael,,Raphaël DAUBET,,,,,,,,wayback,moyen,2026-02-17,wb2026021719
+85dc254c01b3c6ae,2026-02-17,senat,depart,gilles verron,VERRON,Gilles,M.,bernard jomier,,Bernard JOMIER,,,,,,,,wayback,moyen,2026-02-17,wb2026021719
+0c7f8ec4dacae01c,2026-02-17,senat,depart,kerdiles lola,KERDILES,Lola,Mme,agnes evren,,Agnès EVREN,,,,,,,,wayback,moyen,2026-02-17,wb2026021719
+32814ec0fd6eacb5,2026-02-19,senat,arrivee,sibert tristan,SIBERT,Tristan,M.,bruno rojouan,,Bruno ROJOUAN,,,,,,,,wayback,moyen,2026-02-19,wb2026021912
+321673d533eca312,2026-02-27,senat,depart,amelie marie sueur,SUEUR,Marie-Amélie,Mme,daubet raphael,,Raphaël DAUBET,,,,,,,,wayback,moyen,2026-02-27,wb2026022707
+45765fae8b97f297,2026-02-28,senat,depart,jenny willemin,WILLEMIN,Jenny,Mme,hingray jean,,Jean HINGRAY,,,,,,,,wayback,moyen,2026-02-28,wb2026022807
+b4ad9326a2819efa,2026-03-01,senat,depart,alexandre tange,TANGE,Alexandre,M.,barros pierre,,Pierre BARROS,,,,,,,,wayback,moyen,2026-03-01,wb2026030103
+1a459cc7c9aa2046,2026-03-01,senat,depart,brochand nathalie,BROCHAND,Nathalie,Mme,chavent goy sylvie,,Sylvie GOY-CHAVENT,,,,,,,,wayback,moyen,2026-03-01,wb2026030103
+d92e8ebe6c5da7c5,2026-03-01,senat,depart,de graziella villepin,DE VILLEPIN,Graziella,Mme,francis szpiner,,Francis SZPINER,,,,,,,,wayback,moyen,2026-03-01,wb2026030103
+86864d3cec63d2f6,2026-03-02,senat,arrivee,ayme beatrice monnet,AYME-MONNET,Béatrice,Mme,chavent goy sylvie,,Sylvie GOY-CHAVENT,,,,,,,,wayback,moyen,2026-03-02,wb2026030202
+417510278dc882da,2026-03-02,senat,arrivee,bouyssou gloria,BOUYSSOU,Gloria,Mme,claude nougein,,Claude NOUGEIN,,,,,,,,wayback,moyen,2026-03-02,wb2026030202
+8589a880dbfa3ad3,2026-03-02,senat,arrivee,chloe harlay,HARLAY,Chloé,Mme,michael weber,,Michaël WEBER,,,,,,,,wayback,moyen,2026-03-02,wb2026030202
+fecf3d5302f2a336,2026-03-13,senat,depart,beulne severine,BEULNE,Séverine,Mme,hingray jean,,Jean HINGRAY,,,,,,,,wayback,moyen,2026-03-13,wb2026031302
+5dc1c9edc1d4e648,2026-03-14,senat,depart,groell storck zenodore,STORCK-GROELL,Zénodore,M.,patricia schillinger,,Patricia SCHILLINGER,,,,,,,,wayback,moyen,2026-03-14,wb2026031405
+439065892ae5edef,2026-03-17,senat,depart,laure martin,MARTIN,Laure,Mme,pointereau remy,,Rémy POINTEREAU,,,,,,,,wayback,moyen,2026-03-17,wb2026031721
+1437c21e152ac35b,2026-03-18,senat,depart,chloe lagrange,LAGRANGE,Chloé,Mme,aeschlimann do marie,,Marie-Do AESCHLIMANN,,,,,,,,wayback,moyen,2026-03-18,wb2026031814
+2e7e56dcca63dd6d,2026-03-18,senat,depart,debray luisa valeria,DEBRAY,Valéria-Luisa,Mme,grand jean pierre,,Jean-Pierre GRAND,,,,,,,,wayback,moyen,2026-03-18,wb2026031814
+2bea6da72ffe05cc,2026-03-20,senat,arrivee,amelie marie sueur,SUEUR,Marie-Amélie,Mme,daubet raphael,,Raphaël DAUBET,,,,,,,,wayback,moyen,2026-03-20,wb2026032023
+622aab13be901b8c,2026-03-20,senat,depart,stephanie toussaint,TOUSSAINT,Stéphanie,Mme,corbiere evelyne naminzo,,Evelyne CORBIERE NAMINZO,,,,,,,,wayback,moyen,2026-03-20,wb2026032023
+a1a9ef832e443c6d,2026-03-26,senat,depart,benzakine nina,BENZAKINE,Nina,Mme,berthet martine,,Martine BERTHET,,,,,,,,wayback,moyen,2026-03-26,wb2026032614
+c1aa69ec330b1697,2026-03-27,senat,depart,maxime paixao,PAIXAO,Maxime,M.,iacovelli xavier,,Xavier IACOVELLI,,,,,,,,wayback,moyen,2026-03-27,wb2026032715
+3d258390a67c3991,2026-03-30,senat,depart,hugo poupard,POUPARD,Hugo,M.,fabien gay,,Fabien GAY,,,,,,,,wayback,moyen,2026-03-30,wb2026033008
+6e7d8dbe29053d20,2026-04-04,senat,depart,alicot karine,ALICOT,Karine,Mme,faure jean marc vayssouze,,Jean-Marc VAYSSOUZE-FAURE,,,,,,,,wayback,moyen,2026-04-04,wb2026040418
+15de7eca375b51e5,2026-04-04,senat,depart,benjamin derothe,DEROTHE,Benjamin,M.,corinne narassiguin,,Corinne NARASSIGUIN,,,,,,,,wayback,moyen,2026-04-04,wb2026040418
+26912e0cb7da3130,2026-04-04,senat,depart,bonnot cauvin thomas,BONNOT CAUVIN,Thomas,M.,matray paulette,,Paulette MATRAY,,,,,,,,wayback,moyen,2026-04-04,wb2026040418
+bddbedf376edae83,2026-04-04,senat,depart,lericq pascal sophie,PASCAL-LERICQ,Sophie,Mme,antoinette guhl,,Antoinette GUHL,,,,,,,,wayback,moyen,2026-04-04,wb2026040418
+430ca41468d6d204,2026-04-04,senat,arrivee,romane teyssier,TEYSSIER,Romane,Mme,jean pierre rochette,,Pierre-Jean ROCHETTE,,,,,,,,wayback,moyen,2026-04-04,wb2026040418
+9ed1899533d1b0b4,2026-04-04,senat,arrivee,taieb yoann,TAIEB,Yoann,M.,aeschlimann do marie,,Marie-Do AESCHLIMANN,,,,,,,,wayback,moyen,2026-04-04,wb2026040418
+9f463a605482dba0,2026-04-08,senat,arrivee,anne zeller,ZELLER,Anne,Mme,pointereau remy,,Rémy POINTEREAU,,,,,,,,wayback,moyen,2026-04-08,wb2026040800
+eb57d14db206fda8,2026-04-08,senat,depart,aurianne fleret,FLERET,Aurianne,Mme,canevet michel,,Michel CANÉVET,,,,,,,,wayback,moyen,2026-04-08,wb2026040800
+a492e68b98e537da,2026-04-09,senat,arrivee,dalsbaek nathanael,DALSBAEK,Nathanaël,M.,canevet michel,,Michel CANÉVET,,,,,,,,wayback,moyen,2026-04-09,wb2026040903
+f1fd69022e8a1324,2026-04-09,senat,arrivee,gaillard mathilde,GAILLARD,Mathilde,Mme,antoinette guhl,,Antoinette GUHL,,,,,,,,wayback,moyen,2026-04-09,wb2026040903
+e65b6e445cb89f66,2026-04-11,senat,depart,millory morgane,MILLORY,Morgane,Mme,goulet nathalie,,Nathalie GOULET,,,,,,,,wayback,moyen,2026-04-11,wb2026041116
+00bed865e4ed2241,2026-04-14,senat,depart,emmeline tanguy,TANGUY,Emmeline,Mme,guillotin veronique,,Véronique GUILLOTIN,,,,,,,elu_sortant,wayback,moyen,2026-04-14,wb2026041413
+57345529e0bee978,2026-04-14,senat,depart,hechler ruben,HECHLER,Ruben,M.,guillotin veronique,,Véronique GUILLOTIN,,,,,,,elu_sortant,wayback,moyen,2026-04-14,wb2026041413
+568023e7f80e0a42,2026-04-14,senat,depart,kevin veronese,VERONESE,Kévin,M.,guillotin veronique,,Véronique GUILLOTIN,,,,,,,elu_sortant,wayback,moyen,2026-04-14,wb2026041413
+fe2d7576a254f24b,2026-04-17,senat,arrivee,arthur daldin,DALDIN,Arthur,M.,boyer jean marc,,Jean-Marc BOYER,,,,,,,,wayback,moyen,2026-04-17,wb2026041709
+cc28f3051ae9fad7,2026-04-17,senat,depart,charbonneau lea,CHARBONNEAU,Léa,Mme,blanc gregory,,Grégory BLANC,,,,,,,,wayback,moyen,2026-04-17,wb2026041709
+e36b692e1ce1938f,2026-04-17,senat,depart,landier lopez pierre,LOPEZ LANDIER,Pierre,M.,devinaz gilbert luc,,Gilbert-Luc DEVINAZ,,,,,,,,wayback,moyen,2026-04-17,wb2026041709
+fde0e257433877cb,2026-04-17,senat,arrivee,maxime paixao,PAIXAO,Maxime,M.,iacovelli xavier,,Xavier IACOVELLI,,,,,,,,wayback,moyen,2026-04-17,wb2026041709
+58b7ec62cd74c650,2026-04-18,senat,depart,lhermitte thomas,LHERMITTE,Thomas,M.,demilly stephane,,Stéphane DEMILLY,,,,,,,,wayback,moyen,2026-04-18,wb2026041822
+e1643b5e08d3a54b,2026-04-21,senat,depart,joffre marie souleau,SOULEAU-JOFFRE,Marie,Mme,delia jean marc,,Jean-Marc DELIA,,,,,,,elu_sortant,wayback,moyen,2026-04-21,wb2026042123
+a6d491f20b5de690,2026-04-21,senat,depart,launay pauline,LAUNAY,Pauline,Mme,delia jean marc,,Jean-Marc DELIA,,,,,,,elu_sortant,wayback,moyen,2026-04-21,wb2026042123
+214864de0697e56c,2026-04-21,senat,arrivee,maeva thibaudeau,THIBAUDEAU,Maëva,Mme,matray paulette,,Paulette MATRAY,,,,,,,,wayback,moyen,2026-04-21,wb2026042123
+012709f634cc10bf,2026-04-25,senat,depart,fages loic,FAGES,Loïc,M.,cardon remi,,Rémi CARDON,,,,,,,,wayback,moyen,2026-04-25,wb2026042514
+a76415f78336749e,2026-04-27,senat,depart,fouille le lenaig,LE FOUILLE,Lénaig,Mme,dantec ronan,,Ronan DANTEC,,,,,,,,wayback,moyen,2026-04-27,wb2026042716
+aee4a4ab62746db7,2026-04-29,senat,arrivee,alexandra fourniguet,FOURNIGUET,Alexandra,Mme,antoinette guhl,,Antoinette GUHL,,,,,,,,wayback,moyen,2026-04-29,wb2026042900
+9419ecebb41f61dc,2026-04-29,senat,arrivee,claire gadler,GADLER,Claire,Mme,bernard jomier,,Bernard JOMIER,,,,,,,,wayback,moyen,2026-04-29,wb2026042900
+a9263938bd0db119,2026-04-29,senat,arrivee,di fiore gregoire,DI FIORE,Grégoire,M.,agnes evren,,Agnès EVREN,,,,,,,,wayback,moyen,2026-04-29,wb2026042900
+c140f3de53f128ef,2026-05-01,senat,depart,clotilde robin,ROBIN,Clotilde,Mme,herve reynaud,,Hervé REYNAUD,,,,,,,,wayback,moyen,2026-05-01,wb2026050101
+738a5fd0e614c33a,2026-05-01,senat,depart,gaudillat yanis,GAUDILLAT,Yanis,M.,hochart joshua,,Joshua HOCHART,,,,,,,,wayback,moyen,2026-05-01,wb2026050101
+4170a282517d65a1,2026-05-01,senat,depart,mevel raphael,MEVEL,Raphaël,M.,blanc gregory,,Grégory BLANC,,,,,,,,wayback,moyen,2026-05-01,wb2026050101
+a94a3a879e79275b,2026-05-02,senat,arrivee,anno chammougom sylvie,CHAMMOUGOM ANNO SYLVIE,,Mme,lurel victorin,,Victorin LUREL,,,,,,,,wayback,moyen,2026-05-02,wb2026050207
+ca9fdd6266627d41,2026-05-02,senat,arrivee,coureau davy,COUREAU,Davy,M.,berthet martine,,Martine BERTHET,,,,,,,,wayback,moyen,2026-05-02,wb2026050207
+c0b7cd7931398b3b,2026-05-03,senat,depart,damase massamba therese,DAMASE-MASSAMBA,Thérèse,Mme,chantrel yan,,Yan CHANTREL,,,,,,,,wayback,moyen,2026-05-03,wb2026050322
+74a278ff1b221d6a,2026-05-08,senat,depart,crevoisier michel,CREVOISIER,Michel,M.,grosperrin jacques,,Jacques GROSPERRIN,,,,,,,,wayback,moyen,2026-05-08,wb2026050802
+e7098192e3506124,2026-05-08,senat,arrivee,elen kergueris,KERGUERIS,Elen,Mme,florennes isabelle,,Isabelle FLORENNES,,,,,,,,wayback,moyen,2026-05-08,wb2026050802
+0e5be9bacf2881ad,2026-05-08,senat,arrivee,fatou ndeye senghor,SENGHOR,Ndeye Fatou,Mme,paire sandra,,Sandra PAIRE,,,,,,,elu_entrant,wayback,moyen,2026-05-08,wb2026050802
+89b527f133c45abf,2026-05-08,senat,arrivee,gomeri rania,GOMERI,Rania,Mme,carole ciuntu marie,,Marie-Carole CIUNTU,,,,,,,,wayback,moyen,2026-05-08,wb2026050802
+66ac62852ddcb5d8,2026-05-08,senat,arrivee,joffre marie souleau,SOULEAU-JOFFRE,Marie,Mme,paire sandra,,Sandra PAIRE,,,,,,,elu_entrant,wayback,moyen,2026-05-08,wb2026050802
+91cf6556bf3a6e28,2026-05-08,senat,arrivee,lubin sabatier,SABATIER,Lubin,M.,blanc gregory,,Grégory BLANC,,,,,,,,wayback,moyen,2026-05-08,wb2026050802
+0a022b68cc9a692c,2026-05-08,senat,arrivee,marguerite pasco,PASCO,Marguerite,Mme,hingray jean,,Jean HINGRAY,,,,,,,,wayback,moyen,2026-05-08,wb2026050802
+6fcd7fcde3bc3082,2026-05-08,senat,arrivee,molossi tobias,MOLOSSI,Tobias,M.,corinne narassiguin,,Corinne NARASSIGUIN,,,,,,,,wayback,moyen,2026-05-08,wb2026050802
+c64b580440ed97d8,2026-05-10,senat,arrivee,amouroux brice,AMOUROUX,Brice,M.,delattre nathalie,,Nathalie DELATTRE,,,,,,,,wayback,moyen,2026-05-10,wb2026051012
+6a21e09434365a60,2026-05-13,senat,arrivee,etay sara,ETAY,Sara,Mme,dantec ronan,,Ronan DANTEC,,,,,,,,wayback,moyen,2026-05-13,wb2026051304
+ac16fa21444541ae,2026-05-13,senat,depart,hnaia maria,HNAIA,Maria,Mme,robert wienie xowie,,Robert Wienie XOWIE,,,,,,,,wayback,moyen,2026-05-13,wb2026051304
+2370561eeb635784,2026-05-13,senat,depart,joris logologofolau,LOGOLOGOFOLAU,Joris,M.,robert wienie xowie,,Robert Wienie XOWIE,,,,,,,,wayback,moyen,2026-05-13,wb2026051304
+049f7cbb61377462,2026-05-14,senat,arrivee,bihan erwan le,LE BIHAN,Erwan,M.,cardon remi,,Rémi CARDON,,,,,,,,wayback,moyen,2026-05-14,wb2026051400
+a0f58ec72c20f807,2026-05-16,senat,depart,clarisse mahoudeau,MAHOUDEAU,Clarisse,Mme,corinne imbert,,Corinne IMBERT,,,,,,,,wayback,moyen,2026-05-16,wb2026051612
+c882d3d1265fc199,2026-05-20,senat,depart,amoussou syndie,AMOUSSOU,Syndie,Mme,briante guillemont sophie,,Sophie BRIANTE GUILLEMONT,,,,,,,,wayback,moyen,2026-05-20,wb2026052000
+2878baca041c048a,2026-05-20,senat,depart,amoussou syndie,AMOUSSOU,Syndie,Mme,jean luc ruelle,,Jean-Luc RUELLE,,,,,,,,wayback,moyen,2026-05-20,wb2026052000
+095cdf67be6c0fa7,2026-05-20,senat,arrivee,ariane vigna,VIGNA,Ariane,Mme,canevet michel,,Michel CANÉVET,,,,,,,,wayback,moyen,2026-05-20,wb2026052000
+4b0f81c7bf61c34a,2026-05-20,senat,arrivee,fabregues lison,FABREGUES,Lison,Mme,grosperrin jacques,,Jacques GROSPERRIN,,,,,,,,wayback,moyen,2026-05-20,wb2026052000
+0194eb53ee20fe2c,2026-05-20,senat,arrivee,meradji serine,MERADJI,Sérine,Mme,monge poncet raymonde,,Raymonde PONCET MONGE,,,,,,,,wayback,moyen,2026-05-20,wb2026052000
+8929d559925175b4,2026-05-21,senat,depart,emilie grand,GRAND,Emilie,Mme,bouad denis,,Denis BOUAD,,,,,,,,wayback,moyen,2026-05-21,wb2026052108
+125f988387d724f9,2026-05-21,senat,depart,nadir saifi,SAIFI,Nadir,M.,florennes isabelle,,Isabelle FLORENNES,,,,,,,,wayback,moyen,2026-05-21,wb2026052108
+177c698a4d9c12c0,2026-05-22,senat,arrivee,ariane vigna,VIGNA,Ariane,Mme,bleunven yves,,Yves BLEUNVEN,,,,,,,,wayback,moyen,2026-05-22,wb2026052205
+f2dda5dc38171302,2026-05-22,senat,arrivee,bihel paul,BIHEL,Paul,Mme,anne souyris,,Anne SOUYRIS,,,,,,,,wayback,moyen,2026-05-22,wb2026052205
+2fe403638ea65f47,2026-05-22,senat,depart,bihel sarah,BIHEL,Sarah,Mme,anne souyris,,Anne SOUYRIS,,,,,,,,wayback,moyen,2026-05-22,wb2026052205
+078639bbb92bade6,2026-05-25,senat,depart,chauff de geraldine kerguenec le,LE CHAUFF de KERGUENEC,Géraldine,Mme,cedric perrin,,Cédric PERRIN,,,,,,,,wayback,moyen,2026-05-25,wb2026052518
+26de21541ec78d44,2026-05-26,senat,arrivee,hugo mesnel,MESNEL,Hugo,M.,bitz olivier,,Olivier BITZ,,,,,,,,wayback,moyen,2026-05-26,wb2026052617
+4c37d8cbdaac6094,2026-05-27,senat,depart,charles maurice,MAURICE,Charles,M.,goulet nathalie,,Nathalie GOULET,,,,,,,,wayback,moyen,2026-05-27,wb2026052715
+f22bf43f8595fddd,2026-05-28,senat,depart,gomeri rania,GOMERI,Rania,Mme,olivier rietmann,,Olivier RIETMANN,,,,,,,,wayback,moyen,2026-05-28,wb2026052822
+8c8456e27d5039c1,2026-05-30,senat,depart,apolline halbecq,HALBECQ,Apolline,Mme,hugues saury,,Hugues SAURY,,,,,,,,wayback,moyen,2026-05-30,wb2026053009
+259d8413c8c99cd8,2026-06-01,senat,depart,aho marie,AHO,Marie,Mme,delattre nathalie,,Nathalie DELATTRE,,,,,,,,wayback,moyen,2026-06-01,wb2026060115
+a843afc07e766560,2026-06-01,senat,depart,besset frederic,BESSET,Frédéric,M.,alexandre ouizille,,Alexandre OUIZILLE,,,,,,,,wayback,moyen,2026-06-01,wb2026060115
+a4e17cb2b020b22b,2026-06-01,senat,depart,dimitri doussot,DOUSSOT,Dimitri,M.,alain joyandet,,Alain JOYANDET,,,,,,,,wayback,moyen,2026-06-01,wb2026060115
+0c35d20ff517ca15,2026-06-01,senat,depart,edouard pack,PACK,Edouard,M.,rohfritsch teva,,Teva ROHFRITSCH,,,,,,,,wayback,moyen,2026-06-01,wb2026060115
+3ab7a17ed99b109d,2026-06-01,senat,depart,garcia julien,GARCIA,Julien,M.,guidez jocelyne,,Jocelyne GUIDEZ,,,,,,,,wayback,moyen,2026-06-01,wb2026060115
+9fd4e69dbe303450,2026-06-01,senat,depart,kerbouche mathieu,KERBOUCHE,Mathieu,M.,antoinette guhl,,Antoinette GUHL,,,,,,,,wayback,moyen,2026-06-01,wb2026060115
+fa520d66237909bc,2026-06-01,senat,depart,nicolas rondepierre,RONDEPIERRE,Nicolas,M.,meignen thierry,,Thierry MEIGNEN,,,,,,,,wayback,moyen,2026-06-01,wb2026060115
+0739cbb15ae9d261,2026-06-02,senat,arrivee,berlemont collombel eric,BERLEMONT COLLOMBEL,Eric,M.,antoinette guhl,,Antoinette GUHL,,,,,,,,wayback,moyen,2026-06-02,wb2026060200
+24980eabf38fc3b3,2026-06-02,senat,arrivee,boeuf thibault,BOEUF,Thibault,M.,guidez jocelyne,,Jocelyne GUIDEZ,,,,,,,,wayback,moyen,2026-06-02,wb2026060200
+59ae60a6d70e7fd4,2026-06-02,senat,arrivee,clara gaborit,GABORIT,Clara,Mme,hugues saury,,Hugues SAURY,,,,,,,,wayback,moyen,2026-06-02,wb2026060200
+7551ff3b97c77dcb,2026-06-02,senat,arrivee,damase massamba therese,DAMASE-MASSAMBA,Thérèse,Mme,chantrel yan,,Yan CHANTREL,,,,,,,,wayback,moyen,2026-06-02,wb2026060200
+82bc6c93c868feb3,2026-06-02,senat,arrivee,marine marquet,MARQUET,Marine,Mme,bouad denis,,Denis BOUAD,,,,,,,,wayback,moyen,2026-06-02,wb2026060200
+b236072313137d74,2026-06-03,senat,arrivee,alexis thenevin,THENEVIN,Alexis,M.,fabien gay,,Fabien GAY,,,,,,,,wayback,moyen,2026-06-03,wb2026060318
+53b2a986bc8addb8,2026-06-03,senat,depart,birahima traore,TRAORE,Birahima,M.,david ros,,David ROS,,,,,,,,wayback,moyen,2026-06-03,wb2026060318
+5efe3304c034c61a,2026-06-05,senat,arrivee,cyril laurent,LAURENT,Cyril,M.,bruyen christian,,Christian BRUYEN,,,,,,,,wayback,moyen,2026-06-05,wb2026060511
+4e64a2634146dde4,2026-06-09,senat,depart,amelie chateau,CHATEAU,Amélie,Mme,claude malhuret,,Claude MALHURET,,,,,,,,wayback,moyen,2026-06-09,wb2026060913
+b3fd0f0c0011a2e8,2026-06-09,senat,arrivee,hechler ruben,HECHLER,Ruben,M.,delattre nathalie,,Nathalie DELATTRE,,,,,,,,wayback,moyen,2026-06-09,wb2026060913
+6e8a1879ddea3724,2026-06-11,senat,arrivee,charles maurice,MAURICE,Charles,M.,goulet nathalie,,Nathalie GOULET,,,,,,,,wayback,moyen,2026-06-11,wb2026061115
+f770a2278d108cbc,2026-06-19,senat,depart,alard thomas,ALARD,Thomas,M.,florence lassarade,,Florence LASSARADE,,,,,,,,wayback,moyen,2026-06-19,wb2026061909
+a1d3310bef532745,2026-06-19,senat,arrivee,alexis nau,NAU,Alexis,M.,boileau pierre,,Pierre BOILEAU,,,,,,,elu_entrant,wayback,moyen,2026-06-19,wb2026061909
+3623fafb1ee2b095,2026-06-19,senat,arrivee,audrey beague,BEAGUE,Audrey,Mme,amel gacquerre,,Amel GACQUERRE,,,,,,,,wayback,moyen,2026-06-19,wb2026061909
+8fc5fb5e863c0d61,2026-06-19,senat,arrivee,bachmann manon,BACHMANN,Manon,Mme,boileau pierre,,Pierre BOILEAU,,,,,,,elu_entrant,wayback,moyen,2026-06-19,wb2026061909
+e7563acc97bd6cac,2026-06-19,senat,arrivee,benjamin chanteclerc,CHANTECLERC,Benjamin,M.,boileau pierre,,Pierre BOILEAU,,,,,,,elu_entrant,wayback,moyen,2026-06-19,wb2026061909
+ff6ad19b7c7dc186,2026-06-19,senat,arrivee,bercoff nathan,BERCOFF,Nathan,M.,corinne imbert,,Corinne IMBERT,,,,,,,,wayback,moyen,2026-06-19,wb2026061909
+0a2f8f38545435ad,2026-06-19,senat,arrivee,enzo lesoudard,LESOUDARD,Enzo,M.,hochart joshua,,Joshua HOCHART,,,,,,,,wayback,moyen,2026-06-19,wb2026061909
+2daf1f592b7e3df8,2026-06-20,senat,depart,anna ferron gautie,FERRON GAUTIE,Anna,Mme,delattre nathalie,,Nathalie DELATTRE,,,,,,,,wayback,moyen,2026-06-20,wb2026062012
+036a089ab8f9a0eb,2026-06-20,senat,depart,delamare thibault,DELAMARE,Thibault,M.,conway helene mouret,,Hélène CONWAY-MOURET,,,,,,,,wayback,moyen,2026-06-20,wb2026062012
+f3093ba130169bc5,2026-06-20,senat,arrivee,lou vallon,VALLON,Lou,Mme,burgoa laurent,,Laurent BURGOA,,,,,,,,wayback,moyen,2026-06-20,wb2026062012
+d8be1fb8a1004911,2026-06-21,senat,arrivee,charlotte marion,MARION,Charlotte,Mme,claude malhuret,,Claude MALHURET,,,,,,,,wayback,moyen,2026-06-21,wb2026062122
+6a48f8bb955c21c5,2026-06-27,senat,depart,di fiore gregoire,DI FIORE,Grégoire,M.,agnes evren,,Agnès EVREN,,,,,,,,wayback,moyen,2026-06-27,wb2026062714
+923dee1ea03b5dba,2026-06-27,senat,arrivee,friedling marie,FRIEDLING,Marie,Mme,rohfritsch teva,,Teva ROHFRITSCH,,,,,,,,wayback,moyen,2026-06-27,wb2026062714
+ca7c1a623f99a79c,2026-07-01,senat,depart,alexandre laurent,LAURENT,Alexandre,M.,michael weber,,Michaël WEBER,,,,,,,,wayback,moyen,2026-07-01,wb2026070121
+98536bbae3ca887f,2026-07-01,senat,depart,arthur gadenne,GADENNE,Arthur,M.,olivia richard,,Olivia RICHARD,,,,,,,,wayback,moyen,2026-07-01,wb2026070121
+6cc051b083bc216b,2026-07-01,senat,depart,bastien soret,SORET,Bastien,M.,georges naturel,,Georges NATUREL,,,,,,,,wayback,moyen,2026-07-01,wb2026070121
+5f8858c8ddccf2fa,2026-07-01,senat,depart,boucher eric,BOUCHER,Eric,M.,greaume michelle,,Michelle GRÉAUME,,,,,,,,wayback,moyen,2026-07-01,wb2026070121
+3100cea8e7b7c181,2026-07-01,senat,depart,bounie julien,BOUNIE,Julien,M.,claude nougein,,Claude NOUGEIN,,,,,,,,wayback,moyen,2026-07-01,wb2026070121
+8df20ed3ab768788,2026-07-01,senat,depart,celia muller,MULLER,Célia,Mme,belrhiti catherine,,Catherine BELRHITI,,,,,,,,wayback,moyen,2026-07-01,wb2026070121
+294e8884289bfa3f,2026-07-01,senat,depart,corme veronique,CORME,Véronique,Mme,lamenie marc,,Marc LAMÉNIE,,,,,,,,wayback,moyen,2026-07-01,wb2026070121
+86d36e3e9503ac9a,2026-07-01,senat,depart,foucault ghislaine,FOUCAULT,Ghislaine,Mme,eble vincent,,Vincent EBLÉ,,,,,,,,wayback,moyen,2026-07-01,wb2026070121
+4ef88d598cf47e79,2026-07-01,senat,depart,helena laouisset royer,LAOUISSET ROYER,Hélèna,Mme,pascal savoldelli,,Pascal SAVOLDELLI,,,,,,,,wayback,moyen,2026-07-01,wb2026070121
+af5f3b0fe7c0ed16,2026-07-01,senat,arrivee,houichi yacine,HOUICHI,Yacine,M.,greaume michelle,,Michelle GRÉAUME,,,,,,,,wayback,moyen,2026-07-01,wb2026070121
+fd0ded4b17230b4d,2026-07-01,senat,depart,laurence maurin,MAURIN,Laurence,Mme,fabien gay,,Fabien GAY,,,,,,,,wayback,moyen,2026-07-01,wb2026070121
+166235e4437a6a97,2026-07-12,senat,arrivee,debrabant louis,DEBRABANT,Louis,M.,alexandre ouizille,,Alexandre OUIZILLE,,,,,,,,wayback,moyen,2026-07-12,wb2026071217
+ce1503c27ca5fe83,2026-07-15,senat,depart,alexis nau,NAU,Alexis,M.,boileau pierre,,Pierre BOILEAU,,,,,,,,wayback,moyen,2026-07-15,wb2026071522
+3ce0572c41b8f158,2026-07-15,senat,depart,alexis nau,NAU,Alexis,M.,francois husson jean,,Jean-François HUSSON,,,,,,,,wayback,moyen,2026-07-15,wb2026071522
+0a618467d109b0da,2026-07-15,senat,depart,hippolythe mispelaere,MISPELAERE,Hippolythe,M.,jacquin olivier,,Olivier JACQUIN,,,,,,,,wayback,moyen,2026-07-15,wb2026071522
+07a4f00abdfeeb6d,2026-07-15,senat,depart,lou vallon,VALLON,Lou,Mme,burgoa laurent,,Laurent BURGOA,,,,,,,,wayback,moyen,2026-07-15,wb2026071522
+24d6506adf2eb05a,2026-07-17,senat,arrivee,bailly paul,BAILLY,Paul,M.,aeschlimann do marie,,Marie-Do AESCHLIMANN,,,,,,,,wayback,moyen,2026-07-17,wb2026071717
+6368c1f383f3077b,2026-07-21,senat,depart,charlotte marion,MARION,Charlotte,Mme,claude malhuret,,Claude MALHURET,,,,,,,,wayback,moyen,2026-07-21,wb2026072103
+09d99bc6db7f3392,2026-07-27,senat,depart,agathe lanoe,LANOE,Agathe,Mme,annie houerou le,,Annie LE HOUEROU,,,,,,,,wayback,moyen,2026-07-27,wb2026072703
+e33ec484b6b50e7f,2026-07-27,senat,depart,arthur daldin,DALDIN,Arthur,M.,boyer jean marc,,Jean-Marc BOYER,,,,,,,,wayback,moyen,2026-07-27,wb2026072703
+2763393b79b0caac,2026-07-27,senat,arrivee,aurianne beaufort,BEAUFORT,Aurianne,Mme,jean pierre rochette,,Pierre-Jean ROCHETTE,,,,,,,,wayback,moyen,2026-07-27,wb2026072703
+f9b101a8cfe62582,2026-07-27,senat,depart,blandine denby wilkes,DENBY WILKES,Blandine,Mme,buffet francois noel,,François-Noël BUFFET,,,,,,,elu_sortant,wayback,moyen,2026-07-27,wb2026072703
+6d9c04af64b4b8a1,2026-07-27,senat,depart,borel jacques jean,BOREL,Jean-Jacques,M.,buffet francois noel,,François-Noël BUFFET,,,,,,,elu_sortant,wayback,moyen,2026-07-27,wb2026072703
+c0851c85cdd6b8dd,2026-08-01,senat,depart,anne karababa leburgue,LEBURGUE-KARABABA,Anne,Mme,patricia schillinger,,Patricia SCHILLINGER,,,,,,,,wayback,moyen,2026-08-01,wb2026080123
+126c7df87543ac91,2026-08-01,senat,depart,belloir nicolas,BELLOIR,Nicolas,M.,de dominique legge,,Dominique de LEGGE,,,,,,,,wayback,moyen,2026-08-01,wb2026080123
+fc8587bb4c18a210,2026-08-01,senat,depart,benedicte dupont,DUPONT,Bénédicte,Mme,greaume michelle,,Michelle GRÉAUME,,,,,,,,wayback,moyen,2026-08-01,wb2026080123
+7dea68850003a9e5,2026-08-01,senat,depart,celerier clemence,CELERIER,Clémence,Mme,claude marie varaillas,,Marie-Claude VARAILLAS,,,,,,,,wayback,moyen,2026-08-01,wb2026080123
+c8c20e642c15c2d7,2026-08-01,senat,depart,fabregues lison,FABREGUES,Lison,Mme,grosperrin jacques,,Jacques GROSPERRIN,,,,,,,,wayback,moyen,2026-08-01,wb2026080123
+88c00c819dcc1563,2026-08-01,senat,depart,guiraud jose kerboriou marie,KERBORIOU-GUIRAUD,Marie-José,Mme,folliot philippe,,Philippe FOLLIOT,,,,,,,,wayback,moyen,2026-08-01,wb2026080123
+f4ce613f3a763c3c,2026-08-01,senat,depart,hugo mesnel,MESNEL,Hugo,M.,bitz olivier,,Olivier BITZ,,,,,,,,wayback,moyen,2026-08-01,wb2026080123
+6c6e10f56ed06a08,2026-08-01,senat,depart,kevin landry,LANDRY,Kévin,M.,amel gacquerre,,Amel GACQUERRE,,,,,,,,wayback,moyen,2026-08-01,wb2026080123
+02aabe14872d827b,2026-08-01,senat,arrivee,laboureur leo paul,LABOUREUR,Léo-Paul,M.,barros pierre,,Pierre BARROS,,,,,,,,wayback,moyen,2026-08-01,wb2026080123
+dd5353051150a601,2026-08-17,senat,depart,aurore defoix,DEFOIX,Aurore,Mme,jean pierre verzelen,,Pierre-Jean VERZELEN,,,,,,,elu_sortant,wayback,moyen,2026-08-17,wb2026081722
+d23a8d7acd861902,2026-08-17,senat,depart,bailly paul,BAILLY,Paul,M.,aeschlimann do marie,,Marie-Do AESCHLIMANN,,,,,,,,wayback,moyen,2026-08-17,wb2026081722
+3148a4a344eccedf,2026-08-17,senat,arrivee,biyong yannick,BIYONG,Yannick,M.,alain joyandet,,Alain JOYANDET,,,,,,,,wayback,moyen,2026-08-17,wb2026081722
+026e2ed85f99a4b3,2026-08-17,senat,depart,catherine dujardin,DUJARDIN,Catherine,Mme,jean pierre verzelen,,Pierre-Jean VERZELEN,,,,,,,elu_sortant,wayback,moyen,2026-08-17,wb2026081722
+6e1ec4574a48dae2,2026-08-17,senat,arrivee,cheneau lucie,CHENEAU,Lucie,Mme,chaillou christophe,,Christophe CHAILLOU,,,,,,,,wayback,moyen,2026-08-17,wb2026081722
+b0bd71297ad73dfb,2026-08-17,senat,arrivee,d geraud ivry ogier,OGIER D IVRY,Géraud,M.,paul vidal,,Paul VIDAL,,,,,,,elu_entrant,wayback,moyen,2026-08-17,wb2026081722
+1086ac3ae91c4420,2026-08-17,senat,arrivee,pavitra ramsamy,RAMSAMY,Pavitra,Mme,corbiere evelyne naminzo,,Evelyne CORBIERE NAMINZO,,,,,,,,wayback,moyen,2026-08-17,wb2026081722
+9cefc37c33219d92,2026-08-19,senat,arrivee,lhermitte thomas,LHERMITTE,Thomas,M.,demilly stephane,,Stéphane DEMILLY,,,,,,,,wayback,moyen,2026-08-19,wb2026081923
+02bcab51cccbabd3,2026-08-22,senat,depart,annouck cotillot,COTILLOT,Annouck,Mme,francois patriat,,François PATRIAT,,,,,,,elu_sortant,wayback,moyen,2026-08-22,wb2026082223
+7a765c4c845cf2d2,2026-08-22,senat,depart,enzo lesoudard,LESOUDARD,Enzo,M.,hochart joshua,,Joshua HOCHART,,,,,,,,wayback,moyen,2026-08-22,wb2026082223
+1f4b0b8e6d176afd,2026-08-22,senat,depart,friedrich karine,FRIEDRICH,Karine,Mme,christine herzog,,Christine HERZOG,,,,,,,,wayback,moyen,2026-08-22,wb2026082223
+ccdcf2cafa39da9d,2026-08-22,senat,depart,gabriel kauffmann,KAUFFMANN,Gabriel,M.,cidrac de marta,,Marta de CIDRAC,,,,,,,,wayback,moyen,2026-08-22,wb2026082223
+807ee09ed318d317,2026-08-22,senat,depart,isabelle moreno,MORENO,Isabelle,Mme,francois patriat,,François PATRIAT,,,,,,,elu_sortant,wayback,moyen,2026-08-22,wb2026082223
+bb5e81ff637151c1,2026-08-22,senat,depart,jean puissegur ripet,PUISSEGUR-RIPET,Jean,M.,alberic de montgolfier,,Albéric de MONTGOLFIER,,,,,,,,wayback,moyen,2026-08-22,wb2026082223
+14de8faf159d5431,2026-08-26,senat,depart,aurianne beaufort,BEAUFORT,Aurianne,Mme,jean pierre rochette,,Pierre-Jean ROCHETTE,,,,,,,,wayback,moyen,2026-08-26,wb2026082616
+7913f67b7b49fab4,2026-08-26,senat,arrivee,christel nusbaum,NUSBAUM,Christel,Mme,jacquin olivier,,Olivier JACQUIN,,,,,,,,wayback,moyen,2026-08-26,wb2026082616
+1b80b25f8430c9ff,2026-09-27,senat,arrivee,affoue monnet,MONNET,Affoué,Mme,eble vincent,,Vincent EBLÉ,,,,,,,,wayback,moyen,2026-09-27,wb2026092716
+61d261a3ad8a2b4c,2026-09-27,senat,depart,agathe guichard,GUICHARD,Agathe,Mme,alain houpert,,Alain HOUPERT,,,,,,,,wayback,moyen,2026-09-27,wb2026092716
+ce985debc3910d29,2026-09-27,senat,depart,alexandre pourquery,POURQUERY,Alexandre,M.,aeschlimann do marie,,Marie-Do AESCHLIMANN,,,,,,,,wayback,moyen,2026-09-27,wb2026092716
+7b1f754609216fa1,2026-09-27,senat,arrivee,alexis desreumaux,DESREUMAUX,Alexis,M.,audrey linkenheld,,Audrey LINKENHELD,,,,,,,,wayback,moyen,2026-09-27,wb2026092716
+5f6d52dc631e9eca,2026-09-27,senat,depart,anne constans emmanuelle,CONSTANS,Anne-Emmanuelle,Mme,masset michel,,Michel MASSET,,,,,,,,wayback,moyen,2026-09-27,wb2026092716
+f8581d0eef7cf8b1,2026-09-27,senat,arrivee,anne thibierge,THIBIERGE,Anne,Mme,agnes evren,,Agnès EVREN,,,,,,,,wayback,moyen,2026-09-27,wb2026092716
+04ee53e0d19807e1,2026-09-27,senat,depart,artiguebere romain,ARTIGUEBERE,Romain,M.,dominique estrosi sassone,,Dominique ESTROSI SASSONE,,,,,,,,wayback,moyen,2026-09-27,wb2026092716
+256248ff9965405f,2026-09-27,senat,depart,axel guggino,GUGGINO,Axel,M.,michel savin,,Michel SAVIN,,,,,,,,wayback,moyen,2026-09-27,wb2026092716
+9a72d987b240d367,2026-09-27,senat,depart,baptiste chalard du,du CHALARD,Baptiste,M.,christine lavarde,,Christine LAVARDE,,,,,,,,wayback,moyen,2026-09-27,wb2026092716
+645dea785fdd45f4,2026-09-27,senat,depart,berlemont collombel eric,BERLEMONT COLLOMBEL,Eric,M.,antoinette guhl,,Antoinette GUHL,,,,,,,,wayback,moyen,2026-09-27,wb2026092716
+457147266c6cfdec,2026-09-27,senat,depart,besnier lou,BESNIER,Lou,Mme,jouve mireille,,Mireille JOUVE,,,,,,,,wayback,moyen,2026-09-27,wb2026092716
+3f29bfecda047a91,2026-09-27,senat,arrivee,bize lily,BIZE,Lily,Mme,boileau pierre,,Pierre BOILEAU,,,,,,,,wayback,moyen,2026-09-27,wb2026092716
+0cca01af3298c734,2026-09-27,senat,arrivee,bize lily,BIZE,Lily,Mme,francois husson jean,,Jean-François HUSSON,,,,,,,,wayback,moyen,2026-09-27,wb2026092716
+707fd2f0e375315b,2026-09-27,senat,depart,boucher thibault,BOUCHER,Thibault,M.,audrey belim,,Audrey BÉLIM,,,,,,,,wayback,moyen,2026-09-27,wb2026092716
+587b58728d85cc8e,2026-09-27,senat,arrivee,bouchet thibaut,BOUCHET,Thibaut,M.,claude malhuret,,Claude MALHURET,,,,,,,,wayback,moyen,2026-09-27,wb2026092716
+1e80e525c900dcbe,2026-09-27,senat,depart,cailleteau julien,CAILLETEAU,Julien,M.,chaillou christophe,,Christophe CHAILLOU,,,,,,,,wayback,moyen,2026-09-27,wb2026092716
+09933ba5ad9dc37d,2026-09-27,senat,depart,charles jean louis,JEAN-LOUIS,Charles,M.,blanc etienne,,Étienne BLANC,,,,,,,,wayback,moyen,2026-09-27,wb2026092716
+2814f63a4a4f538c,2026-09-27,senat,depart,christel nusbaum,NUSBAUM,Christel,Mme,jacquin olivier,,Olivier JACQUIN,,,,,,,,wayback,moyen,2026-09-27,wb2026092716
+41105587f013c2fc,2026-09-27,senat,depart,christophe piteux,PITEUX,Christophe,M.,corbisez jean pierre,,Jean-Pierre CORBISEZ,,,,,,,,wayback,moyen,2026-09-27,wb2026092716
+369bb5b84dab753f,2026-09-27,senat,depart,cosnard janvrin thomas,JANVRIN-COSNARD,Thomas,M.,fouassin stephane,,Stéphane FOUASSIN,,,,,,,,wayback,moyen,2026-09-27,wb2026092716
+0e64811ecc364c42,2026-09-27,senat,depart,damase massamba therese,DAMASE-MASSAMBA,Thérèse,Mme,chantrel yan,,Yan CHANTREL,,,,,,,,wayback,moyen,2026-09-27,wb2026092716
+0935bb58a0fc2d97,2026-09-27,senat,arrivee,de marc villepin,DE VILLEPIN,Marc,M.,amel gacquerre,,Amel GACQUERRE,,,,,,,,wayback,moyen,2026-09-27,wb2026092716
+31fb60b0ec862f75,2026-09-27,senat,arrivee,delaleau hugo,DELALEAU,Hugo,M.,agnes evren,,Agnès EVREN,,,,,,,,wayback,moyen,2026-09-27,wb2026092716
+e721df7892ad5e8d,2026-09-27,senat,depart,delesse pauline,DELESSE,Pauline,Mme,agnes evren,,Agnès EVREN,,,,,,,,wayback,moyen,2026-09-27,wb2026092716
+8dd87435533834b8,2026-09-27,senat,depart,deshaies laurent,DESHAIES,Laurent,M.,benarroche guy,,Guy BENARROCHE,,,,,,,,wayback,moyen,2026-09-27,wb2026092716
+f865b2248e3db4c1,2026-09-27,senat,arrivee,dessaint lila,DESSAINT,Lila,Mme,florennes isabelle,,Isabelle FLORENNES,,,,,,,,wayback,moyen,2026-09-27,wb2026092716
+14d3dd2f05942901,2026-09-27,senat,arrivee,detroit morin sandrine,MORIN DETROIT,Sandrine,Mme,meignen thierry,,Thierry MEIGNEN,,,,,,,,wayback,moyen,2026-09-27,wb2026092716
+c380abdd6f2b099e,2026-09-27,senat,depart,dominique jaouen,JAOUEN,Dominique,M.,annick billon,,Annick BILLON,,,,,,,,wayback,moyen,2026-09-27,wb2026092716
+e61116b2e0b4ce2e,2026-09-27,senat,arrivee,emilie lecat,LECAT,Emilie,Mme,fagnen sebastien,,Sébastien FAGNEN,,,,,,,,wayback,moyen,2026-09-27,wb2026092716
+bb67ad735324a3b9,2026-09-27,senat,arrivee,emma scuderi,SCUDERI,Emma,Mme,olivia richard,,Olivia RICHARD,,,,,,,,wayback,moyen,2026-09-27,wb2026092716
+8c271fbabf58e158,2026-09-27,senat,depart,etienne romain,ETIENNE,Romain,M.,florennes isabelle,,Isabelle FLORENNES,,,,,,,,wayback,moyen,2026-09-27,wb2026092716
+aec5c6c67003d1a5,2026-09-27,senat,arrivee,evano matthias,EVANO,Matthias,M.,adel ziane,,Adel ZIANE,,,,,,,,wayback,moyen,2026-09-27,wb2026092716
+c3f8d3e31f3250e6,2026-09-27,senat,arrivee,gabriel kauffmann,KAUFFMANN,Gabriel,M.,cidrac de marta,,Marta de CIDRAC,,,,,,,,wayback,moyen,2026-09-27,wb2026092716
+bfafe8e7c970b0b4,2026-09-27,senat,depart,gaudillat yanis,GAUDILLAT,Yanis,M.,christopher szczurek,,Christopher SZCZUREK,,,,,,,,wayback,moyen,2026-09-27,wb2026092716
+db642554a09713d5,2026-09-27,senat,arrivee,giessinger simon,GIESSINGER,Simon,M.,christine herzog,,Christine HERZOG,,,,,,,,wayback,moyen,2026-09-27,wb2026092716
+55f4610e6d237d1f,2026-09-27,senat,depart,gregoire vivet,VIVET,Grégoire,M.,antoine lefevre,,Antoine LEFÈVRE,,,,,,,,wayback,moyen,2026-09-27,wb2026092716
+7201af7653740328,2026-09-27,senat,depart,hermann sarah,HERMANN,Sarah,Mme,jean luc ruelle,,Jean-Luc RUELLE,,,,,,,,wayback,moyen,2026-09-27,wb2026092716
+dcee349c212660e6,2026-09-27,senat,arrivee,isabelle moreno,MORENO,Isabelle,Mme,didier maingault,,Didier MAINGAULT,,,,,,,elu_entrant,wayback,moyen,2026-09-27,wb2026092716
+b9580ad464830ac3,2026-09-27,senat,depart,jade meguerditchian,MEGUERDITCHIAN,Jade,Mme,christine herzog,,Christine HERZOG,,,,,,,,wayback,moyen,2026-09-27,wb2026092716
+23b47bf9cc4e3127,2026-09-27,senat,arrivee,janvrin thomas,JANVRIN,Thomas,M.,fouassin stephane,,Stéphane FOUASSIN,,,,,,,,wayback,moyen,2026-09-27,wb2026092716
+ed869c9a3321f7f7,2026-09-27,senat,depart,jean pierre veyret,VEYRET,Pierre-Jean,M.,bernard buis,,Bernard BUIS,,,,,,,,wayback,moyen,2026-09-27,wb2026092716
+6f5e792c8a21b6a1,2026-09-27,senat,depart,laddi lenguema,LENGUEMA,Laddi,Mme,bernard fialaire,,Bernard FIALAIRE,,,,,,,,wayback,moyen,2026-09-27,wb2026092716
+436a3f1d9177502d,2026-09-27,senat,depart,lamboul pierre,LAMBOUL,Pierre,M.,martin pauline,,Pauline MARTIN,,,,,,,,wayback,moyen,2026-09-27,wb2026092716
+3fb494c492eb9b35,2026-09-27,senat,arrivee,lemaitre luc,LEMAITRE,Luc,M.,bitz olivier,,Olivier BITZ,,,,,,,,wayback,moyen,2026-09-27,wb2026092716
+0f56878d90eba97a,2026-09-27,senat,depart,lucas violand,VIOLAND,Lucas,M.,chaillou christophe,,Christophe CHAILLOU,,,,,,,,wayback,moyen,2026-09-27,wb2026092716
+dad5d965f6e60961,2026-09-27,senat,depart,marion nicaise,NICAISE,Marion,Mme,demas patricia,,Patricia DEMAS,,,,,,,,wayback,moyen,2026-09-27,wb2026092716
+0ab731ca27a644d3,2026-09-27,senat,arrivee,martial victoria,MARTIAL,Victoria,Mme,anne souyris,,Anne SOUYRIS,,,,,,,,wayback,moyen,2026-09-27,wb2026092716
+85f860dccfe81315,2026-09-27,senat,depart,mehdi seghaier,SEGHAIER,Mehdi,M.,annick girardin,,Annick GIRARDIN,,,,,,,,wayback,moyen,2026-09-27,wb2026092716
+d5b610638dd32e60,2026-09-27,senat,arrivee,nathan renault,RENAULT,Nathan,M.,martin pauline,,Pauline MARTIN,,,,,,,,wayback,moyen,2026-09-27,wb2026092716
+e8f9c57dedadc269,2026-09-27,senat,depart,nee valentin,NEE,Valentin,M.,bitz olivier,,Olivier BITZ,,,,,,,,wayback,moyen,2026-09-27,wb2026092716
+fcd4f7d474e5db28,2026-09-27,senat,depart,rhimini samir,RHIMINI,Samir,M.,pointereau remy,,Rémy POINTEREAU,,,,,,,,wayback,moyen,2026-09-27,wb2026092716
+b25156a051576886,2026-09-29,senat,depart,aurelia beauchier dompietrini,BEAUCHIER DOMPIETRINI,Aurélia,Mme,parigi paul toussaint,,Paul Toussaint PARIGI,,,,,,,,wayback,faible,2026-09-29,live
+2a6e166a4e755650,2026-09-29,senat,arrivee,maurice mbongolo,MBONGOLO,Maurice,M.,aeschlimann do marie,21071F,Marie-Do AESCHLIMANN,LR,,,,,,,wayback,faible,2026-09-29,live
+4a1a978d1f44911b,2026-09-29,senat,arrivee,mokhtari valentin vincent,VINCENT-MOKHTARI,Valentin,M.,antoinette guhl,21092L,Antoinette GUHL,GEST,,,,,,,wayback,faible,2026-09-29,live

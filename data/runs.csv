@@ -28,3 +28,5 @@ run_id,date,chambre,statut,date_source,n_elus,n_affectations,n_arrivees,n_depart
 38542313429,2026-10-14,assemblee,ok,,568,2056,4,1,1,
 38542313429,2026-10-14,senat,ok,2026-10-13,308,789,18,0,0,1 sénateur(s) sans matricule ODSEN : Claudie FAUCON
 38691105124,2026-10-15,senat,ok,2026-10-14,311,793,5,1,0,1 sénateur(s) sans matricule ODSEN : Claudie FAUCON
+38859884616,2026-10-16,assemblee,ok,,573,2067,16,5,1,
+38859884616,2026-10-16,senat,ok,2026-10-15,313,795,2,0,0,1 sénateur(s) sans matricule ODSEN : Claudie FAUCON

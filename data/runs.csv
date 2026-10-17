@@ -30,3 +30,5 @@ run_id,date,chambre,statut,date_source,n_elus,n_affectations,n_arrivees,n_depart
 38691105124,2026-10-15,senat,ok,2026-10-14,311,793,5,1,0,1 sénateur(s) sans matricule ODSEN : Claudie FAUCON
 38859884616,2026-10-16,assemblee,ok,,573,2067,16,5,1,
 38859884616,2026-10-16,senat,ok,2026-10-15,313,795,2,0,0,1 sénateur(s) sans matricule ODSEN : Claudie FAUCON
+39008800300,2026-10-17,assemblee,erreur,,0,0,0,0,0,"source illisible : RetryError: HTTPSConnectionPool(host='data.assemblee-nationale.fr', port=443): Max retries exceeded with url: /static/openData/repository/17/amo/collaborateurs_csv_opendata/liste_collaborateurs_libre_office.csv (Caused by ResponseError('too many 503 error responses'))"
+39008800300,2026-10-17,senat,ok,2026-10-16,315,798,3,0,0,1 sénateur(s) sans matricule ODSEN : Claudie FAUCON

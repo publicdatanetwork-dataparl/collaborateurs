@@ -6842,7 +6842,8 @@ PA2940,assemblee,PA2940,commission,PO59047,Commission des affaires étrangères,
 PA2940,assemblee,PA2940,commission,PO419865,Commission du développement durable et de l'aménagement du territoire,Développement durable,Membre,2026-04-29,2026-04-30
 PA2940,assemblee,PA2940,commission,PO59047,Commission des affaires étrangères,Affaires étrangères,Membre,2026-05-02,2026-05-05
 PA2940,assemblee,PA2940,commission,PO419610,Commission des affaires économiques,Affaires économiques,Membre,2026-05-06,2026-05-06
-PA2940,assemblee,PA2940,commission,PO59047,Commission des affaires étrangères,Affaires étrangères,Membre,2026-05-07,
+PA2940,assemblee,PA2940,commission,PO59047,Commission des affaires étrangères,Affaires étrangères,Membre,2026-05-07,2026-10-16
+PA2940,assemblee,PA2940,commission,PO419604,Commission des affaires culturelles et de l'éducation,Affaires culturelles et éducation,Membre,2026-10-17,
 PA2940,assemblee,PA2940,commission_enquete,PO854138,"Commission d’enquête relative à la politique française d’expérimentation nucléaire, à l’ensemble des conséquences de l’installation et des opérations du Centre d’expérimentation du Pacifique en Polynésie française, à la reconnaissance, à la prise en charge et à l’indemnisation des victimes des essais nucléaires français, ainsi qu’à la reconnaissance des dommages environnementaux et à leur réparation",CE Essais nucléaires,Membre,2025-01-08,2025-06-10
 PA2940,assemblee,PA2940,commission_enquete,PO854138,"Commission d’enquête relative à la politique française d’expérimentation nucléaire, à l’ensemble des conséquences de l’installation et des opérations du Centre d’expérimentation du Pacifique en Polynésie française, à la reconnaissance, à la prise en charge et à l’indemnisation des victimes des essais nucléaires français, ainsi qu’à la reconnaissance des dommages environnementaux et à leur réparation",CE Essais nucléaires,Vice-Présidente,2025-01-14,2025-06-10
 PA2940,assemblee,PA2940,commission_speciale,PO849474,Commission spéciale chargée d’examiner le projet de loi de simplification de la vie économique,CS PJL simplification de la vie économique,Membre,2024-10-30,2025-03-06
@@ -14600,7 +14601,7 @@ PA610830,assemblee,PA610830,groupe,PO707869,Les Républicains,Les Républicains,
 PA610850,assemblee,PA610850,commission,PO59051,"Commission des lois constitutionnelles, de la législation et de l'administration générale de la République",Lois,Membre,2012-06-28,2013-02-15
 PA610850,assemblee,PA610850,groupe,PO656002,"Socialiste, républicain et citoyen",SRC,Membre du,2012-06-26,2013-02-15
 PA610850,assemblee,PA610850,office,PO273589,Office parlementaire d'évaluation des choix scientifiques et technologiques,office parlementaire d'évaluation des choix scientifiques et technologiques,Membre,2012-07-11,2013-02-15
-PA610850,assemblee,PA610850,office,PO273589,Office parlementaire d'évaluation des choix scientifiques et technologiques,office parlementaire d'évaluation des choix scientifiques et technologiques,Membre,2023-10-17,
+PA610850,assemblee,PA610850,office,PO273589,Office parlementaire d'évaluation des choix scientifiques et technologiques,office parlementaire d'évaluation des choix scientifiques et technologiques,Membre,2023-10-17,2026-09-30
 PA610860,assemblee,PA610860,commission,PO59051,"Commission des lois constitutionnelles, de la législation et de l'administration générale de la République",Lois,Membre,2012-06-28,2014-01-07
 PA610860,assemblee,PA610860,commission,PO59048,"Commission des finances, de l'économie générale et du contrôle budgétaire",Finances,Membre,2014-01-08,2014-01-15
 PA610860,assemblee,PA610860,commission,PO59046,Commission de la défense nationale et des forces armées,Défense,Membre,2014-01-13,2015-01-28
@@ -18189,7 +18190,8 @@ PA719372,assemblee,PA719372,commission,PO59051,"Commission des lois constitution
 PA719372,assemblee,PA719372,commission,PO59047,Commission des affaires étrangères,Affaires étrangères,Membre,2026-07-21,2026-07-21
 PA719372,assemblee,PA719372,commission,PO59051,"Commission des lois constitutionnelles, de la législation et de l'administration générale de la République",Lois,Membre,2026-07-22,2026-10-06
 PA719372,assemblee,PA719372,commission,PO59048,"Commission des finances, de l'économie générale et du contrôle budgétaire",Finances,Membre,2026-10-07,2026-10-09
-PA719372,assemblee,PA719372,commission,PO59051,"Commission des lois constitutionnelles, de la législation et de l'administration générale de la République",Lois,Membre,2026-10-10,
+PA719372,assemblee,PA719372,commission,PO59051,"Commission des lois constitutionnelles, de la législation et de l'administration générale de la République",Lois,Membre,2026-10-10,2026-10-16
+PA719372,assemblee,PA719372,commission,PO420120,Commission des affaires sociales,Affaires sociales,Membre,2026-10-17,
 PA719372,assemblee,PA719372,commission_enquete,PO742273,"Commission d’enquête chargée d’examiner les décisions de l’État en matière de politique industrielle, au regard des fusions d’entreprises intervenues récemment, notamment dans les cas d’Alstom, d’Alcatel et de STX, ainsi que les moyens susceptibles de protéger nos fleurons industriels nationaux dans un contexte commercial mondialisé",Commission d'enquête sur la politique industrielle,Membre,2017-11-14,2018-04-19
 PA719372,assemblee,PA719372,commission_enquete,PO742273,"Commission d’enquête chargée d’examiner les décisions de l’État en matière de politique industrielle, au regard des fusions d’entreprises intervenues récemment, notamment dans les cas d’Alstom, d’Alcatel et de STX, ainsi que les moyens susceptibles de protéger nos fleurons industriels nationaux dans un contexte commercial mondialisé",Commission d'enquête sur la politique industrielle,Rapporteur,2017-11-16,2018-04-19
 PA719372,assemblee,PA719372,commission_enquete,PO785110,Commission d’enquête chargée d’identifier les facteurs qui ont conduit à la chute de la part de l’industrie dans le PIB de la France et de définir les moyens à mettre en œuvre pour relocaliser l’industrie et notamment celle du médicament,CE politique industrielle,Membre,2021-07-28,2022-01-19
@@ -21384,7 +21386,8 @@ PA720390,assemblee,PA720390,commission,PO59051,"Commission des lois constitution
 PA720390,assemblee,PA720390,commission,PO420120,Commission des affaires sociales,Affaires sociales,Membre,2026-07-08,2026-09-21
 PA720390,assemblee,PA720390,commission,PO419610,Commission des affaires économiques,Affaires économiques,Membre,2026-09-22,2026-09-23
 PA720390,assemblee,PA720390,commission,PO420120,Commission des affaires sociales,Affaires sociales,Membre,2026-09-24,2026-10-15
-PA720390,assemblee,PA720390,commission,PO59048,"Commission des finances, de l'économie générale et du contrôle budgétaire",Finances,Membre,2026-10-16,
+PA720390,assemblee,PA720390,commission,PO59048,"Commission des finances, de l'économie générale et du contrôle budgétaire",Finances,Membre,2026-10-16,2026-10-16
+PA720390,assemblee,PA720390,commission,PO420120,Commission des affaires sociales,Affaires sociales,Membre,2026-10-17,
 PA720390,assemblee,PA720390,commission_speciale,PO883517,Commission spéciale chargée d’examiner le projet de loi relatif à la protection des enfants,CS Protection des enfants,Membre,2026-06-19,2026-07-03
 PA720390,assemblee,PA720390,groupe,PO840056,Non inscrit,NI,Député non-inscrit,2026-04-21,2026-04-21
 PA720390,assemblee,PA720390,groupe,PO845425,Droite Républicaine,DR,Membre du,2026-04-22,
@@ -23412,7 +23415,8 @@ PA721062,assemblee,PA721062,commission,PO419865,Commission du développement dur
 PA721062,assemblee,PA721062,commission,PO420120,Commission des affaires sociales,Affaires sociales,Membre,2026-05-21,2026-10-09
 PA721062,assemblee,PA721062,commission,PO59048,"Commission des finances, de l'économie générale et du contrôle budgétaire",Finances,Membre,2026-10-10,2026-10-13
 PA721062,assemblee,PA721062,commission,PO420120,Commission des affaires sociales,Affaires sociales,Membre,2026-10-14,2026-10-14
-PA721062,assemblee,PA721062,commission,PO59048,"Commission des finances, de l'économie générale et du contrôle budgétaire",Finances,Membre,2026-10-15,
+PA721062,assemblee,PA721062,commission,PO59048,"Commission des finances, de l'économie générale et du contrôle budgétaire",Finances,Membre,2026-10-15,2026-10-16
+PA721062,assemblee,PA721062,commission,PO419610,Commission des affaires économiques,Affaires économiques,Membre,2026-10-17,
 PA721062,assemblee,PA721062,commission_enquete,PO769019,"Commission d'enquête chargée d'évaluer les recherches, la prévention et les politiques publiques à mener contre la propagation des moustiques Aedes et des maladies vectorielles",Commission d'enquête sur la lutte contre la propagation des moustiques Aedes,Membre,2020-01-16,2020-07-29
 PA721062,assemblee,PA721062,commission_enquete,PO773520,Commission d’enquête sur l’évaluation des politiques publiques de santé environnementale,Commission d’enquête sur les politiques publiques de santé environnementale,Membre,2020-07-16,2020-12-16
 PA721062,assemblee,PA721062,commission_enquete,PO773520,Commission d’enquête sur l’évaluation des politiques publiques de santé environnementale,Commission d’enquête sur les politiques publiques de santé environnementale,Secrétaire,2020-09-08,2020-09-24
@@ -26755,7 +26759,7 @@ PA722070,assemblee,PA722070,office,PO273589,Office parlementaire d'évaluation d
 PA722070,assemblee,PA722070,office,PO273589,Office parlementaire d'évaluation des choix scientifiques et technologiques,office parlementaire d'évaluation des choix scientifiques et technologiques,Président,2022-07-19,2023-10-23
 PA722070,assemblee,PA722070,office,PO273589,Office parlementaire d'évaluation des choix scientifiques et technologiques,office parlementaire d'évaluation des choix scientifiques et technologiques,Premier Vice-Président,2023-10-24,2024-06-09
 PA722070,assemblee,PA722070,office,PO273589,Office parlementaire d'évaluation des choix scientifiques et technologiques,office parlementaire d'évaluation des choix scientifiques et technologiques,Membre,2024-09-20,
-PA722070,assemblee,PA722070,office,PO273589,Office parlementaire d'évaluation des choix scientifiques et technologiques,office parlementaire d'évaluation des choix scientifiques et technologiques,Premier Vice-Président,2024-10-03,
+PA722070,assemblee,PA722070,office,PO273589,Office parlementaire d'évaluation des choix scientifiques et technologiques,office parlementaire d'évaluation des choix scientifiques et technologiques,Premier Vice-Président,2024-10-03,2026-09-30
 PA722078,assemblee,PA722078,commission,PO59048,"Commission des finances, de l'économie générale et du contrôle budgétaire",Finances,Membre,2017-06-29,2020-08-24
 PA722078,assemblee,PA722078,commission_enquete,PO751337,"Commission d'enquête chargée de tirer les enseignements de l’affaire Lactalis et d’étudier à cet effet les dysfonctionnements des systèmes de contrôle et d’information, de la production à la distribution, et l’effectivité des décisions publiques",Commission d'enquête chargée de tirer les enseignements de l’affaire Lactalis,Membre,2018-03-09,2018-07-19
 PA722078,assemblee,PA722078,commission_speciale,PO757134,Commission spéciale chargée d'examiner le projet de loi relatif à la croissance et la transformation des entreprises,Commission spéciale sur la croissance et la transformation des entreprises,Membre,2018-06-27,2019-04-11
@@ -27693,7 +27697,7 @@ PA722366,assemblee,PA722366,office,PO273589,Office parlementaire d'évaluation d
 PA722366,assemblee,PA722366,office,PO273589,Office parlementaire d'évaluation des choix scientifiques et technologiques,office parlementaire d'évaluation des choix scientifiques et technologiques,Membre,2022-07-13,2024-06-09
 PA722366,assemblee,PA722366,office,PO273589,Office parlementaire d'évaluation des choix scientifiques et technologiques,office parlementaire d'évaluation des choix scientifiques et technologiques,Vice-Président,2022-07-19,2024-06-09
 PA722366,assemblee,PA722366,office,PO273589,Office parlementaire d'évaluation des choix scientifiques et technologiques,office parlementaire d'évaluation des choix scientifiques et technologiques,Membre,2024-09-20,
-PA722366,assemblee,PA722366,office,PO273589,Office parlementaire d'évaluation des choix scientifiques et technologiques,office parlementaire d'évaluation des choix scientifiques et technologiques,Vice-Président,2024-10-03,
+PA722366,assemblee,PA722366,office,PO273589,Office parlementaire d'évaluation des choix scientifiques et technologiques,office parlementaire d'évaluation des choix scientifiques et technologiques,Vice-Président,2024-10-03,2026-09-30
 PA722374,assemblee,PA722374,commission,PO420120,Commission des affaires sociales,Affaires sociales,Membre,2017-06-29,2022-06-21
 PA722374,assemblee,PA722374,commission,PO420120,Commission des affaires sociales,Affaires sociales,Secrétaire,2017-06-30,2022-06-21
 PA722374,assemblee,PA722374,commission,PO420120,Commission des affaires sociales,Affaires sociales,Membre,2022-06-30,2022-07-08
@@ -28311,7 +28315,7 @@ PA774958,assemblee,PA774958,office,PO273589,Office parlementaire d'évaluation d
 PA774958,assemblee,PA774958,office,PO273589,Office parlementaire d'évaluation des choix scientifiques et technologiques,office parlementaire d'évaluation des choix scientifiques et technologiques,Membre,2022-07-13,2024-06-09
 PA774958,assemblee,PA774958,office,PO273589,Office parlementaire d'évaluation des choix scientifiques et technologiques,office parlementaire d'évaluation des choix scientifiques et technologiques,Vice-Président,2022-07-19,2024-06-09
 PA774958,assemblee,PA774958,office,PO273589,Office parlementaire d'évaluation des choix scientifiques et technologiques,office parlementaire d'évaluation des choix scientifiques et technologiques,Membre,2024-09-20,
-PA774958,assemblee,PA774958,office,PO273589,Office parlementaire d'évaluation des choix scientifiques et technologiques,office parlementaire d'évaluation des choix scientifiques et technologiques,Vice-Président,2024-10-03,
+PA774958,assemblee,PA774958,office,PO273589,Office parlementaire d'évaluation des choix scientifiques et technologiques,office parlementaire d'évaluation des choix scientifiques et technologiques,Vice-Président,2024-10-03,2026-09-30
 PA774960,assemblee,PA774960,commission,PO59046,Commission de la défense nationale et des forces armées,Défense,Membre,2020-10-01,2021-01-26
 PA774960,assemblee,PA774960,commission,PO59051,"Commission des lois constitutionnelles, de la législation et de l'administration générale de la République",Lois,Membre,2021-01-27,2021-01-27
 PA774960,assemblee,PA774960,commission,PO59046,Commission de la défense nationale et des forces armées,Défense,Membre,2021-01-28,2021-02-09
@@ -28443,7 +28447,8 @@ PA774962,assemblee,PA774962,commission,PO59046,Commission de la défense nationa
 PA774962,assemblee,PA774962,commission,PO420120,Commission des affaires sociales,Affaires sociales,Membre,2026-06-05,2026-06-10
 PA774962,assemblee,PA774962,commission,PO59046,Commission de la défense nationale et des forces armées,Défense,Membre,2026-06-11,2026-06-11
 PA774962,assemblee,PA774962,commission,PO420120,Commission des affaires sociales,Affaires sociales,Membre,2026-06-12,2026-10-08
-PA774962,assemblee,PA774962,commission,PO59046,Commission de la défense nationale et des forces armées,Défense,Membre,2026-10-09,
+PA774962,assemblee,PA774962,commission,PO59046,Commission de la défense nationale et des forces armées,Défense,Membre,2026-10-09,2026-10-16
+PA774962,assemblee,PA774962,commission,PO420120,Commission des affaires sociales,Affaires sociales,Membre,2026-10-17,
 PA774962,assemblee,PA774962,commission_enquete,PO837135,Commission d’enquête sur les manquements des politiques de protection de l’enfance,CE Protection de l'enfance,Membre,2024-04-19,2024-06-09
 PA774962,assemblee,PA774962,commission_enquete,PO881988,"Commission d'enquête sur les causes et les conséquences de l'augmentation de la pauvreté, notamment pour les travailleurs séniors et les personnes âgées, et les manquements des politiques publiques pour y faire face",CE Augmentation de la pauvreté,Membre,2026-05-26,
 PA774962,assemblee,PA774962,commission_enquete,PO881988,"Commission d'enquête sur les causes et les conséquences de l'augmentation de la pauvreté, notamment pour les travailleurs séniors et les personnes âgées, et les manquements des politiques publiques pour y faire face",CE Augmentation de la pauvreté,Secrétaire,2026-06-17,
@@ -28632,7 +28637,8 @@ PA793094,assemblee,PA793094,commission,PO419604,Commission des affaires culturel
 PA793094,assemblee,PA793094,commission,PO59048,"Commission des finances, de l'économie générale et du contrôle budgétaire",Finances,Membre,2026-10-07,2026-10-09
 PA793094,assemblee,PA793094,commission,PO419604,Commission des affaires culturelles et de l'éducation,Affaires culturelles et éducation,Membre,2026-10-10,2026-10-12
 PA793094,assemblee,PA793094,commission,PO59048,"Commission des finances, de l'économie générale et du contrôle budgétaire",Finances,Membre,2026-10-13,2026-10-15
-PA793094,assemblee,PA793094,commission,PO420120,Commission des affaires sociales,Affaires sociales,Membre,2026-10-16,
+PA793094,assemblee,PA793094,commission,PO420120,Commission des affaires sociales,Affaires sociales,Membre,2026-10-16,2026-10-16
+PA793094,assemblee,PA793094,commission,PO59048,"Commission des finances, de l'économie générale et du contrôle budgétaire",Finances,Membre,2026-10-17,
 PA793094,assemblee,PA793094,commission_enquete,PO825984,Commission d'enquête sur la libéralisation du fret ferroviaire et ses conséquences pour l’avenir,CE Fret ferroviaire,Membre,2023-07-11,2023-12-13
 PA793094,assemblee,PA793094,commission_enquete,PO825984,Commission d'enquête sur la libéralisation du fret ferroviaire et ses conséquences pour l’avenir,CE Fret ferroviaire,Vice-Président,2023-07-19,2023-12-13
 PA793094,assemblee,PA793094,commission_enquete,PO834941,Commission d’enquête sur le montage juridique et financier du projet d’autoroute A69,CE Autoroute A69,Membre,2024-02-14,2024-06-09
@@ -29047,7 +29053,8 @@ PA793270,assemblee,PA793270,commission,PO420120,Commission des affaires sociales
 PA793270,assemblee,PA793270,commission,PO419610,Commission des affaires économiques,Affaires économiques,Membre,2026-05-05,2026-05-07
 PA793270,assemblee,PA793270,commission,PO420120,Commission des affaires sociales,Affaires sociales,Membre,2026-05-08,2026-06-16
 PA793270,assemblee,PA793270,commission,PO59048,"Commission des finances, de l'économie générale et du contrôle budgétaire",Finances,Membre,2026-06-17,2026-06-17
-PA793270,assemblee,PA793270,commission,PO420120,Commission des affaires sociales,Affaires sociales,Membre,2026-06-18,
+PA793270,assemblee,PA793270,commission,PO420120,Commission des affaires sociales,Affaires sociales,Membre,2026-06-18,2026-10-16
+PA793270,assemblee,PA793270,commission,PO59047,Commission des affaires étrangères,Affaires étrangères,Membre,2026-10-17,
 PA793270,assemblee,PA793270,commission_enquete,PO834941,Commission d’enquête sur le montage juridique et financier du projet d’autoroute A69,CE Autoroute A69,Membre,2024-02-14,2024-06-09
 PA793270,assemblee,PA793270,commission_enquete,PO834941,Commission d’enquête sur le montage juridique et financier du projet d’autoroute A69,CE Autoroute A69,Secrétaire,2024-02-15,2024-06-09
 PA793270,assemblee,PA793270,commission_enquete,PO865173,Commission d’enquête relative à l’organisation du système de santé et aux difficultés d’accès aux soins,CE Accès aux soins,Membre,2025-03-03,2025-07-03
@@ -30171,7 +30178,8 @@ PA793708,assemblee,PA793708,commission,PO419865,Commission du développement dur
 PA793708,assemblee,PA793708,commission,PO420120,Commission des affaires sociales,Affaires sociales,Membre,2026-10-07,2026-10-13
 PA793708,assemblee,PA793708,commission,PO59051,"Commission des lois constitutionnelles, de la législation et de l'administration générale de la République",Lois,Membre,2026-10-14,2026-10-14
 PA793708,assemblee,PA793708,commission,PO420120,Commission des affaires sociales,Affaires sociales,Membre,2026-10-15,2026-10-15
-PA793708,assemblee,PA793708,commission,PO59047,Commission des affaires étrangères,Affaires étrangères,Membre,2026-10-16,
+PA793708,assemblee,PA793708,commission,PO59047,Commission des affaires étrangères,Affaires étrangères,Membre,2026-10-16,2026-10-16
+PA793708,assemblee,PA793708,commission,PO420120,Commission des affaires sociales,Affaires sociales,Membre,2026-10-17,
 PA793708,assemblee,PA793708,commission_enquete,PO837135,Commission d’enquête sur les manquements des politiques de protection de l’enfance,CE Protection de l'enfance,Membre,2024-04-19,2024-05-15
 PA793708,assemblee,PA793708,commission_enquete,PO837135,Commission d’enquête sur les manquements des politiques de protection de l’enfance,CE Protection de l'enfance,Membre,2024-05-17,2024-05-18
 PA793708,assemblee,PA793708,commission_enquete,PO837135,Commission d’enquête sur les manquements des politiques de protection de l’enfance,CE Protection de l'enfance,Membre,2024-05-24,2024-06-03
@@ -30294,7 +30302,9 @@ PA793736,assemblee,PA793736,commission,PO59051,"Commission des lois constitution
 PA793736,assemblee,PA793736,commission,PO420120,Commission des affaires sociales,Affaires sociales,Membre,2026-07-16,2026-10-15
 PA793736,assemblee,PA793736,commission,PO420120,Commission des affaires sociales,Affaires sociales,Vice-président,2026-07-16,2026-09-30
 PA793736,assemblee,PA793736,commission,PO420120,Commission des affaires sociales,Affaires sociales,Vice-président,2026-10-01,2026-10-15
-PA793736,assemblee,PA793736,commission,PO59048,"Commission des finances, de l'économie générale et du contrôle budgétaire",Finances,Membre,2026-10-16,
+PA793736,assemblee,PA793736,commission,PO59048,"Commission des finances, de l'économie générale et du contrôle budgétaire",Finances,Membre,2026-10-16,2026-10-16
+PA793736,assemblee,PA793736,commission,PO420120,Commission des affaires sociales,Affaires sociales,Membre,2026-10-17,
+PA793736,assemblee,PA793736,commission,PO420120,Commission des affaires sociales,Affaires sociales,Vice-président,2026-10-17,
 PA793736,assemblee,PA793736,commission_enquete,PO866653,Commission d’enquête sur les défaillances des pouvoirs publics face à la multiplication des plans de licenciements,CE Licenciements,Membre,2025-03-19,2025-05-07
 PA793736,assemblee,PA793736,commission_enquete,PO872098,Commission d'enquête sur les liens existants entre les représentants de mouvements politiques et des organisations et réseaux soutenant l’action terroriste ou propageant l’idéologie islamiste,CE Mouvements politiques et islamisme,Membre,2025-07-01,2025-10-06
 PA793736,assemblee,PA793736,commission_enquete,PO872098,Commission d'enquête sur les liens existants entre les représentants de mouvements politiques et des organisations et réseaux soutenant l’action terroriste ou propageant l’idéologie islamiste,CE Mouvements politiques et islamisme,Membre,2025-10-08,2025-12-05
@@ -30837,7 +30847,8 @@ PA793924,assemblee,PA793924,commission,PO420120,Commission des affaires sociales
 PA793924,assemblee,PA793924,commission,PO59051,"Commission des lois constitutionnelles, de la législation et de l'administration générale de la République",Lois,Membre,2026-07-22,2026-08-06
 PA793924,assemblee,PA793924,commission,PO59047,Commission des affaires étrangères,Affaires étrangères,Membre,2026-08-07,2026-10-09
 PA793924,assemblee,PA793924,commission,PO420120,Commission des affaires sociales,Affaires sociales,Membre,2026-10-10,2026-10-12
-PA793924,assemblee,PA793924,commission,PO59047,Commission des affaires étrangères,Affaires étrangères,Membre,2026-10-13,
+PA793924,assemblee,PA793924,commission,PO59047,Commission des affaires étrangères,Affaires étrangères,Membre,2026-10-13,2026-10-16
+PA793924,assemblee,PA793924,commission,PO420120,Commission des affaires sociales,Affaires sociales,Membre,2026-10-17,
 PA793924,assemblee,PA793924,groupe,PO840056,Non inscrit,NI,Députée non-inscrite,2026-07-20,2026-07-20
 PA793924,assemblee,PA793924,groupe,PO845407,Ensemble pour la République,EPR,Membre du,2026-07-21,
 PA793928,assemblee,PA793928,commission,PO59051,"Commission des lois constitutionnelles, de la législation et de l'administration générale de la République",Lois,Membre,2022-06-30,2024-06-09
@@ -31267,7 +31278,8 @@ PA794022,assemblee,PA794022,commission,PO419604,Commission des affaires culturel
 PA794022,assemblee,PA794022,commission,PO59051,"Commission des lois constitutionnelles, de la législation et de l'administration générale de la République",Lois,Membre,2026-05-21,2026-06-19
 PA794022,assemblee,PA794022,commission,PO419865,Commission du développement durable et de l'aménagement du territoire,Développement durable,Membre,2026-06-20,2026-06-22
 PA794022,assemblee,PA794022,commission,PO59051,"Commission des lois constitutionnelles, de la législation et de l'administration générale de la République",Lois,Membre,2026-06-23,2026-09-30
-PA794022,assemblee,PA794022,commission,PO419604,Commission des affaires culturelles et de l'éducation,Affaires culturelles et éducation,Membre,2026-10-01,
+PA794022,assemblee,PA794022,commission,PO419604,Commission des affaires culturelles et de l'éducation,Affaires culturelles et éducation,Membre,2026-10-01,2026-10-16
+PA794022,assemblee,PA794022,commission,PO59047,Commission des affaires étrangères,Affaires étrangères,Membre,2026-10-17,
 PA794022,assemblee,PA794022,commission_enquete,PO874480,"Commission d’enquête sur la neutralité, le fonctionnement et le financement de l’audiovisuel public",CE Audiovisuel public,Membre,2025-11-04,2026-04-27
 PA794022,assemblee,PA794022,commission_speciale,PO837835,Commission spéciale chargée d’examiner la proposition de loi organique relative à l’extension des prélèvements sur les recettes de l’État au profit des organismes du secteur audiovisuel public,CS PPLO PSR au profit du secteur audiovisuel public,Membre,2024-05-18,2024-06-09
 PA794022,assemblee,PA794022,commission_speciale,PO849323,Commission spéciale chargée d’examiner la proposition de loi organique portant réforme du financement de l’audiovisuel public,CS PPLO réforme du financement de l'audiovisuel public,Membre,2024-10-24,2024-11-20
@@ -31297,7 +31309,8 @@ PA794038,assemblee,PA794038,commission,PO59046,Commission de la défense nationa
 PA794038,assemblee,PA794038,commission,PO420120,Commission des affaires sociales,Affaires sociales,Membre,2026-01-20,2026-06-09
 PA794038,assemblee,PA794038,commission,PO59051,"Commission des lois constitutionnelles, de la législation et de l'administration générale de la République",Lois,Membre,2026-06-10,2026-06-10
 PA794038,assemblee,PA794038,commission,PO420120,Commission des affaires sociales,Affaires sociales,Membre,2026-06-11,2026-10-15
-PA794038,assemblee,PA794038,commission,PO59048,"Commission des finances, de l'économie générale et du contrôle budgétaire",Finances,Membre,2026-10-16,
+PA794038,assemblee,PA794038,commission,PO59048,"Commission des finances, de l'économie générale et du contrôle budgétaire",Finances,Membre,2026-10-16,2026-10-16
+PA794038,assemblee,PA794038,commission,PO420120,Commission des affaires sociales,Affaires sociales,Membre,2026-10-17,
 PA794038,assemblee,PA794038,commission_enquete,PO825311,Commission d’enquête sur les causes de l’incapacité de la France à atteindre les objectifs des plans successifs de maîtrise des impacts des produits phytosanitaires sur la santé humaine et environnementale et notamment sur les conditions de l’exercice des missions des autorités publiques en charge de la sécurité sanitaire,CE Pesticides,Membre,2023-06-27,2023-12-14
 PA794038,assemblee,PA794038,commission_enquete,PO825311,Commission d’enquête sur les causes de l’incapacité de la France à atteindre les objectifs des plans successifs de maîtrise des impacts des produits phytosanitaires sur la santé humaine et environnementale et notamment sur les conditions de l’exercice des missions des autorités publiques en charge de la sécurité sanitaire,CE Pesticides,Secrétaire,2023-07-05,2023-12-14
 PA794038,assemblee,PA794038,commission_enquete,PO837144,Commission d’enquête sur les difficultés d’accès aux soins à l’hôpital public,CE Hôpital public,Membre,2024-04-19,2024-06-09
@@ -31686,7 +31699,8 @@ PA794138,assemblee,PA794138,commission,PO419610,Commission des affaires économi
 PA794138,assemblee,PA794138,commission,PO420120,Commission des affaires sociales,Affaires sociales,Membre,2026-06-09,2026-06-12
 PA794138,assemblee,PA794138,commission,PO59048,"Commission des finances, de l'économie générale et du contrôle budgétaire",Finances,Membre,2026-06-13,2026-06-15
 PA794138,assemblee,PA794138,commission,PO420120,Commission des affaires sociales,Affaires sociales,Membre,2026-06-16,2026-10-15
-PA794138,assemblee,PA794138,commission,PO419610,Commission des affaires économiques,Affaires économiques,Membre,2026-10-16,
+PA794138,assemblee,PA794138,commission,PO419610,Commission des affaires économiques,Affaires économiques,Membre,2026-10-16,2026-10-16
+PA794138,assemblee,PA794138,commission,PO420120,Commission des affaires sociales,Affaires sociales,Membre,2026-10-17,
 PA794138,assemblee,PA794138,commission_enquete,PO806417,Commission d’enquête chargée de faire la lumière sur les dysfonctionnements au sein de l’administration pénitentiaire et de l’appareil judiciaire ayant conduit à l’assassinat d’un détenu le 2 mars 2022 à la maison centrale d’Arles,Commission d'enquête sur l'assassinat d'un détenu à la maison centrale d'Arles,Membre,2022-12-07,2023-05-24
 PA794138,assemblee,PA794138,commission_enquete,PO806417,Commission d’enquête chargée de faire la lumière sur les dysfonctionnements au sein de l’administration pénitentiaire et de l’appareil judiciaire ayant conduit à l’assassinat d’un détenu le 2 mars 2022 à la maison centrale d’Arles,Commission d'enquête sur l'assassinat d'un détenu à la maison centrale d'Arles,Secrétaire,2022-12-13,2023-05-24
 PA794138,assemblee,PA794138,commission_enquete,PO831733,"Commission d’enquête sur l’attribution, le contenu et le contrôle des autorisations de services de télévision à caractère national sur la télévision numérique terrestre",CE Autorisations diffusion TNT,Membre,2023-11-15,2024-03-13
@@ -31890,7 +31904,8 @@ PA794166,assemblee,PA794166,commission,PO59046,Commission de la défense nationa
 PA794166,assemblee,PA794166,commission,PO420120,Commission des affaires sociales,Affaires sociales,Membre,2026-09-23,2026-09-23
 PA794166,assemblee,PA794166,commission,PO419610,Commission des affaires économiques,Affaires économiques,Membre,2026-09-24,2026-09-28
 PA794166,assemblee,PA794166,commission,PO420120,Commission des affaires sociales,Affaires sociales,Membre,2026-09-29,2026-09-29
-PA794166,assemblee,PA794166,commission,PO419610,Commission des affaires économiques,Affaires économiques,Membre,2026-09-30,
+PA794166,assemblee,PA794166,commission,PO419610,Commission des affaires économiques,Affaires économiques,Membre,2026-09-30,2026-10-16
+PA794166,assemblee,PA794166,commission,PO420120,Commission des affaires sociales,Affaires sociales,Membre,2026-10-17,
 PA794166,assemblee,PA794166,commission_enquete,PO805243,Commission d'enquête visant à établir les raisons de la perte de souveraineté et d'indépendance énergétique de la France,Commission d'enquête sur l'indépendance énergétique,Membre,2022-10-18,2023-01-18
 PA794166,assemblee,PA794166,commission_enquete,PO865164,Commission d’enquête visant à établir les freins à la réindustrialisation de la France,CE Réindustrialisation,Membre,2025-03-03,2025-07-10
 PA794166,assemblee,PA794166,commission_enquete,PO877017,Commission d’enquête sur la prédation des capacités productives françaises par les fonds spéculatifs,CE Fonds spéculatifs,Membre,2025-12-23,2026-01-05
@@ -32620,7 +32635,7 @@ PA794570,assemblee,PA794570,groupe,PO840056,Non inscrit,NI,Député non-inscrit,
 PA794570,assemblee,PA794570,groupe,PO845401,Rassemblement National,RN,Membre du,2024-07-19,
 PA794570,assemblee,PA794570,office,PO273589,Office parlementaire d'évaluation des choix scientifiques et technologiques,office parlementaire d'évaluation des choix scientifiques et technologiques,Membre,2022-07-19,2024-06-09
 PA794570,assemblee,PA794570,office,PO273589,Office parlementaire d'évaluation des choix scientifiques et technologiques,office parlementaire d'évaluation des choix scientifiques et technologiques,Membre,2024-09-20,
-PA794570,assemblee,PA794570,office,PO273589,Office parlementaire d'évaluation des choix scientifiques et technologiques,office parlementaire d'évaluation des choix scientifiques et technologiques,Vice-Président,2024-10-03,
+PA794570,assemblee,PA794570,office,PO273589,Office parlementaire d'évaluation des choix scientifiques et technologiques,office parlementaire d'évaluation des choix scientifiques et technologiques,Vice-Président,2024-10-03,2026-09-30
 PA794578,assemblee,PA794578,commission,PO419604,Commission des affaires culturelles et de l'éducation,Affaires culturelles et éducation,Membre,2026-03-24,
 PA794578,assemblee,PA794578,commission_speciale,PO883517,Commission spéciale chargée d’examiner le projet de loi relatif à la protection des enfants,CS Protection des enfants,Membre,2026-06-19,
 PA794578,assemblee,PA794578,groupe,PO840056,Non inscrit,NI,Députée non-inscrite,2026-03-02,2026-03-22
@@ -33130,7 +33145,8 @@ PA794786,assemblee,PA794786,commission,PO59046,Commission de la défense nationa
 PA794786,assemblee,PA794786,commission,PO420120,Commission des affaires sociales,Affaires sociales,Membre,2026-06-10,2026-06-10
 PA794786,assemblee,PA794786,commission,PO59046,Commission de la défense nationale et des forces armées,Défense,Membre,2026-06-11,2026-09-30
 PA794786,assemblee,PA794786,commission,PO420120,Commission des affaires sociales,Affaires sociales,Membre,2026-10-01,2026-10-06
-PA794786,assemblee,PA794786,commission,PO59046,Commission de la défense nationale et des forces armées,Défense,Membre,2026-10-07,
+PA794786,assemblee,PA794786,commission,PO59046,Commission de la défense nationale et des forces armées,Défense,Membre,2026-10-07,2026-10-16
+PA794786,assemblee,PA794786,commission,PO420120,Commission des affaires sociales,Affaires sociales,Membre,2026-10-17,
 PA794786,assemblee,PA794786,commission_enquete,PO837144,Commission d’enquête sur les difficultés d’accès aux soins à l’hôpital public,CE Hôpital public,Membre,2024-04-19,2024-06-09
 PA794786,assemblee,PA794786,commission_enquete,PO865164,Commission d’enquête visant à établir les freins à la réindustrialisation de la France,CE Réindustrialisation,Membre,2025-03-03,2025-07-10
 PA794786,assemblee,PA794786,commission_enquete,PO852507,Commission d'enquête concernant l’organisation des élections en France,CE Organisation des élections,Membre,2025-05-28,2025-05-28
@@ -34193,7 +34209,8 @@ PA795108,assemblee,PA795108,commission,PO419865,Commission du développement dur
 PA795108,assemblee,PA795108,commission,PO420120,Commission des affaires sociales,Affaires sociales,Membre,2026-02-04,2026-10-06
 PA795108,assemblee,PA795108,commission,PO59051,"Commission des lois constitutionnelles, de la législation et de l'administration générale de la République",Lois,Membre,2026-10-07,2026-10-07
 PA795108,assemblee,PA795108,commission,PO420120,Commission des affaires sociales,Affaires sociales,Membre,2026-10-08,2026-10-15
-PA795108,assemblee,PA795108,commission,PO59051,"Commission des lois constitutionnelles, de la législation et de l'administration générale de la République",Lois,Membre,2026-10-16,
+PA795108,assemblee,PA795108,commission,PO59051,"Commission des lois constitutionnelles, de la législation et de l'administration générale de la République",Lois,Membre,2026-10-16,2026-10-16
+PA795108,assemblee,PA795108,commission,PO420120,Commission des affaires sociales,Affaires sociales,Membre,2026-10-17,
 PA795108,assemblee,PA795108,commission_enquete,PO832773,Commission d’enquête sur le modèle économique des crèches et sur la qualité de l’accueil des jeunes enfants au sein de leurs établissements,CE Crèches,Membre,2023-12-07,2024-05-27
 PA795108,assemblee,PA795108,commission_enquete,PO872476,Commission d’enquête sur les défaillances des politiques publiques de prise en charge de la santé mentale et du handicap et les coûts de ces défaillances pour la société,CE Santé mentale,Membre,2025-07-08,2025-12-10
 PA795108,assemblee,PA795108,commission_speciale,PO836892,Commission spéciale pour l’examen du projet de loi relatif à l’accompagnement des malades et de la fin de vie,CS Fin de vie,Membre,2024-04-10,2024-06-09
@@ -34438,7 +34455,8 @@ PA795164,assemblee,PA795164,commission,PO59047,Commission des affaires étrangè
 PA795164,assemblee,PA795164,commission,PO419610,Commission des affaires économiques,Affaires économiques,Membre,2026-10-08,2026-10-08
 PA795164,assemblee,PA795164,commission,PO59048,"Commission des finances, de l'économie générale et du contrôle budgétaire",Finances,Membre,2026-10-09,2026-10-13
 PA795164,assemblee,PA795164,commission,PO419610,Commission des affaires économiques,Affaires économiques,Membre,2026-10-14,2026-10-15
-PA795164,assemblee,PA795164,commission,PO420120,Commission des affaires sociales,Affaires sociales,Membre,2026-10-16,
+PA795164,assemblee,PA795164,commission,PO420120,Commission des affaires sociales,Affaires sociales,Membre,2026-10-16,2026-10-16
+PA795164,assemblee,PA795164,commission,PO419610,Commission des affaires économiques,Affaires économiques,Membre,2026-10-17,
 PA795164,assemblee,PA795164,commission_enquete,PO820615,Commission d'enquête sur le coût de la vie dans les collectivités territoriales régies par les articles 73 et 74 de la Constitution,CE Coût de la vie en outre-mer,Membre,2023-02-16,2023-07-20
 PA795164,assemblee,PA795164,commission_enquete,PO835509,Commission d’enquête visant à établir les raisons de la perte de souveraineté alimentaire de la France,CE Souveraineté alimentaire,Membre,2024-03-13,2024-06-09
 PA795164,assemblee,PA795164,commission_enquete,PO877017,Commission d’enquête sur la prédation des capacités productives françaises par les fonds spéculatifs,CE Fonds spéculatifs,Membre,2025-12-23,2026-06-09
@@ -34914,7 +34932,8 @@ PA795298,assemblee,PA795298,commission,PO59047,Commission des affaires étrangè
 PA795298,assemblee,PA795298,commission,PO59051,"Commission des lois constitutionnelles, de la législation et de l'administration générale de la République",Lois,Membre,2026-05-28,2026-06-25
 PA795298,assemblee,PA795298,commission,PO59048,"Commission des finances, de l'économie générale et du contrôle budgétaire",Finances,Membre,2026-06-26,2026-06-26
 PA795298,assemblee,PA795298,commission,PO59051,"Commission des lois constitutionnelles, de la législation et de l'administration générale de la République",Lois,Membre,2026-06-27,2026-10-15
-PA795298,assemblee,PA795298,commission,PO420120,Commission des affaires sociales,Affaires sociales,Membre,2026-10-16,
+PA795298,assemblee,PA795298,commission,PO420120,Commission des affaires sociales,Affaires sociales,Membre,2026-10-16,2026-10-16
+PA795298,assemblee,PA795298,commission,PO59051,"Commission des lois constitutionnelles, de la législation et de l'administration générale de la République",Lois,Membre,2026-10-17,
 PA795298,assemblee,PA795298,commission_enquete,PO878968,Commission d’enquête relative à l’imposition des plus hauts patrimoines et des revenus les plus élevés et à leur contribution au financement des services publics,CE Imposition hauts patrimoines,Membre,2026-02-24,2026-02-25
 PA795298,assemblee,PA795298,delegation,PO804431,Délégation aux droits des enfants,Délégation aux droits des enfants,Membre,2024-09-27,2024-10-02
 PA795298,assemblee,PA795298,groupe,PO793087,Non inscrit,NI,Député non-inscrit,2022-06-22,2022-06-28
@@ -35013,7 +35032,8 @@ PA795318,assemblee,PA795318,commission,PO420120,Commission des affaires sociales
 PA795318,assemblee,PA795318,commission,PO419610,Commission des affaires économiques,Affaires économiques,Membre,2026-06-13,2026-06-15
 PA795318,assemblee,PA795318,commission,PO420120,Commission des affaires sociales,Affaires sociales,Membre,2026-06-16,2026-09-30
 PA795318,assemblee,PA795318,commission,PO59046,Commission de la défense nationale et des forces armées,Défense,Membre,2026-10-01,2026-10-06
-PA795318,assemblee,PA795318,commission,PO420120,Commission des affaires sociales,Affaires sociales,Membre,2026-10-07,
+PA795318,assemblee,PA795318,commission,PO420120,Commission des affaires sociales,Affaires sociales,Membre,2026-10-07,2026-10-16
+PA795318,assemblee,PA795318,commission,PO59046,Commission de la défense nationale et des forces armées,Défense,Membre,2026-10-17,
 PA795318,assemblee,PA795318,commission_enquete,PO831733,"Commission d’enquête sur l’attribution, le contenu et le contrôle des autorisations de services de télévision à caractère national sur la télévision numérique terrestre",CE Autorisations diffusion TNT,Membre,2024-03-13,2024-03-13
 PA795318,assemblee,PA795318,commission_enquete,PO866653,Commission d’enquête sur les défaillances des pouvoirs publics face à la multiplication des plans de licenciements,CE Licenciements,Membre,2025-03-19,2025-07-09
 PA795318,assemblee,PA795318,commission_enquete,PO866653,Commission d’enquête sur les défaillances des pouvoirs publics face à la multiplication des plans de licenciements,CE Licenciements,Vice-Président,2025-03-20,2025-07-09
@@ -35302,6 +35322,7 @@ PA795374,assemblee,PA795374,groupe,PO793087,Non inscrit,NI,Député non-inscrit,
 PA795374,assemblee,PA795374,groupe,PO800484,Démocrate (MoDem et Indépendants),Dem,Membre du,2022-06-29,2024-06-09
 PA795374,assemblee,PA795374,groupe,PO840056,Non inscrit,NI,Député non-inscrit,2024-07-08,2024-07-18
 PA795374,assemblee,PA795374,groupe,PO845454,Les Démocrates,Dem,Membre du,2024-07-19,
+PA795374,assemblee,PA795374,office,PO273589,Office parlementaire d'évaluation des choix scientifiques et technologiques,office parlementaire d'évaluation des choix scientifiques et technologiques,Membre,2026-10-17,
 PA795386,assemblee,PA795386,commission,PO59048,"Commission des finances, de l'économie générale et du contrôle budgétaire",Finances,Membre,2022-06-30,2023-04-04
 PA795386,assemblee,PA795386,commission,PO59051,"Commission des lois constitutionnelles, de la législation et de l'administration générale de la République",Lois,Membre,2023-04-05,2023-04-05
 PA795386,assemblee,PA795386,commission,PO59048,"Commission des finances, de l'économie générale et du contrôle budgétaire",Finances,Membre,2023-04-06,2023-05-02
@@ -35484,7 +35505,8 @@ PA795422,assemblee,PA795422,commission,PO59046,Commission de la défense nationa
 PA795422,assemblee,PA795422,commission,PO59048,"Commission des finances, de l'économie générale et du contrôle budgétaire",Finances,Membre,2026-10-07,2026-10-09
 PA795422,assemblee,PA795422,commission,PO420120,Commission des affaires sociales,Affaires sociales,Membre,2026-10-10,2026-10-12
 PA795422,assemblee,PA795422,commission,PO59048,"Commission des finances, de l'économie générale et du contrôle budgétaire",Finances,Membre,2026-10-13,2026-10-14
-PA795422,assemblee,PA795422,commission,PO420120,Commission des affaires sociales,Affaires sociales,Membre,2026-10-15,
+PA795422,assemblee,PA795422,commission,PO420120,Commission des affaires sociales,Affaires sociales,Membre,2026-10-15,2026-10-16
+PA795422,assemblee,PA795422,commission,PO59048,"Commission des finances, de l'économie générale et du contrôle budgétaire",Finances,Membre,2026-10-17,
 PA795422,assemblee,PA795422,commission_enquete,PO837144,Commission d’enquête sur les difficultés d’accès aux soins à l’hôpital public,CE Hôpital public,Membre,2024-04-19,2024-06-09
 PA795422,assemblee,PA795422,commission_enquete,PO837144,Commission d’enquête sur les difficultés d’accès aux soins à l’hôpital public,CE Hôpital public,Vice-Président,2024-04-30,2024-06-09
 PA795422,assemblee,PA795422,commission_enquete,PO865173,Commission d’enquête relative à l’organisation du système de santé et aux difficultés d’accès aux soins,CE Accès aux soins,Membre,2025-03-03,2025-07-03
@@ -35819,7 +35841,9 @@ PA795516,assemblee,PA795516,commission,PO59048,"Commission des finances, de l'é
 PA795516,assemblee,PA795516,commission,PO419610,Commission des affaires économiques,Affaires économiques,Membre,2026-10-09,2026-10-12
 PA795516,assemblee,PA795516,commission,PO419610,Commission des affaires économiques,Affaires économiques,Secrétaire,2026-10-09,2026-10-12
 PA795516,assemblee,PA795516,commission,PO419865,Commission du développement durable et de l'aménagement du territoire,Développement durable,Membre,2026-10-13,2026-10-15
-PA795516,assemblee,PA795516,commission,PO420120,Commission des affaires sociales,Affaires sociales,Membre,2026-10-16,
+PA795516,assemblee,PA795516,commission,PO420120,Commission des affaires sociales,Affaires sociales,Membre,2026-10-16,2026-10-16
+PA795516,assemblee,PA795516,commission,PO419610,Commission des affaires économiques,Affaires économiques,Membre,2026-10-17,
+PA795516,assemblee,PA795516,commission,PO419610,Commission des affaires économiques,Affaires économiques,Secrétaire,2026-10-17,
 PA795516,assemblee,PA795516,commission_enquete,PO805243,Commission d'enquête visant à établir les raisons de la perte de souveraineté et d'indépendance énergétique de la France,Commission d'enquête sur l'indépendance énergétique,Membre,2022-10-18,2023-03-30
 PA795516,assemblee,PA795516,commission_enquete,PO854138,"Commission d’enquête relative à la politique française d’expérimentation nucléaire, à l’ensemble des conséquences de l’installation et des opérations du Centre d’expérimentation du Pacifique en Polynésie française, à la reconnaissance, à la prise en charge et à l’indemnisation des victimes des essais nucléaires français, ainsi qu’à la reconnaissance des dommages environnementaux et à leur réparation",CE Essais nucléaires,Membre,2025-01-08,2025-06-10
 PA795516,assemblee,PA795516,commission_enquete,PO854138,"Commission d’enquête relative à la politique française d’expérimentation nucléaire, à l’ensemble des conséquences de l’installation et des opérations du Centre d’expérimentation du Pacifique en Polynésie française, à la reconnaissance, à la prise en charge et à l’indemnisation des victimes des essais nucléaires français, ainsi qu’à la reconnaissance des dommages environnementaux et à leur réparation",CE Essais nucléaires,Secrétaire,2025-01-14,2025-06-10
@@ -36019,7 +36043,8 @@ PA795616,assemblee,PA795616,commission,PO59047,Commission des affaires étrangè
 PA795616,assemblee,PA795616,commission,PO59048,"Commission des finances, de l'économie générale et du contrôle budgétaire",Finances,Membre,2025-12-23,2026-05-26
 PA795616,assemblee,PA795616,commission,PO59047,Commission des affaires étrangères,Affaires étrangères,Membre,2026-05-27,2026-05-27
 PA795616,assemblee,PA795616,commission,PO59048,"Commission des finances, de l'économie générale et du contrôle budgétaire",Finances,Membre,2026-05-28,2026-10-15
-PA795616,assemblee,PA795616,commission,PO420120,Commission des affaires sociales,Affaires sociales,Membre,2026-10-16,
+PA795616,assemblee,PA795616,commission,PO420120,Commission des affaires sociales,Affaires sociales,Membre,2026-10-16,2026-10-16
+PA795616,assemblee,PA795616,commission,PO59048,"Commission des finances, de l'économie générale et du contrôle budgétaire",Finances,Membre,2026-10-17,
 PA795616,assemblee,PA795616,delegation,PO675659,Délégation aux outre-mer,Délégation aux outre-mer,Membre,2023-06-22,2023-06-22
 PA795616,assemblee,PA795616,groupe,PO793087,Non inscrit,NI,Député non-inscrit,2022-06-22,2022-06-28
 PA795616,assemblee,PA795616,groupe,PO800490,La France insoumise - Nouvelle Union Populaire écologique et sociale,LFI - NUPES,Membre du,2022-06-29,2024-06-09
@@ -36495,7 +36520,8 @@ PA795808,assemblee,PA795808,commission,PO59051,"Commission des lois constitution
 PA795808,assemblee,PA795808,commission,PO59047,Commission des affaires étrangères,Affaires étrangères,Membre,2026-03-31,2026-05-18
 PA795808,assemblee,PA795808,commission,PO59051,"Commission des lois constitutionnelles, de la législation et de l'administration générale de la République",Lois,Membre,2026-05-19,2026-05-19
 PA795808,assemblee,PA795808,commission,PO59047,Commission des affaires étrangères,Affaires étrangères,Membre,2026-05-20,2026-10-15
-PA795808,assemblee,PA795808,commission,PO420120,Commission des affaires sociales,Affaires sociales,Membre,2026-10-16,
+PA795808,assemblee,PA795808,commission,PO420120,Commission des affaires sociales,Affaires sociales,Membre,2026-10-16,2026-10-16
+PA795808,assemblee,PA795808,commission,PO59047,Commission des affaires étrangères,Affaires étrangères,Membre,2026-10-17,
 PA795808,assemblee,PA795808,commission_enquete,PO820615,Commission d'enquête sur le coût de la vie dans les collectivités territoriales régies par les articles 73 et 74 de la Constitution,CE Coût de la vie en outre-mer,Membre,2023-02-16,2023-07-20
 PA795808,assemblee,PA795808,commission_enquete,PO820615,Commission d'enquête sur le coût de la vie dans les collectivités territoriales régies par les articles 73 et 74 de la Constitution,CE Coût de la vie en outre-mer,Secrétaire,2023-03-09,2023-07-20
 PA795808,assemblee,PA795808,commission_enquete,PO825320,"Commission d’enquête relative à l’identification des défaillances de fonctionnement au sein des fédérations françaises de sport, du mouvement sportif et des organismes de gouvernance du monde sportif en tant qu’elles ont délégation de service public",CE Fédérations françaises de sport,Membre,2023-06-28,2023-12-19
@@ -36629,7 +36655,8 @@ PA795844,assemblee,PA795844,commission,PO419610,Commission des affaires économi
 PA795844,assemblee,PA795844,commission,PO420120,Commission des affaires sociales,Affaires sociales,Membre,2026-05-28,2026-10-06
 PA795844,assemblee,PA795844,commission,PO419610,Commission des affaires économiques,Affaires économiques,Membre,2026-10-07,2026-10-07
 PA795844,assemblee,PA795844,commission,PO420120,Commission des affaires sociales,Affaires sociales,Membre,2026-10-08,2026-10-15
-PA795844,assemblee,PA795844,commission,PO419610,Commission des affaires économiques,Affaires économiques,Membre,2026-10-16,
+PA795844,assemblee,PA795844,commission,PO419610,Commission des affaires économiques,Affaires économiques,Membre,2026-10-16,2026-10-16
+PA795844,assemblee,PA795844,commission,PO419865,Commission du développement durable et de l'aménagement du territoire,Développement durable,Membre,2026-10-17,
 PA795844,assemblee,PA795844,commission_enquete,PO834941,Commission d’enquête sur le montage juridique et financier du projet d’autoroute A69,CE Autoroute A69,Membre,2024-02-14,2024-06-09
 PA795844,assemblee,PA795844,commission_enquete,PO834941,Commission d’enquête sur le montage juridique et financier du projet d’autoroute A69,CE Autoroute A69,Vice-Présidente,2024-02-15,2024-06-09
 PA795844,assemblee,PA795844,commission_enquete,PO872476,Commission d’enquête sur les défaillances des politiques publiques de prise en charge de la santé mentale et du handicap et les coûts de ces défaillances pour la société,CE Santé mentale,Membre,2025-07-08,2025-12-10
@@ -37206,7 +37233,8 @@ PA795962,assemblee,PA795962,commission,PO59048,"Commission des finances, de l'é
 PA795962,assemblee,PA795962,commission,PO419865,Commission du développement durable et de l'aménagement du territoire,Développement durable,Membre,2026-06-10,2026-06-10
 PA795962,assemblee,PA795962,commission,PO420120,Commission des affaires sociales,Affaires sociales,Membre,2026-06-11,2026-09-30
 PA795962,assemblee,PA795962,commission,PO59048,"Commission des finances, de l'économie générale et du contrôle budgétaire",Finances,Membre,2026-10-01,2026-10-02
-PA795962,assemblee,PA795962,commission,PO420120,Commission des affaires sociales,Affaires sociales,Membre,2026-10-03,
+PA795962,assemblee,PA795962,commission,PO420120,Commission des affaires sociales,Affaires sociales,Membre,2026-10-03,2026-10-16
+PA795962,assemblee,PA795962,commission,PO59051,"Commission des lois constitutionnelles, de la législation et de l'administration générale de la République",Lois,Membre,2026-10-17,
 PA795962,assemblee,PA795962,commission_enquete,PO866653,Commission d’enquête sur les défaillances des pouvoirs publics face à la multiplication des plans de licenciements,CE Licenciements,Membre,2025-03-21,2025-07-09
 PA795962,assemblee,PA795962,commission_enquete,PO866653,Commission d’enquête sur les défaillances des pouvoirs publics face à la multiplication des plans de licenciements,CE Licenciements,Secrétaire,2025-03-26,2025-07-09
 PA795962,assemblee,PA795962,commission_enquete,PO872476,Commission d’enquête sur les défaillances des politiques publiques de prise en charge de la santé mentale et du handicap et les coûts de ces défaillances pour la société,CE Santé mentale,Membre,2025-07-08,2025-12-10
@@ -37839,7 +37867,8 @@ PA796106,assemblee,PA796106,commission,PO419865,Commission du développement dur
 PA796106,assemblee,PA796106,commission,PO59046,Commission de la défense nationale et des forces armées,Défense,Membre,2026-07-04,2026-10-06
 PA796106,assemblee,PA796106,commission,PO419604,Commission des affaires culturelles et de l'éducation,Affaires culturelles et éducation,Membre,2026-10-07,2026-10-07
 PA796106,assemblee,PA796106,commission,PO59046,Commission de la défense nationale et des forces armées,Défense,Membre,2026-10-08,2026-10-08
-PA796106,assemblee,PA796106,commission,PO420120,Commission des affaires sociales,Affaires sociales,Membre,2026-10-09,
+PA796106,assemblee,PA796106,commission,PO420120,Commission des affaires sociales,Affaires sociales,Membre,2026-10-09,2026-10-16
+PA796106,assemblee,PA796106,commission,PO59046,Commission de la défense nationale et des forces armées,Défense,Membre,2026-10-17,
 PA796106,assemblee,PA796106,commission_enquete,PO834941,Commission d’enquête sur le montage juridique et financier du projet d’autoroute A69,CE Autoroute A69,Membre,2024-02-14,2024-06-09
 PA796106,assemblee,PA796106,commission_enquete,PO848590,Commission d’enquête sur les manquements des politiques publiques de protection de l’enfance,CE Protection de l’enfance,Membre,2024-10-17,2025-04-01
 PA796106,assemblee,PA796106,commission_enquete,PO848590,Commission d’enquête sur les manquements des politiques publiques de protection de l’enfance,CE Protection de l’enfance,Vice-Président,2024-10-31,2025-04-01
@@ -38740,7 +38769,8 @@ PA840979,assemblee,PA840979,commission,PO419610,Commission des affaires économi
 PA840979,assemblee,PA840979,commission,PO59048,"Commission des finances, de l'économie générale et du contrôle budgétaire",Finances,Membre,2026-05-08,2026-09-30
 PA840979,assemblee,PA840979,commission,PO419610,Commission des affaires économiques,Affaires économiques,Membre,2026-10-01,2026-10-02
 PA840979,assemblee,PA840979,commission,PO59048,"Commission des finances, de l'économie générale et du contrôle budgétaire",Finances,Membre,2026-10-03,2026-10-15
-PA840979,assemblee,PA840979,commission,PO420120,Commission des affaires sociales,Affaires sociales,Membre,2026-10-16,
+PA840979,assemblee,PA840979,commission,PO420120,Commission des affaires sociales,Affaires sociales,Membre,2026-10-16,2026-10-16
+PA840979,assemblee,PA840979,commission,PO59048,"Commission des finances, de l'économie générale et du contrôle budgétaire",Finances,Membre,2026-10-17,
 PA840979,assemblee,PA840979,commission_enquete,PO872476,Commission d’enquête sur les défaillances des politiques publiques de prise en charge de la santé mentale et du handicap et les coûts de ces défaillances pour la société,CE Santé mentale,Membre,2025-07-10,2025-12-10
 PA840979,assemblee,PA840979,commission_speciale,PO849474,Commission spéciale chargée d’examiner le projet de loi de simplification de la vie économique,CS PJL simplification de la vie économique,Membre,2024-11-07,2024-11-08
 PA840979,assemblee,PA840979,groupe,PO840056,Non inscrit,NI,Député non-inscrit,2024-07-08,2024-07-18
@@ -39080,7 +39110,8 @@ PA841215,assemblee,PA841215,commission,PO419604,Commission des affaires culturel
 PA841215,assemblee,PA841215,commission,PO419865,Commission du développement durable et de l'aménagement du territoire,Développement durable,Membre,2026-05-05,2026-05-05
 PA841215,assemblee,PA841215,commission,PO419604,Commission des affaires culturelles et de l'éducation,Affaires culturelles et éducation,Membre,2026-05-06,2026-10-05
 PA841215,assemblee,PA841215,commission,PO419610,Commission des affaires économiques,Affaires économiques,Membre,2026-10-06,2026-10-06
-PA841215,assemblee,PA841215,commission,PO419604,Commission des affaires culturelles et de l'éducation,Affaires culturelles et éducation,Membre,2026-10-07,
+PA841215,assemblee,PA841215,commission,PO419604,Commission des affaires culturelles et de l'éducation,Affaires culturelles et éducation,Membre,2026-10-07,2026-10-16
+PA841215,assemblee,PA841215,commission,PO420120,Commission des affaires sociales,Affaires sociales,Membre,2026-10-17,
 PA841215,assemblee,PA841215,commission_enquete,PO848590,Commission d’enquête sur les manquements des politiques publiques de protection de l’enfance,CE Protection de l’enfance,Membre,2024-10-17,2025-04-01
 PA841215,assemblee,PA841215,commission_enquete,PO848590,Commission d’enquête sur les manquements des politiques publiques de protection de l’enfance,CE Protection de l’enfance,Secrétaire,2024-10-31,2025-04-01
 PA841215,assemblee,PA841215,commission_speciale,PO849474,Commission spéciale chargée d’examiner le projet de loi de simplification de la vie économique,CS PJL simplification de la vie économique,Membre,2024-11-07,2024-11-07
@@ -39546,7 +39577,8 @@ PA841515,assemblee,PA841515,groupe,PO845413,La France insoumise - Nouveau Front 
 PA841531,assemblee,PA841531,commission,PO59048,"Commission des finances, de l'économie générale et du contrôle budgétaire",Finances,Membre,2026-04-09,2026-09-18
 PA841531,assemblee,PA841531,commission,PO419610,Commission des affaires économiques,Affaires économiques,Membre,2026-09-19,2026-09-24
 PA841531,assemblee,PA841531,commission,PO59048,"Commission des finances, de l'économie générale et du contrôle budgétaire",Finances,Membre,2026-09-25,2026-10-15
-PA841531,assemblee,PA841531,commission,PO420120,Commission des affaires sociales,Affaires sociales,Membre,2026-10-16,
+PA841531,assemblee,PA841531,commission,PO420120,Commission des affaires sociales,Affaires sociales,Membre,2026-10-16,2026-10-16
+PA841531,assemblee,PA841531,commission,PO59048,"Commission des finances, de l'économie générale et du contrôle budgétaire",Finances,Membre,2026-10-17,
 PA841531,assemblee,PA841531,commission_enquete,PO881988,"Commission d'enquête sur les causes et les conséquences de l'augmentation de la pauvreté, notamment pour les travailleurs séniors et les personnes âgées, et les manquements des politiques publiques pour y faire face",CE Augmentation de la pauvreté,Membre,2026-05-26,
 PA841531,assemblee,PA841531,groupe,PO840056,Non inscrit,NI,Députée non-inscrite,2026-04-08,2026-04-08
 PA841531,assemblee,PA841531,groupe,PO845413,La France insoumise - Nouveau Front Populaire,LFI-NFP,Membre du,2026-04-09,
@@ -39758,7 +39790,8 @@ PA841657,assemblee,PA841657,commission,PO59051,"Commission des lois constitution
 PA841657,assemblee,PA841657,commission,PO420120,Commission des affaires sociales,Affaires sociales,Membre,2026-07-16,2026-09-28
 PA841657,assemblee,PA841657,commission,PO419610,Commission des affaires économiques,Affaires économiques,Membre,2026-09-29,2026-09-29
 PA841657,assemblee,PA841657,commission,PO420120,Commission des affaires sociales,Affaires sociales,Membre,2026-09-30,2026-10-15
-PA841657,assemblee,PA841657,commission,PO59048,"Commission des finances, de l'économie générale et du contrôle budgétaire",Finances,Membre,2026-10-16,
+PA841657,assemblee,PA841657,commission,PO59048,"Commission des finances, de l'économie générale et du contrôle budgétaire",Finances,Membre,2026-10-16,2026-10-16
+PA841657,assemblee,PA841657,commission,PO419604,Commission des affaires culturelles et de l'éducation,Affaires culturelles et éducation,Membre,2026-10-17,
 PA841657,assemblee,PA841657,commission_enquete,PO872476,Commission d’enquête sur les défaillances des politiques publiques de prise en charge de la santé mentale et du handicap et les coûts de ces défaillances pour la société,CE Santé mentale,Membre,2025-07-08,2025-12-10
 PA841657,assemblee,PA841657,commission_enquete,PO881988,"Commission d'enquête sur les causes et les conséquences de l'augmentation de la pauvreté, notamment pour les travailleurs séniors et les personnes âgées, et les manquements des politiques publiques pour y faire face",CE Augmentation de la pauvreté,Membre,2026-05-26,
 PA841657,assemblee,PA841657,commission_speciale,PO884839,Commission spéciale chargée d'examiner la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants et la proposition de loi organique visant à adapter l'autorité judiciaire à la lutte contre les violences sexuelles et intrafamiliales,CS Réponse intégrale,Membre,2026-07-24,2026-09-15
@@ -40499,7 +40532,8 @@ PA842037,assemblee,PA842037,commission,PO419865,Commission du développement dur
 PA842037,assemblee,PA842037,commission,PO59048,"Commission des finances, de l'économie générale et du contrôle budgétaire",Finances,Membre,2026-06-24,2026-06-24
 PA842037,assemblee,PA842037,commission,PO419865,Commission du développement durable et de l'aménagement du territoire,Développement durable,Membre,2026-06-25,2026-10-06
 PA842037,assemblee,PA842037,commission,PO59048,"Commission des finances, de l'économie générale et du contrôle budgétaire",Finances,Membre,2026-10-07,2026-10-07
-PA842037,assemblee,PA842037,commission,PO419865,Commission du développement durable et de l'aménagement du territoire,Développement durable,Membre,2026-10-08,
+PA842037,assemblee,PA842037,commission,PO419865,Commission du développement durable et de l'aménagement du territoire,Développement durable,Membre,2026-10-08,2026-10-16
+PA842037,assemblee,PA842037,commission,PO420120,Commission des affaires sociales,Affaires sociales,Membre,2026-10-17,
 PA842037,assemblee,PA842037,commission_enquete,PO877008,Commission d'enquête visant à lever les incertitudes budgétaires en matière de sécurité sociale,CE Sécurité sociale,Membre,2025-12-17,2026-06-02
 PA842037,assemblee,PA842037,delegation,PO744127,Délégation aux collectivités territoriales et à la décentralisation,Délégation aux collectivités territoriales et à la décentralisation,Membre,2024-09-20,
 PA842037,assemblee,PA842037,groupe,PO840056,Non inscrit,NI,Député non-inscrit,2024-07-08,2024-07-18
